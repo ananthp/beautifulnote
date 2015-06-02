@@ -1,0 +1,41 @@
+---
+layout: post
+status: publish
+published: true
+title: Varnams, 2 speeds
+author:
+  display_name: ananth
+  login: ananth
+  email: ananth@beautifulnote.com
+  url: ''
+author_login: ananth
+author_email: ananth@beautifulnote.com
+excerpt: ! 'mp3 download: Adi Thala Varnams, swaram sung by Ananth, in two speeds.'
+wordpress_id: 69
+wordpress_url: http://beautifulnote.com/blog/?p=69
+date: !binary |-
+  MjAxMC0wNC0wOCAwODo0ODo1MSArMDUzMA==
+date_gmt: !binary |-
+  MjAxMC0wNC0wOCAwMzoxODo1MSArMDUzMA==
+categories:
+- music
+tags:
+- music
+- audio
+- download
+- carnatic
+comments: []
+---
+<p>As part of the preparations for govt music examinations, I've recorded some Adi Thala varnams - Kamboji, Nattakuranji, Kalyani, Sriragam, Sankarabaranam etc..</p>
+<p>Here's the first installment</p>
+<h3>Taruni (Varnam) - Kamboji - Adi - Fiddle Ponnuswamy<&#47;h3><br />
+[podcast]http:&#47;&#47;beautifulnote.com&#47;download&#47;varnams&#47;kamboji-tharuni-ananth.mp3[&#47;podcast]</p>
+<p>download:<a title="Taruni (Varnam) - Kamboji - Adi" href="http:&#47;&#47;beautifulnote.com&#47;download&#47;varnams&#47;kamboji-tharuni-ananth.mp3" target="_blank"> mp3,~10MB<&#47;a></p>
+<p><a id="more"></a><a id="more-69"></a>Please note:</p>
+<ul>
+<li>Both Purvangam and Utharangam (first and remaining parts of varnam) are performed in <span style="text-decoration: underline;">2 speeds<&#47;span>.<&#47;li>
+<li>Doesn't include Sahityam. Only <em>Swaras<&#47;em> are performed.<&#47;li>
+<li>Sung by me, Ananth. I'm learning these varnams on violin. Please bear with me and point out if there are any mistakes.<&#47;li>
+<li><span>&copy;2010 Ananth, beautifulnote.com,<a href="http:&#47;&#47;creativecommons.org&#47;licenses&#47;by-nc-sa&#47;2.5&#47;in&#47;"> Licensed<&#47;a> under Creative Commons for Non-Commercial use.<br />
+<&#47;span><&#47;li><br />
+<&#47;ul></p>

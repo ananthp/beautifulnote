@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: ! '#1'
+author:
+  display_name: ananth
+  login: ananth
+  email: ananth@beautifulnote.com
+  url: ''
+author_login: ananth
+author_email: ananth@beautifulnote.com
+wordpress_id: 397
+wordpress_url: http://beautifulnote.com/blog/?p=397
+date: !binary |-
+  MjAxNC0xMi0xNSAxMjo0NTo0OCArMDUzMA==
+date_gmt: !binary |-
+  MjAxNC0xMi0xNSAwNzoxNTo0OCArMDUzMA==
+categories:
+- music
+tags:
+- music
+- audio
+- guitar
+- improvisational
+- original_compositions
+comments: []
+---
+<p>[soundcloud]https:&#47;&#47;soundcloud.com&#47;ananth-pattabi&#47;no-1[&#47;soundcloud]</p>

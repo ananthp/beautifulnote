@@ -1,0 +1,22 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: ananth
+  login: ananth
+  email: ananth@beautifulnote.com
+  url: ''
+author_login: ananth
+author_email: ananth@beautifulnote.com
+wordpress_id: 93
+wordpress_url: http://beautifulnote.com/blog/?p=93
+date: !binary |-
+  MjAxMC0wNy0wNCAxODoxNjowMyArMDUzMA==
+date_gmt: !binary |-
+  MjAxMC0wNy0wNCAxMjo0NjowMyArMDUzMA==
+categories: []
+tags: []
+comments: []
+---
+

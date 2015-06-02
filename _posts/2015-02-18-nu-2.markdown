@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: ! '#2'
+author:
+  display_name: ananth
+  login: ananth
+  email: ananth@beautifulnote.com
+  url: ''
+author_login: ananth
+author_email: ananth@beautifulnote.com
+wordpress_id: 405
+wordpress_url: http://beautifulnote.com/blog/?p=405
+date: !binary |-
+  MjAxNS0wMi0xOCAxNDoxNDozNSArMDUzMA==
+date_gmt: !binary |-
+  MjAxNS0wMi0xOCAwODo0NDozNSArMDUzMA==
+categories:
+- music
+tags:
+- music
+- download
+- solo
+- improvisational
+- original_compositions
+comments: []
+---
+<p>[soundcloud]https:&#47;&#47;soundcloud.com&#47;ananth-pattabi&#47;no-2[&#47;soundcloud]</p>
