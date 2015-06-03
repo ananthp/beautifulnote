@@ -29,7 +29,7 @@ $on-laptop:        800px;
 
 // Customized
 
-$important-text-color: #21C9FF;
+// $important-text-color: #21C9FF; // Didn't work well. Gets confused with links
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
@@ -55,5 +55,4 @@ $important-text-color: #21C9FF;
 
 strong {
   font-weight: bold;
-  color: $important-text-color;
 }
