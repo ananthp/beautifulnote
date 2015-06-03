@@ -8,6 +8,10 @@ title: Staff Notation/Score for Dharbar Varnam
 - Score Transcribed by Ananth. March 2010
 - License: Creative Commons - Free for Non-Commercial, Share-alike use.  
 
+![Dharbar Varnam Score - Page 1]({{ site.url }}/images/ananth-dharbar_varnam_page1.png "Page 1")
+<!--more-->
+![Dharbar Varnam Score - Page 2]({{ site.url }}/images/ananth-dharbar_varnam_page2.png "Page 2")
+
 ##Download 
 
 - <a href="http://imslp.org/wiki/Chalamela_Varnam_-_Dharbar_Ragam,_Adi_Thalam_%28Thiruvottriyur,_Thyagayyar%29" target="_blank">Dharbar Varnam Score (pdf)</a> from International Music Scores Library (IMSLP)  
