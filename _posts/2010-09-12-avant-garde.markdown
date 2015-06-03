@@ -29,6 +29,9 @@ tags:
 comments: []
 ---
 <p>Here's some new music, Composed and Performed by Ananth.</p>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/8043164&amp;color=333333&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 <p><a href="http:&#47;&#47;beautifulnote.com&#47;blog&#47;wp-content&#47;uploads&#47;2010&#47;09&#47;avatgardetuesday.png" rel="lightbox" ><img class="alignnone size-full wp-image-207" title="avatgardetuesday" src="http:&#47;&#47;beautifulnote.com&#47;blog&#47;wp-content&#47;uploads&#47;2010&#47;09&#47;avatgardetuesday.png" alt="" width="308" height="392" &#47;><&#47;a></p>
 <p>[soundcloud url="http:&#47;&#47;api.soundcloud.com&#47;tracks&#47;8043164" params="show_comments=true&amp;auto_play=false&amp;color=6b733c" width="100%" height="81" ]</p>
 <h3><strong>About this work:<&#47;strong><&#47;h3><br />

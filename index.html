@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+<!--  <h1 class="page-heading">Posts</h1> -->
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -15,6 +15,14 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
+
+      {{ post.excerpt }}
+
+      <a href="{{ post.url | prepend: site.baseurl }}">--more--</a>
+
+      <!-- just to add a bit of space. Any better way? -->
+      <p> </p>
+
     {% endfor %}
   </ul>
 
