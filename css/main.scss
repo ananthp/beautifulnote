@@ -27,7 +27,9 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+// Customized
 
+$important-text-color: #21C9FF;
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
@@ -50,3 +52,8 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+strong {
+  font-weight: bold;
+  color: $important-text-color;
+}
