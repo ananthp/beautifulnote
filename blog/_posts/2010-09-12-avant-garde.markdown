@@ -25,11 +25,8 @@ Series of improvisations on guitar over a syncopated, chromatic bass-line. Jazzy
 
 ### Score/Sheetmusic
 
-![](http://beautifulnote.com/blog/wp-content/uploads/2010/09/ananth-avantgarde_tuesday-bass_preview.png "ananth-avantgarde_tuesday-bass_preview")\</a\>
+![]({{site.url}}/images//ananth-avantgarde_tuesday-bass_preview.png "ananth-avantgarde_tuesday-bass_preview")
 
-[Download Sheetmusic of Avant-Garde Tuesday\</a\>\
- This work is licensed under a Creative Commons
-Attribution-NonCommercial-ShareAlike 3.0
-License.](http://imslp.org/wiki/An_Avant-Garde_Tuesday_%28Pattabiraman,_Ananth%29)![Creative
-Commons
-License](http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png)\</a\>
+[Download Sheetmusic of Avant-Garde Tuesday](http://imslp.org/wiki/An_Avant-Garde_Tuesday_%28Pattabiraman,_Ananth%29)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
