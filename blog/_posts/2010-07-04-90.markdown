@@ -1,24 +1,5 @@
 ---
-layout: nav_menu_item
-status: publish
-published: true
-author:
-  display_name: ananth
-  login: ananth
-  email: ananth@beautifulnote.com
-  url: ''
-author_login: ananth
-author_email: ananth@beautifulnote.com
-wordpress_id: 90
-wordpress_url: http://beautifulnote.com/blog/?p=90
-date: !binary |-
-  MjAxMC0wNy0wNCAxODoxNjowMyArMDUzMA==
-date_gmt: !binary |-
-  MjAxMC0wNy0wNCAxMjo0NjowMyArMDUzMA==
-categories: []
-tags: []
-comments: []
+layout: post
 ---
-<p>BeautifulNote.com is a music production company with the mission to create and promote beautiful music. We believe music can dissolve geographical, cultural and intellectual boundaries.</p>
-<p>We value sharing and collaboration in music. Checkout this page for some great music and to learn more about this site.</p>
-<p>[TINY-CONTACT-FORM]</p>
+BeautifulNote.com is a music production company with the mission to create and promote beautiful music. We believe music can dissolve geographical, cultural and intellectual boundaries.
+We value sharing and collaboration in music. Checkout this page for some great music and to learn more about this site.
