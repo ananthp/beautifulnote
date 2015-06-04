@@ -93,15 +93,24 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+      /* color: darken($brand-color, 15%); */ /*Do not darken visited links*/
     }
 
     &:hover {
         color: $text-color;
-        text-decoration: underline;
+        font-weight: bold;
     }
 }
 
+// Only links in the content text should have underline, not the ones in Headings etc
+p,
+ul,
+li {
+
+  > a {
+    text-decoration: underline;
+  }
+}
 
 
 /**

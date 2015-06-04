@@ -9,19 +9,17 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+      <div>
+      <span width=30%>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+      </span>
+        <span class="post-meta" width=40%>{{ post.date | date: "%b %-d, %Y" }}</span>
+      </div>
+        {{ post.excerpt }}
+        <div class="post-meta"><a href="{{ post.url | prepend: site.baseurl }}">--more--</a></div>
       </li>
-
-      {{ post.excerpt }}
-
-      <a href="{{ post.url | prepend: site.baseurl }}">--more--</a>
-
-      <!-- just to add a bit of space. Any better way? -->
-      <p> </p>
 
     {% endfor %}
   </ul>

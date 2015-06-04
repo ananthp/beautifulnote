@@ -11,15 +11,15 @@ $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
-
-$text-color:       #fff;
-$background-color: #070707;
-$brand-color:      #2a7ae2;
+$spacing-unit:     1em;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+
+$text-color:       #fff;
+$background-color: $grey-color-dark;
+$brand-color:      #fff;
 
 // Width of the content area
 $content-width:    800px;
@@ -28,6 +28,8 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 // Customized
+
+$post-list-background: darken($background-color, 10%);
 
 // $important-text-color: #21C9FF; // Didn't work well. Gets confused with links
 
