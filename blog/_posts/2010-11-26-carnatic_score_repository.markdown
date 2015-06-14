@@ -10,7 +10,7 @@ Repository]({{site.url}}/images/kalaharana-snippet.png "Kalaharanamelara - Tyaga
 
 ### Download from Carnatic Scores Repository:
 
-- <http://ananthp.github.io/carnatic_scores>
+- <http://ananthp.github.io/carnatic_scores/>
 - <https://github.com/ananthp/carnatic_scores>
 
  If you need the score, you can download the pdf, copy/print/share it.  If you like to make some changes/corrections in the score, download the svg files, and edit them in Inkscape.
