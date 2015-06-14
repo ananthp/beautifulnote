@@ -3,7 +3,7 @@ title: BeautifulNote
 # email: admin@beautifulnote.com
 description: > # this means to ignore newlines until "baseurl:"
      BeautifulNote.com is a music production company with the mission to create and promote beautiful music. We believe music can dissolve geographical, cultural and intellectual boundaries. We value sharing and collaboration in music.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 twitter_username: ananth
 github_username:  ananthp
 
