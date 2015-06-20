@@ -12,7 +12,7 @@ markdown: kramdown
 
 # Custom
 gems:
-  jekyll-redirect-from
+  - jekyll-redirect-from
 
 excerpt_seperator: <!--more-->
 
