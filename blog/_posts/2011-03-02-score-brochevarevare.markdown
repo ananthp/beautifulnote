@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Score: Brochevarevare (Kriti), Sriranjani, Adi - Tyagaraja"
+redirect_from: "/blog/2011/03/score-brochevarevare-kriti-sriranjani-adi-tyagaraja/"
 ---
 
 Another score graduated from my [Carnatic Scores Repository](http://ananthp.github.io/carnatic_scores/) - Saint Tyagaraja's kriti *Brochevarevare* in Sriranjani Ragam, Adi Talam

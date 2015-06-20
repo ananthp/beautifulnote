@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Listening/Learning Music: Some excellent Music Theory resources (Scores & Audio)"
+redirect_from: "/blog/2011/02/listeninglearning-music-some-excellent-music-theory-resources-scores-audio/"
 ---
-
 A typical page in a music theory/appreciation book looks like this -
 
 !["Introduction To Music Appreciation" - Miller]({{site.url}}/images/sample_intro-to-music-appreciation_miller.jpg)

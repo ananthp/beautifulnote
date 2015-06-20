@@ -1,8 +1,8 @@
 ---
 layout: post 
 title: Varnam Tables 
+redirect_from: "/blog/2010/12/varnam-tables/"
 ---
-
 Added two varnam tables. 8 Adi Thala Varnams (from year 2, certificate
 course, AP govt. music colleges).
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Suggest a name for this music
+redirect_from: "/blog/2010/12/16_music_sketch/"
 ---
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/8109191&amp;color=ff9900&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

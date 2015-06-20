@@ -1,6 +1,7 @@
 --- 
 layout: post 
 title: Carnatic Scores Repository 
+redirect_from: "/blog/2010/11/carnatic_score_repository/"
 --- 
 
 I've created a repository for Carnatic Music Scores. One can download Carnatic Music Notations/Scores for Varnams, Kritis along with the source file/document which generated the score. At present the repository has a few completed scores and a few more almost ready scores.

@@ -1,6 +1,7 @@
 --- 
 layout: post 
 title: An Avant-Garde Tuesday 
+redirect_from: "/blog/2010/09/avant-garde/"
 --- 
 
 **An Avant-Garde Tuesday**, Composed and Performed by Ananth.
