@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+redirect_from: "/blog/about/"
 ---
 Hi, my name is Ananth and I'm a music composer.
 
