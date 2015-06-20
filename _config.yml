@@ -11,6 +11,8 @@ github_username:  ananthp
 markdown: kramdown
 
 # Custom
+gems:
+  jekyll-redirect-from
 
 excerpt_seperator: <!--more-->
 

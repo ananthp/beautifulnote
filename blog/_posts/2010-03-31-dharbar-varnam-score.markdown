@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Staff Notation/Score for Dharbar Varnam
+redirect_from: "/blog/2010/03/dharbar-varnam-score/"
 ---
 
 - "Chalamela" - Varnam

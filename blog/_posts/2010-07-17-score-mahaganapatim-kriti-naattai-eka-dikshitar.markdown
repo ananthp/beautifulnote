@@ -1,6 +1,7 @@
 ---
 layout: post 
 title:  "Score: Mahaganapatim (Kriti) – Naattai – Eka – Dikshitar"
+redirect_from: "/blog/2010/07/score-mahaganapatim-kriti-naattai-eka-dikshitar/"
 ---
 
 ![]({{site.url}}/images/mahaganapathim-snippet.png "mahaganapathim-snippet")
