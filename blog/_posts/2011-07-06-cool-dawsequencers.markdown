@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cool DAWs/Sequencers
-redirect_from: "http://beautifulnote.com/blog/2011/07/cool-dawsequencers/"
+redirect_from: "/blog/2011/07/cool-dawsequencers/"
 ---
 
 Reaper is my main Digital-Audio-Workstation. It's just awesome!
