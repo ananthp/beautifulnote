@@ -1,28 +1,33 @@
 ---
-layout: default
+layout: bootstrap-frontpage
 redirect_from: "/blog/"
 ---
 
-<div class="home">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-      <div>
-      <span width=30%>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </span>
-        <span class="post-meta" width=40%>{{ post.date | date: "%b %-d, %Y" }}</span>
-      </div>
-        {{ post.excerpt }}
-        <div class="post-meta"><a href="{{ post.url | prepend: site.baseurl }}">more...</a></div>
-      </li>
+{% for post in site.posts %}
+<div class="row">
+  <div class="col-xs-12">
+    <h2>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+  </div>
 
-    {% endfor %}
-  </ul>
+  <div class="col-xs-12">
+    <p>{{ post.date | date: "%b %-d, %Y" }}</p>
+  </div>
+</div> <!--row-->
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<div class="row">
+  <div class="col-xs-12">
+    {{ post.excerpt }}
+  </div>
+  <div class="col-xs-12">
+    <p class="text-right"><a href="{{ post.url | prepend: site.baseurl }}">more...</a></p>
+  </div>
 
 </div>
+{% endfor %}
+
+<!-- This should come as a footer or something -->
+<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
