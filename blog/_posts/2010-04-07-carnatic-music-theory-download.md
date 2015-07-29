@@ -8,16 +8,18 @@ syllabus: /download/syllabus-Telugu--carnatic_music--certificate_and_diploma--al
 ---
 
 
-Music Theory notes for Carnatic Music at Government Music colleges, Andhra Pradesh/Telangana -
+<div class="jumbotron">
+<p>Music Theory notes for Carnatic Music at Government Music colleges, Andhra Pradesh/Telangana</p>
+<p> <a class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year1}}">Carnatic Music Theory - Year I</a> (pdf, ~110 KB)</p>
+<p> <a class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year2}}">Year II </a> (pdf, ~217 KB)</p>
 
-* Download: [Carnatic Music Theory - Year I (pdf, ~110 KB)]( {{ site.url }}/{{ page.theory-year1}})
+</div>
 
-* [Year II (pdf, ~220 KB)]( {{ site.url }}/{{ page.theory-year2}})
-
-* [Detailed Syllabus (in Telugu)]( {{ site.url }}/{{ page.syllabus}}) - Certificate and Diploma Courses - all Years - (pdf, ~3 MB)
 <!--more-->
 
-Note: It's from a copy of official syllabus, scanned & reformatted, however, I can't make any promises that this is the current and official syllabus. Shared in public interest.  
+[Detailed Syllabus (in Telugu)]( {{ site.url }}/{{ page.syllabus}}) - Certificate and Diploma Courses - all Years - (pdf, ~3 MB)
+
+<div class="alert alert-warning">Note: It's from a copy of official syllabus, scanned & reformatted, however, I can't make any promises that this is the current and official syllabus. Shared in public interest.  </div>
 
 **UPDATE - Oct 5, 2012** : Uploaded Detailed Syllabus in Telugu.
 
@@ -27,10 +29,10 @@ Note: It's from a copy of official syllabus, scanned & reformatted, however, I c
 
 **UPDATE - Apr 9, 2010** : Corrected some mistakes in Year II.  (Vasantha - Avarohanam corrected, Hindolam is Audava ragam, Some notes about Thana and Padha varnams included.)
 
-Notes:
+### Notes:
 
-I've completed my certificate course. I used a different strategy for my notes for year 3 and 4; I couldn't share the notes here. 
+<div class="alert alert-info">I've completed my certificate course. I used a different strategy for my notes for year 3 and 4; I couldn't share the notes here. </div>
 
-The official textbook prepared by Sri. Akella Mallikarjuna Sharma, which contains Varnams, Kritis etc, for the whole 6 year course, is now available in English too. (Practical part only)
+<div class="alert alert-info">The official textbook prepared by Sri. Akella Mallikarjuna Sharma, which contains Varnams, Kritis etc, for the whole 6 year course, is now available in English too. (Practical part only)</div>
 
 
