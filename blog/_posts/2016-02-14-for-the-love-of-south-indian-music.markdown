@@ -5,7 +5,7 @@ title: For the love of South Indian Music
 
 14th February is Musicologist Professor P. Sambamurthy's birthday. I started reading his treatise, *South Indian Music (6 volumes)*, when I got more than slightly interested in Carnatic music. I can't say I liked it very much at first. But I knew it was a very important resource and kept coming back to it often.
 
-<img class="img-responsive> alt="Professor Sambamurthy's books" src="{{ site.url }}/images/prof-sambamurthy-books.jpg" />
+<img class="img-responsive" alt="Professor Sambamurthy's books" src="{{ site.url }}/images/prof-sambamurthy-books.jpg" />
 
 At first, it didn't feel like a crisp, concise theory book. I thought it had a lot of fluff and unnecessary boasting (about the system of music). I began appreciating the quality of the contents only after reading a few more *theory* books. Some of them had passages literally copied from Sambamoorthy's, while others didn't have much of theoretical value IMHO (particularly the ones began with "Carnatic music originated from Shiva's head")
 
