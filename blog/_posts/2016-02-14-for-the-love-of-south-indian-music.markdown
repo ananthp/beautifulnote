@@ -13,11 +13,11 @@ India was still under British rule when he was born and grew up. He probably had
 
 Actually the comparative attitude in Karnatic music related texts was quite common since well before Sambamurthy's time. A.M. Chinnaswamy Mudaliyar's *Oriental Music in European Notation* (published in 1893)
 
-<img class="img-responsive" alt="A. M. Chinnaswamy Mudaliyar - Oriental Music in European Notation - Title" src="{{ site.url }}/images/amc-oriental-music-title.png"></img> 
+<img class="img-responsive" alt="A. M. Chinnaswamy Mudaliyar - Oriental Music in European Notation - Title" src="{{ site.url }}/images/amc-oriental-music-title.png" />
 
 had a chapter titled "Why Do Europeans Dislike Oriental Music."
 
-<img class="img-responsive" alt="Why do Europeans dislike oriental music" src="{{ site.url }}/images/amc-why-do-europeans-dislike-oriental-music.png"></img>
+<img class="img-responsive" alt="Why do Europeans dislike oriental music" src="{{ site.url }}/images/amc-why-do-europeans-dislike-oriental-music.png" />
 
 One shouldn't think I'm underestimating Prof. Sambamurthy's contribution. Actually I admire his passion for Carnatic music. His texts on music theory have become standard references to both beginners and pros, his biographies of composers and performers with rare pictures are treasures. He loved carnatic music and had a positive attitude towards it. 
 
