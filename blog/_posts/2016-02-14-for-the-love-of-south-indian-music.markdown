@@ -15,7 +15,7 @@ Actually the comparative attitude in Karnatic music related texts was quite comm
 
 ![A. M. Chinnaswamy Mudaliyar - Oriental Music in European Notation - Title]( {{ site.url }}/images/amc-oriental-music-title.png "Title")
 
-![Why do Europeans dislike oriental music]( {{ site.url }}/images/amc-oriental-music-title.png "Why do Europeans...")
+![Why do Europeans dislike oriental music]( {{ site.url }}/images/amc-why-do-europeans-dislike-oriental-music.png "Why do Europeans...")
 
 One shouldn't think I'm underestimating Prof. Sambamurthy's contribution. Actually I admire his passion for Carnatic music. His texts on music theory have become standard references to both beginners and pros, his biographies of composers and performers with rare pictures are treasures. He loved carnatic music and had a positive attitude towards it. 
 
