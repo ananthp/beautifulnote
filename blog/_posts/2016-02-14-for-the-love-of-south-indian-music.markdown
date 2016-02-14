@@ -11,11 +11,10 @@ In Sambamurthy's writings, here and there, I miss the neutral tone of a musician
 
 India was still under British rule when he was born and grew up. He probably had to really get into some of those arguments. He may have learnt Western flute in Europe. That further confirms my doubt.
 
-Actually the comparative attitude in Karnatic music related texts was quite common since well before Sambamurthy's time. A.M. Chinnaswamy Mudaliyar's *Oriental Music in European Notation* (published in 1893)
+Actually the comparative attitude in Karnatic music related texts was quite common since well before Sambamurthy's time. A.M. Chinnaswamy Mudaliyar's *Oriental Music in European Notation* (published in 1893) had a chapter titled "Why Do Europeans Dislike Oriental Music."
 
 <img class="img-responsive" alt="A. M. Chinnaswamy Mudaliyar - Oriental Music in European Notation - Title" src="{{ site.url }}/images/amc-oriental-music-title.png" />
 
-had a chapter titled "Why Do Europeans Dislike Oriental Music."
 
 <img class="img-responsive" alt="Why do Europeans dislike oriental music" src="{{ site.url }}/images/amc-why-do-europeans-dislike-oriental-music.png" />
 
