@@ -1,6 +1,6 @@
 ---
 layout: post
-title: For the love of Carnatic Music
+title: For the love of South Indian Music
 ---
 
 14th February is Musicologist Professor P. Sambamurthy's birthday. I started reading his treatise, *South Indian Music (6 volumes)*, when I got more than slightly interested in Carnatic music. I can't say I liked it very much at first. But I knew it was a very important resource and kept coming back to it often.
