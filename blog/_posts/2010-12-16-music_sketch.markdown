@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Suggest a name for this music
+author: ananth
 redirect_from: "/blog/2010/12/16_music_sketch/"
 ---
 

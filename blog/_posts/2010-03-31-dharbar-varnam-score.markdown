@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Staff Notation/Score for Dharbar Varnam
+author: Ananth Pattabiraman
 redirect_from: "/blog/2010/03/dharbar-varnam-score/"
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: For the love of South Indian Music
+author: Ananth Pattabirman
+description: Write up on Professor P Sambamurthy's contributions to Carnatic music, and my very personal opinion about his writing style.
 ---
 
 14th February is Musicologist Professor P. Sambamurthy's birthday. I started reading his treatise, *South Indian Music (6 volumes)*, when I got more than slightly interested in Carnatic music. I can't say I liked it very much at first. But I knew it was a very important resource and kept coming back to it often.

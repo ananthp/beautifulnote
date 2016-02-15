@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Ananth Pattabiraman
 title:  "Listening/Learning Music: Some excellent Music Theory resources (Scores & Audio)"
 redirect_from: "/blog/2011/02/listeninglearning-music-some-excellent-music-theory-resources-scores-audio/"
 ---

@@ -1,6 +1,8 @@
 --- 
 layout: post 
+author: Ananth Pattabiraman
 title: Carnatic Scores Repository 
+image: "{{site.url}}/images/kalaharana-snippet.png"
 redirect_from: "/blog/2010/11/carnatic_score_repository/"
 --- 
 

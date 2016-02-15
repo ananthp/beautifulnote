@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Happy Birthday Avantgarde Tuesday!
+author: Ananth
 redirect_from: "/blog/2011/08/happy-birthday-avantgarde-tuesday/"
 ---
 

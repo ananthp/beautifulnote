@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cool DAWs/Sequencers
+author: Ananth Pattabiraman
 redirect_from: "/blog/2011/07/cool-dawsequencers/"
 ---
 

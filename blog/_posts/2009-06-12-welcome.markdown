@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcomes to BeautifulNote.com
+author: Ananth Pattabiraman
 redirect_from: "/blog/2009/06/welcome/"
 ---
 Warm welcomes to BeautifulNote.com. Here you can -

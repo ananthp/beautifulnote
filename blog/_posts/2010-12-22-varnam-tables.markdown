@@ -1,6 +1,7 @@
 ---
 layout: post 
 title: Varnam Tables 
+author: Ananth Pattabiraman
 redirect_from: "/blog/2010/12/varnam-tables/"
 ---
 Added two varnam tables. 8 Adi Thala Varnams (from year 2, certificate

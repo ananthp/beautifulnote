@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Score: Brochevarevare (Kriti), Sriranjani, Adi - Tyagaraja"
+description: "Music score for the Telugu kriti in Sriranjani Ragam. Traditional carnatic notation, written in English"
+author: Ananth Pattabiraman
+image: "{{ site.url }}/images/sample-brochevarevare.png"
 redirect_from: "/blog/2011/03/score-brochevarevare-kriti-sriranjani-adi-tyagaraja/"
 ---
 

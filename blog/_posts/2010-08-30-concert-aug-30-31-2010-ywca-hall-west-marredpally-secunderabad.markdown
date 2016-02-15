@@ -1,5 +1,6 @@
 --- 
 layout: post 
+author: Ananth Pattabiraman
 title: "Concert: Aug 30 & 31, 2010 YWCA Hall, West-Marredpally, Secunderabad"
 redirect_from: "/blog/2010/08/concert-aug-30-31-2010-ywca-hall-west-marredpally-secunderabad/"
 ---
