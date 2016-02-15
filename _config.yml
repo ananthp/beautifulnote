@@ -7,6 +7,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://beautifulnote.com"
 twitter_username: ananth
 github_username:  ananthp
+twitter:
+  username: ananth
 
 # Build settings
 markdown: kramdown
@@ -14,6 +16,7 @@ markdown: kramdown
 # Custom
 gems:
   - jekyll-redirect-from
+  - jekyll-seo-tag
 
 excerpt_seperator: <!--more-->
 
