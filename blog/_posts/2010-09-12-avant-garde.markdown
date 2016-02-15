@@ -29,7 +29,7 @@ Series of improvisations on guitar over a syncopated, chromatic bass-line. Jazzy
 
 ### Score/Sheetmusic
 
-![]({{site.url}}/images//ananth-avantgarde_tuesday-bass_preview.png "ananth-avantgarde_tuesday-bass_preview")
+<img class="img-responsive" src="{{site.url}}/images//ananth-avantgarde_tuesday-bass_preview.png" alt="Ananth - Avantgarde-Tuesday Bass preview" />
 
 [Download Sheetmusic of Avant-Garde Tuesday](http://imslp.org/wiki/An_Avant-Garde_Tuesday_%28Pattabiraman,_Ananth%29)
 

@@ -7,7 +7,7 @@ image: "{{site.url}}/images/mahaganapathim-snippet.png"
 redirect_from: "/blog/2010/07/score-mahaganapatim-kriti-naattai-eka-dikshitar/"
 ---
 
-![]({{site.url}}/images/mahaganapathim-snippet.png "mahaganapathim-snippet")
+<img class="img-responsive" src="{{site.url}}/images/mahaganapathim-snippet.png" alt="Mahaganapathim music score snippet" />
 
 Download Mahaganapathim Score PDF:
 

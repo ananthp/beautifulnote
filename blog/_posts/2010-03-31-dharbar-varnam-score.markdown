@@ -10,9 +10,8 @@ redirect_from: "/blog/2010/03/dharbar-varnam-score/"
 - Score Transcribed by Ananth. March 2010
 - License: Creative Commons - Free for Non-Commercial, Share-alike use.  
 
-![Dharbar Varnam Score - Page 1]({{ site.url }}/images/ananth-dharbar_varnam_page1.png "Page 1")
-<!--more-->
-![Dharbar Varnam Score - Page 2]({{ site.url }}/images/ananth-dharbar_varnam_page2.png "Page 2")
+<img class="img-responsive" alt="Dharbar Varnam Score - Page 1" src="{{ site.url }}/images/ananth-dharbar_varnam_page1.png" />
+<img class="img-responsive" alt="Dharbar Varnam Score - Page 2" src="{{ site.url }}/images/ananth-dharbar_varnam_page2.png" />
 
 ##Download 
 

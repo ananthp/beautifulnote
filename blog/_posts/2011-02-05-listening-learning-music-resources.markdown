@@ -6,7 +6,7 @@ redirect_from: "/blog/2011/02/listeninglearning-music-some-excellent-music-theor
 ---
 A typical page in a music theory/appreciation book looks like this -
 
-!["Introduction To Music Appreciation" - Miller]({{site.url}}/images/sample_intro-to-music-appreciation_miller.jpg)
+<img class="img-responsive" alt="Introduction To Music Appreciation - Miller" src="{{site.url}}/images/sample_intro-to-music-appreciation_miller.jpg" />
 
 **Problem**: It's difficult to go through the musical examples.  One must look for the recordings, or try to play them on an instrument (or sing). In some books, musical examples are printed in a separate section and referred through out the book (Refer: Ex. 1...). This makes reading the book unnecessarily complicated while the material discussed itself may not be that difficult.
 
@@ -18,13 +18,14 @@ Here are some fantastic resources, all **Free!**, both for listeners and music s
 
 *Sound Reasoning* is a web-based, introductory music appreciation course. It offers a new approach to music appreciation for adults, focusing on style-independent concepts.  Short-and-sweet descriptions and lots of musical examples ranging from Gregorian chants to contemporary music. A typical page in the course looks like this.
  
- ![cnx.org: Sound Reasoning]({{site.url}}/images/screenshot-sound_reasoning.png) Sound Reasoning, by Anthony Brandt
+<img class="img-responsive" src="{{site.url}}/images/screenshot-sound_reasoning.png" alt="cnx.org: Sound Reasoning, by Anthony Brandt" />
 
  ### For Music Students
 
  San Francisco Conservatory of Music This site has excellent supplementary materials for Harmony and Analysis. The school suggests Aldwell-Schachter's book on harmony.  This site has examples - scores & and associated audio recordings, for the theoretical matters discussed in each chapter of the book, with some descriptions. The examples make sense even without the prescribed book.
 
- ![]({{site.url}}/images/screenshot-sfcmtheory.png) <http://www.sfcmtheory.com/>
+<img class="img-responsive" src="{{site.url}}/images/screenshot-sfcmtheory.png" alt="Screenshot: scfmtheory.com" />
+<http://www.sfcmtheory.com/>
 
  Interesting Sections from the site:
 
@@ -36,7 +37,7 @@ Here are some fantastic resources, all **Free!**, both for listeners and music s
   Alan Belkin has written some very rich articles on Form, Harmony, Orchestration and Counterpoint. It's very nice of him to share them all with us. These articles are online since early/mid 2000s. He says these articles are not meant to replace textbooks. True, but I'd suggest any student to go through the corresponding paper here before starting to read a book on harmony or orchestration.
 
 
- ![]({{site.url}}/images/screenshot-belkin.png "Alan Belkin: Writings on Musical Craft")
+ <img class="img-responsive" src="{{site.url}}/images/screenshot-belkin.png" alt="Alan Belkin: Writings on Musical Craft" />
 
 [Alan Belkin, composer. Writings on Musical Craft](http://alanbelkinmusic.com/ABWritingNAV.html)
 
