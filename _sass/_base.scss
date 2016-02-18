@@ -1,4 +1,24 @@
 /**
+ * These files -
+ * _base.scss, _layout.scss, _syntax-highlighting.scss
+ * are part of the default jekyll theme.
+ * Presently, we are using Bootstrap. These files are not needed. Can be removed
+ *
+ * Keeping them here just to remember how to use scss files in jekyll project.
+ *
+ * In future, we should deploy bootstrap locally rather than using CDN.
+ * In that case,
+ * * Get bootstrap in Sass format.
+ * * bootstrap's "/bootstrap-sass-x.x.x/assets/stylesheets/bootstrap/" will be copied here (fragments)
+ * * bootstrap.scss will go to `css` directory under project root.
+ *
+ * Read http://jekyllrb.com/docs/assets/
+ * What about mixins?
+ * we need img-responsive, is it defined in a mixin only?
+ *
+ */
+
+/**
  * Reset some basic elements
  */
 body, h1, h2, h3, h4, h5, h6,
