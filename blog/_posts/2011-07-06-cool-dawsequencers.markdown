@@ -12,9 +12,9 @@ Reaper is my main Digital-Audio-Workstation. It's just awesome!
 Reaper, the DAW
 
 Today, I came across Zynewave Podium, which looks cool.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T3FaXcrNckE?rel=0" frameborder="0" allowfullscreen></iframe>
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube-nocookie.com/embed/T3FaXcrNckE?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 ... and there's [Energy XT](http://energy-xt.com). It works under linux too.

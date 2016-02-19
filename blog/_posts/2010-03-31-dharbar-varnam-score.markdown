@@ -13,7 +13,7 @@ redirect_from: "/blog/2010/03/dharbar-varnam-score/"
 <img class="img-responsive" alt="Dharbar Varnam Score - Page 1" src="{{ site.url }}/images/ananth-dharbar_varnam_page1.png" />
 <img class="img-responsive" alt="Dharbar Varnam Score - Page 2" src="{{ site.url }}/images/ananth-dharbar_varnam_page2.png" />
 
-##Download 
+##Download
 
 - <a href="http://imslp.org/wiki/Chalamela_Varnam_-_Dharbar_Ragam,_Adi_Thalam_%28Thiruvottriyur,_Thyagayyar%29" target="_blank">Dharbar Varnam Score (pdf)</a> from International Music Scores Library (IMSLP)  
 
@@ -22,7 +22,8 @@ redirect_from: "/blog/2010/03/dharbar-varnam-score/"
 More about this work: <a href="http://endoflist.blogspot.com/2010/03/dharbar-varnam-score.html" target="_blank">EndOfList blog post</a>
 
 Here's a rendition of this composition by Sri. Akella Mallikarjuna Sharma. (Demo/reference for students)
-
-<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/x3GxlQQm3jM?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="420" height="315" src="https://www.youtube-nocookie.com/embed/x3GxlQQm3jM?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Second Part (Utharangam: Charanam & Chitta Swarams) - <a href="http://www.youtube.com/watch?v=QPUhECZHsQI">http://www.youtube.com/watch?v=QPUhECZHsQI</a>

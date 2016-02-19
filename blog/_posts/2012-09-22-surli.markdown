@@ -5,10 +5,12 @@ description: Su(r)li is my composition based on the etudes of carnatic music. It
 author: Ananth Pattabiraman
 redirect_from: "/blog/2012/09/347/"
 ---
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/s2IPZrOhEoU?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube-nocookie.com/embed/s2IPZrOhEoU?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 **Su(r)li** is my composition based on the etudes of carnatic music. It's an attempt to capture the mystical experience one gets when beginning to dwell deeper into music.
 
-### Download: <http://thani.bandcamp.com> 
+### Download: <http://thani.bandcamp.com>
 
 Ananth, Aug 2012
