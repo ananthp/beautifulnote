@@ -1,14 +1,9 @@
 ---
 layout: bootstrap-frontpage
 ---
-<div class="post">
-
-  <article>
-    <header>
-      <h2>{{ page.title }}</h2>
-    </header>
-
-    {{ content }}
-  </article>
-
-</div>
+<article itemscope itemtype="http://schema.org/BlogPosting">
+<header>
+<h2>{{ page.title }}</h2>
+</header>
+{{ content }}
+</article>
