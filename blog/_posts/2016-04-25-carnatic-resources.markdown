@@ -20,4 +20,4 @@ Madras Music Academy has been publishing this journal since pre-independence era
 
 ### MusicResearch.in
 
-[musicresearch.in](musicresearch.in) hosts some fine scholarly articles, scanned copies of rare books and manuscripts. It's not a very easy to use site but its contents are invaluable. Recently, they've spawned a new site [musicresearchlirary.net](musicresearchlibrary.net) and starting moving rare books and manuscripts there along with some more content.
+[musicresearch.in](musicresearch.in) hosts some fine scholarly articles, scanned copies of rare books and manuscripts. It's not a very easy to use site but its contents are invaluable. Recently, they've spawned a new site [musicresearchlirary.net](musicresearchlibrary.net) and are moving rare books and manuscripts there along with some more content.
