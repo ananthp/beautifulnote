@@ -3,14 +3,21 @@ layout: post
 author: Ananth Pattabiraman
 title:  "Listening/Learning Music: Some excellent Music Theory resources (Scores & Audio)"
 redirect_from: "/blog/2011/02/listeninglearning-music-some-excellent-music-theory-resources-scores-audio/"
+excerpt_separator: <!--more-->
 ---
 A typical page in a music theory/appreciation book looks like this -
 
 <img class="img-responsive" alt="Introduction To Music Appreciation - Miller" src="{{site.url}}/images/sample_intro-to-music-appreciation_miller.jpg" />
 
 **Problem**: It's difficult to go through the musical examples.  One must look for the recordings, or try to play them on an instrument (or sing). In some books, musical examples are printed in a separate section and referred through out the book (Refer: Ex. 1...). This makes reading the book unnecessarily complicated while the material discussed itself may not be that difficult.
+<!--more-->
+<blockquote><p>NOTE: This article is on <em>Western</em> music theory resources. For <em>Carnatic music</em> related resources see these:
+<ul>
+    <li> <a href="{% post_url /blog/2010-04-07-carnatic-music-theory-download %}">Download: Carnatic Music Theory</a></li>
+    <li> <a href="{% post_url /blog/2016-04-25-carnatic-resources %}">Carnatic Music Resources</a></li>
+</ul></p></blockquote>
 
-Here are some fantastic resources, all **Free!**, both for listeners and music students.
+<p class='lead'>Here are some fantastic resources, all **Free!**, both for listeners and music students.</p>
 
 ### For Listeners: to know better about music.
 
@@ -20,7 +27,7 @@ Here are some fantastic resources, all **Free!**, both for listeners and music s
  
 <img class="img-responsive" src="{{site.url}}/images/screenshot-sound_reasoning.png" alt="cnx.org: Sound Reasoning, by Anthony Brandt" />
 
- ### For Music Students
+### For Music Students
 
  San Francisco Conservatory of Music This site has excellent supplementary materials for Harmony and Analysis. The school suggests Aldwell-Schachter's book on harmony.  This site has examples - scores & and associated audio recordings, for the theoretical matters discussed in each chapter of the book, with some descriptions. The examples make sense even without the prescribed book.
 
