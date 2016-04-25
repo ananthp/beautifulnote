@@ -34,6 +34,8 @@ syllabus: /download/syllabus-Telugu--carnatic_music--certificate_and_diploma--al
 
 ### Notes:
 
+<div class="alert alert-info">For more scholarly resources see this post: <a href="{% post_url /blog/2016-04-25-carnatic-resources %}">Carnatic Music Resources</a></div>
+
 <div class="alert alert-info">I've completed my certificate course. I used a different strategy for my notes for year 3 and 4; I couldn't share the notes here. </div>
 
 <div class="alert alert-info">The official textbook prepared by Sri. Akella Mallikarjuna Sharma, which contains Varnams, Kritis etc, for the whole 6 year course, is now available in English too. (Practical part only)</div>
