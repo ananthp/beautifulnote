@@ -16,7 +16,7 @@ syllabus: /download/syllabus-Telugu--carnatic_music--certificate_and_diploma--al
 <p> <a class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year1}}">Carnatic Music Theory - Year I</a> (pdf, ~110 KB)</p>
 <p> <a class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year2}}">Year II </a> (pdf, ~217 KB)</p>
 <hr />
-<p><a class="btn btn-success" href="bit.ly/shrutiapp">Android App: Shruti Carnatic Tuner</a> is the easiest way to tune your instruments perfectly. Vocalists too can check if they indeed sing in tune, thanks to automatic swaram detection!</p>
+<p><a class="btn btn-success" href="http://bit.ly/shrutiapp">Android App: Shruti Carnatic Tuner</a> is the easiest way to tune your instruments perfectly. Vocalists too can check if they indeed sing in tune, thanks to automatic swaram detection!</p>
 </div>
 
 <!--more-->
