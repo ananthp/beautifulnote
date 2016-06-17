@@ -11,17 +11,17 @@ syllabus: /download/syllabus-Telugu--carnatic_music--certificate_and_diploma--al
 ---
 
 
-<div class="jumbotron">
 <p>Music Theory notes for Carnatic Music at Government Music colleges, Andhra Pradesh/Telangana</p>
 <p> <a class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year1}}">Carnatic Music Theory - Year I</a> (pdf, ~110 KB)</p>
 <p> <a class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year2}}">Year II </a> (pdf, ~217 KB)</p>
-<hr />
-<p><a class="btn btn-success" href="http://bit.ly/shrutiapp">Android App: Shruti Carnatic Tuner</a> is the easiest way to tune your instruments perfectly. Vocalists too can check if they indeed sing in tune, thanks to automatic swaram detection!</p>
-<a href='https://play.google.com/store/apps/details?id=org.kuyil.shruti&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img style='max-width:250px;' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+<div class="jumbotron">
+<h2><a class="" href="https://play.google.com/store/apps/details?id=org.kuyil.shruti">Shruti Carnatic Tuner</a><br/>
+<small>© <a href="http://kuyil.org">Kuyil</a> | Apps Crafted for Carnatic</small></h2>
+<p class="lead">Tune your instruments or voice to proper Carnatic shruti. Automatic swaram detection!</p>
+<p><a href='https://play.google.com/store/apps/details?id=org.kuyil.shruti&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img style='max-width:250px;' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a></p>
 </div>
 
 <!--more-->
-
 [Detailed Syllabus (in Telugu)]( {{ site.url }}/{{ page.syllabus}}) - Certificate and Diploma Courses - all Years - (pdf, ~3 MB)
 
 Note: <i>It's from a copy of official syllabus, scanned & reformatted, however, I can't make any promises that this is the current and official syllabus. Shared in public interest.</i>
