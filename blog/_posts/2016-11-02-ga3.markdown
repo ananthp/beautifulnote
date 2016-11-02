@@ -1,0 +1,18 @@
+---
+layout: post
+author: Ananth Pattabiraman
+title: Anthara Gandharam / Ga3
+description: Peculiar characteristic of swaram Ga3
+excerpt_separator: <!--more-->
+---
+In carnatic music, Anthara Gandharam (Ga<sub>3</sub>) has a peculiar characteristic. It can be heard clearly even when we play just Sa on tambura. It is a *Swayambu Swaram*, comes alive automatically due to the wonderful acoustics of tambura. This phenomenon is fundamentally important for carnatic music.
+
+On a keyboard<sup>*</sup>, Major 3rd is used to approximate Ga<sub>3</sub>. However, Major 3rd (western music) is 400 cents<sup>#</sup> whereas proper carnatic Ga<sub>3</sub> is at 386.31 cents above Sa (5/4 ratio).
+
+
+<sup>*</sup>[Equal Temperament](https://en.wikipedia.org/wiki/Equal_temperament) is the tuning system used for keyboards. This is a western tuning system.  
+<sup>#</sup>[Cent](https://en.wikipedia.org/wiki/Cent_(music)) is a logarithmic unit of measure used for musical intervals. 
+
+<hr />
+_**Ananth Pattabiraman** is a musician and co-founder of [Kuyil](http://kuyil.org), a startup dedicated to crafting apps for carnatic.  
+[Shruti Carnatic Tuner](https://play.google.com/store/apps/details?id=org.kuyil.shruti), their android app, assists carnatic musicians and students with precise reference tones for swara sthanas._
