@@ -9,6 +9,8 @@ In carnatic music, Anthara Gandharam (Ga<sub>3</sub>) has a peculiar characteris
 
 On a keyboard<sup>*</sup>, Major 3rd is used to approximate Ga<sub>3</sub>. However, Major 3rd (western music) is 400 cents<sup>#</sup> whereas proper carnatic Ga<sub>3</sub> is at 386.31 cents above Sa (5/4 ratio).
 
+<img class="img-responsive" alt="ga3 is slightly below major 3rd on keyboard" src="{{ site.url }}/images/ga3.png" />
+
 <!--more-->
 
 <sup>*</sup>[Equal Temperament](https://en.wikipedia.org/wiki/Equal_temperament) is the tuning system used for keyboards. This is a western tuning system.  
