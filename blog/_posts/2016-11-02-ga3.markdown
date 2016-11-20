@@ -13,6 +13,20 @@ On a keyboard<sup>*</sup>, Major 3rd is used to approximate Ga<sub>3</sub>. Howe
 
 <!--more-->
 
+When carnatic Ga3 and western Major 3rd are played together, one can clearly hear the beating because of the frequency difference, which is about 14 cents and is quite considerabale.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/293880612&amp;color=ff9900&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<br />
+Putting that in the context of Sa, this recording would help you get the taste of real Ga3 and distinguish it from western Major 3rd.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/293880432&amp;color=ff9900&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+* 1st Phrase --> Sa and carnatic Ga3 are played separately and together.
+* 2nd Phrase --> Sa and western Major 3rd are played separately and together.
+* 3rd Phrase --> Carnatic Ga3 and western Major 3rd are played together.
+
+In conclusion, western keyboard should not be used naively as a learning tool for Carnatic music. Instead of resorting to tools designed without consideration for our music, we shall develop and support tools that are created specifically for carnatic music. Our [Shruti Carnatic Tuner](https://play.google.com/store/apps/details?id=org.kuyil.shruti) (Android app) is one such effort. It provides accurate reference tones for pure carnatic swarasthanas.
+
 <sup>*</sup>[Equal Temperament](https://en.wikipedia.org/wiki/Equal_temperament) is the tuning system used for keyboards. This is a western tuning system.  
 <sup>#</sup>[Cent](https://en.wikipedia.org/wiki/Cent_(music)) is a logarithmic unit of measure used for musical intervals. 
 
