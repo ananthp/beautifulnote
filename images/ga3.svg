@@ -29,8 +29,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.99375"
-     inkscape:cx="512.95409"
-     inkscape:cy="421.62717"
+     inkscape:cx="459.71069"
+     inkscape:cy="247.53912"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,10 +48,66 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="soundcloud"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#5c6bc0;stroke-width:2.2675283;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect3512"
+       width="478.10983"
+       height="478.10983"
+       x="247.94508"
+       y="0.94509417"
+       inkscape:export-filename="/home/ragu/code/beautifulnote/images/ga3_soundcloud.png"
+       inkscape:export-xdpi="149.88217"
+       inkscape:export-ydpi="149.88217" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5482-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.60888863px;line-height:125%;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:justify;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#455a64;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.59723276,0,0,0.59723276,668.6327,441.88678)"><flowRegion
+         id="flowRegion5484-6"><rect
+           id="rect5486-7"
+           width="181.97772"
+           height="136.77739"
+           x="-0.13736278"
+           y="-5.1211987"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#455a64;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#455a64;fill-opacity:1"
+         id="flowPara5488-5">© Kuyil</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.48475741,0,0,0.48475741,405.9005,85.23198)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.56041908px;line-height:125%;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#455a64;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="flowRoot5490-3"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5492-5"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.56041908px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:start;text-anchor:start;fill:#455a64;fill-opacity:1"
+           y="759.01337"
+           x="339.5578"
+           height="59.413013"
+           width="299.82706"
+           id="rect5494-6" /></flowRegion><flowPara
+         id="flowPara5496-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.56041908px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:end;text-anchor:end;fill:#455a64;fill-opacity:1">Apps Crafted for Carnatic</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5474-9"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.60888863px;line-height:125%;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Light';text-align:justify;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#455a64;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.73963091,0,0,0.73963091,654.30019,15.057697)"><flowRegion
+         id="flowRegion5476-1"><rect
+           id="rect5478-2"
+           width="181.97772"
+           height="136.77739"
+           x="-1.6998628"
+           y="-3.5550008"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Light';fill:#455a64;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Light';fill:#455a64;fill-opacity:1"
+         id="flowPara5480-7">not to scale</flowPara></flowRoot>  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -82,7 +138,7 @@
            x="464.28241"
            y="131.64256"
            style="fill:#455a64;fill-opacity:1;" /></flowRegion><flowPara
-         id="flowPara5309"></flowPara></flowRoot>    <flowRoot
+         id="flowPara5309" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5311"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#4caf50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
