@@ -13,8 +13,8 @@ A typical page in a music theory/appreciation book looks like this -
 <!--more-->
 <blockquote><p>NOTE: This article is on <em>Western</em> music theory resources. For <em>Carnatic music</em> related resources see these:
 <ul>
-    <li> <a href="{% post_url 2010-04-07-carnatic-music-theory-download %}">Download: Carnatic Music Theory</a></li>
-    <li> <a href="{% post_url 2016-04-25-carnatic-resources %}">Carnatic Music Resources</a></li>
+    <li> <a href="{% post_url blog/2010-04-07-carnatic-music-theory-download %}">Download: Carnatic Music Theory</a></li>
+    <li> <a href="{% post_url blog/2016-04-25-carnatic-resources %}">Carnatic Music Resources</a></li>
 </ul></p></blockquote>
 
 <p class='lead'>Here are some fantastic resources, all **Free!**, both for listeners and music students.</p>

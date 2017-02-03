@@ -26,7 +26,7 @@ syllabus: /download/syllabus-Telugu--carnatic_music--certificate_and_diploma--al
 
 Note: <i>It's from a copy of official syllabus, scanned & reformatted, however, I can't make any promises that this is the current and official syllabus. Shared in public interest.</i>
 
-<blockquote>For more scholarly resources see this post: <a href="{% post_url 2016-04-25-carnatic-resources %}">Carnatic Music Resources</a></blockquote>
+<blockquote>For more scholarly resources see this post: <a href="{% post_url blog/2016-04-25-carnatic-resources %}">Carnatic Music Resources</a></blockquote>
 
 ### Notes:
 
