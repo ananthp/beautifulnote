@@ -9,7 +9,7 @@ In carnatic music, Anthara Gandharam (Ga<sub>3</sub>) has a peculiar characteris
 
 On a keyboard<sup>*</sup>, Major 3rd is used to approximate Ga<sub>3</sub>. However, Major 3rd (western music) is 400 cents<sup>#</sup> whereas proper carnatic Ga<sub>3</sub> is at 386.31 cents above Sa (5/4 ratio).
 
-<img class="img-responsive" alt="ga3 is slightly below major 3rd on keyboard" src="{{ site.url }}/images/ga3.png" />
+<img class="img-responsive" alt="ga3 is several cents flatter than major 3rd on keyboard" src="{{ site.url }}/images/ga3.png" />
 
 <!--more-->
 
