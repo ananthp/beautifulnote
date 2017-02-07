@@ -15,8 +15,8 @@ Take a look at this visualization that shows the deviation of carnatic swarastha
 
 As you can clearly see from the chart:
 
-* Seven swarasthanas sound lower than keyboard notes.
-* Four swarasthanas sound higher.
+* Eight swarasthanas sound lower than keyboard notes.
+* Three swarasthanas sound higher.
 * Range of deviation is -15.64 cents (Dha2) to +11.73 cents (Ri1)
 
 As a result, most swarasthanas will collide with their equivalent note on a keyboard and produce the out-of-tune beating effect as we have [heard]({{ site.baseurl }}{% post_url blog/2016-11-02-ga3 %}#audio) in case of Ga3.
