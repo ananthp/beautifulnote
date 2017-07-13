@@ -24,7 +24,7 @@ excerpt_separator: <!--more-->
 </script>
 
 
-Sādhakam Carnatic Ear Trainer is an android app which helps students build their Swara Gyānam. Practicing with the app, doing the interactive exercises, students gradually develop their ability to identify swarams they hear. Hearing a sound and being able to tell the swarasthanam instantly is a wonderful skill, isn't it? 
+[Sādhakam Carnatic Ear Trainer](https://play.google.com/store/apps/details?id=org.kuyil.sadhakam) is an android app which helps students build their Swara Gyānam. Practicing with the app, doing the interactive exercises, students gradually develop their ability to identify swarams they hear. Hearing a sound and being able to tell the swarasthanam instantly is a wonderful skill, isn't it? 
 
 <p>This article describes how the app works, various stages of swara gynam development, and how to get the most out of it. <!--more--> The app's functionality is quite simple. It has many exercises</p>
 <img class="img-responsive" alt="Sadhakam swara gyanam exercises" src="{{ site.url }}/images/sadhakam-exercises.png" />
