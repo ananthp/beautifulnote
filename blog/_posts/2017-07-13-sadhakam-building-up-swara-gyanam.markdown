@@ -26,15 +26,15 @@ excerpt_separator: <!--more-->
 
 [Sādhakam Carnatic Ear Trainer](https://play.google.com/store/apps/details?id=org.kuyil.sadhakam) is an android app which helps students build their Swara Gyānam. Practicing with the app, doing the interactive exercises, students gradually develop their ability to identify swarams they hear. Hearing a sound and being able to tell the swarasthanam instantly is a wonderful skill, isn't it? 
 
+<img class="img-responsive" alt="Challange answered correct" src="{{ site.url }}/images/sadhakam-answer-correct.png" />
+
 <p>This article describes how the app works, various stages of swara gynam development, and how to get the most out of it. <!--more--> The app's functionality is quite simple. It has many exercises</p>
-<img class="img-responsive" alt="Sadhakam swara gyanam exercises" src="{{ site.url }}/images/sadhakam-exercises.png" />
+<img alt="Sadhakam swara gyanam exercises" src="{{ site.url }}/images/sadhakam-exercises.png" />
 
 <p>Each exercise focus on one aspect of learning. For instance, the first exercise makes you understand and distinguish the three swarasthanams of Ri.</p>
 <img class="img-responsive" alt="Sadhakam exercise challange" src="{{ site.url }}/images/sadhakam-challange.png" />
 
 <p>Exercises are interactive. The app plays a sequence, and you should identify one or more swarasthanams. You answer by choosing one of the choices. The app tells whether you are right or wrong and proceeds to the next challange.</p>
-<img class="img-responsive" alt="Challange answered correct" src="{{ site.url }}/images/sadhakam-answer-correct.png" />
-<br />
 <img class="img-responsive" alt="Challange answered wrong" src="{{ site.url }}/images/sadhakam-answer-wrong.png" />
 
 
