@@ -18,8 +18,14 @@ syllabus: /download/syllabus-Telugu--carnatic_music--certificate_and_diploma--al
 ### Android apps
 
 <p>Kuyil, the company I cofounded, makes android apps exclusively for Carnatic music. Students would find them very useful:</p>
-<p> <a class="btn btn-success" href="https://play.google.com/store/apps/details?id=org.kuyil.shruti">Shruti Carnatic Tuner</a> tunes instruments or voice to proper carnatic shruti. Automatically detects and shows the swaram that the user sings or plays.</p>
-<p> <a class="btn btn-success" href="https://play.google.com/store/apps/details?id=org.kuyil.sadhakam">Sādhakam Carnatic Ear Trainer</a> detailed swarasthana exercises to improve one's Swara Gyānam.</p>
+<div itemscope itemtype="schema.org/MobileApplication">
+<meta itemprop="operatingSystem" content="Android" />
+<meta itemprop="applicationCategory" content="Music" />
+<p><a class="btn btn-success" itemprop="url" href="https://play.google.com/store/apps/details?id=org.kuyil.shruti"><span itemprop="name">Shruti Carnatic Tuner</span></a> <span itemprop="featureList">tunes instruments or voice to proper carnatic shruti. Automatically detects and shows the swaram that the user sings or plays.</span></p></div>
+<div itemscope itemtype="schema.org/MobileApplication">
+<meta itemprop="operatingSystem" content="Android" />
+<meta itemprop="applicationCategory" content="Education" />
+<p><a class="btn btn-success" itemprop="url" href="https://play.google.com/store/apps/details?id=org.kuyil.sadhakam"><span itemprop="name">Sādhakam Carnatic Ear Trainer</span></a> <span itemprop="featureList">detailed swarasthana exercises to improve one's Swara Gyānam.</span></p></div>
 
 <!--more-->
 
