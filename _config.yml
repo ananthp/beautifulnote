@@ -9,6 +9,8 @@ twitter_username: ananth
 github_username:  ananthp
 twitter:
   username: ananth
+facebook:
+  publisher: https://www.facebook.com/ananth.composes
 
 # Build settings
 markdown: kramdown
