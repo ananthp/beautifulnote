@@ -29,6 +29,7 @@ excerpt_separator: <!--more-->
 <img class="img-responsive" alt="Challange answered correct" src="{{ site.url }}/images/sadhakam-answer-correct.png" />
 
 <p>This article describes how the app works, various stages of swara gynam development, and how to get the most out of it. <!--more--> The app's functionality is quite simple. It has many exercises</p>
+
 <img class="img-responsive" alt="Sadhakam swara gyanam exercises" src="{{ site.url }}/images/sadhakam-exercises.png" />
 
 <p>Each exercise focus on one aspect of learning. For instance, the first exercise makes you understand and distinguish the three swarasthanams of Ri.</p>
