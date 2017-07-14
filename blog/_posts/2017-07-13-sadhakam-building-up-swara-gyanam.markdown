@@ -26,17 +26,26 @@ excerpt_separator: <!--more-->
 
 [Sādhakam Carnatic Ear Trainer](https://play.google.com/store/apps/details?id=org.kuyil.sadhakam) is an android app which helps students build their Swara Gyānam. Practicing with the app, doing the interactive exercises, students gradually develop their ability to identify swarams they hear. Hearing a sound and being able to tell the swarasthanam instantly is a wonderful skill, isn't it? 
 
-<img class="img-responsive" alt="Challange answered correct" src="{{ site.url }}/images/sadhakam-answer-correct.png" />
+<img class="img-responsive center-block" alt="Challange answered correct" src="{{ site.url }}/images/sadhakam-answer-correct.png" />
 
-<p>This article describes how the app works, various stages of swara gynam development, and how to get the most out of it. <!--more--> The app's functionality is quite simple. It has many exercises</p>
-
-<img class="img-responsive" alt="Sadhakam swara gyanam exercises" src="{{ site.url }}/images/sadhakam-exercises.png" />
-
-<p>Each exercise focus on one aspect of learning. For instance, the first exercise makes you understand and distinguish the three swarasthanams of Ri.</p>
-<img class="img-responsive" alt="Sadhakam exercise challange" src="{{ site.url }}/images/sadhakam-challange.png" />
+<p>This article describes how the app works, various stages of swara gynam development, and how to get the most out of it. <!--more--> The app's functionality is quite simple. It has many exercises. Each exercise focus on one aspect of learning. For instance, the first exercise makes you understand and distinguish the three swarasthanams of Ri.</p>
 
 <p>Exercises are interactive. The app plays a sequence, and you should identify one or more swarasthanams. You answer by choosing one of the choices. The app tells whether you are right or wrong and proceeds to the next challange.</p>
-<img class="img-responsive" alt="Challange answered wrong" src="{{ site.url }}/images/sadhakam-answer-wrong.png" />
+
+<div class='row'>
+	<div class="col-xs-12 col-md-4">
+		<img class="img-responsive center-block" alt="Sadhakam swara gyanam exercises" src="{{ site.url }}/images/sadhakam-exercises.png" /><p></p>
+	</div>
+
+	<div class="col-xs-12 col-md-4">
+		<img class="img-responsive center-block" alt="Sadhakam exercise challange" src="{{ site.url }}/images/sadhakam-challange.png" /><p></p>
+	</div>
+
+	<div class="col-xs-12 col-md-4">
+		<img class="img-responsive center-block" alt="Challange answered wrong" src="{{ site.url }}/images/sadhakam-answer-wrong.png" />
+	</div>
+</div>
+
 
 
 This feels like a quiz game. Some users may feel it would be better if they can hear the swarams and combinations before taking the quiz. But the quiz itself is the learning process! Let's say you start the first exercise and you are immediately asked to identify a Ri. You have absolutely no clue whether it's Ri1 or Ri2 or Ri3. You can replay the question again and again and listen carefully. Still doesn't ring a bell? Just take a wild guess and answer. You may be right or wrong, but you shall make a note of the correct answer. Next time in the same session if you get the same combination you might get it right.
