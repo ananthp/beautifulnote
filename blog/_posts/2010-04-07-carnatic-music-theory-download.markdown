@@ -8,6 +8,7 @@ redirect_from: "/blog/2010/04/carnatic-music-theory-download/"
 theory-year1: /download/carnatic_music_theory1.pdf
 theory-year2: /download/carnatic_music_theory2.pdf  
 syllabus: /download/syllabus-Telugu--carnatic_music--certificate_and_diploma--all_years.pdf  
+excerpt_separator: <!--more-->
 ---
 
 
