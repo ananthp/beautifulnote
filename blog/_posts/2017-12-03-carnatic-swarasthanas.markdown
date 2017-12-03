@@ -19,9 +19,9 @@ excerpt_separator: <!--more-->
 
 Carnatic music has 16 swarasthanas packed in 12 distinct positions. The 12 tones are more or less universal; many systems of music around the world have them, may be with some differences in the ratios/frequencies of individual notes. (Checkout [Shruti Carnatic Tuner](https://play.google.com/store/apps/details?id=org.kuyil.shruti) for precise swarasthanas used in Carnatic music)
 
-In addition to the usual 12 notes, Carnatic music has 4 more swarasthanas, however they simply share their positions with existing notes. Sounds tricky? Not really, read on.
-
 <img id="table" class="img-responsive center-block" alt="Carnatic Swarasthanas" src="{{ site.url }}/images/carnatic-swarasthanas.png" />
+
+In addition to the usual 12 notes, Carnatic music has 4 more swarasthanas, however they simply share their positions with existing notes. Sounds tricky? Not really, read on.
 <!--more-->
 
 You can choose any frequency to be your *Sa*, the Shadjam, and all other swarams take their places based on your Sa. In practice you'll most likely choose one of the standard frequencies, defined by kattai/shruti/mane number, depending on whether you sing or play an instrument. For example, many male vocalists usually sing at 1 or 1½ kattai shruti, female vocalists 5½, instruments like veena, violin at around 3 kattai. When multiple musicians come together, a common shruti is chosen and instruments and voices adjusted to that. Again, experiment with Shruti Carnatic Tuner to get a practical understanding of how different katti shrutis work and what's suitable for you.
