@@ -16,7 +16,7 @@ facebook:
 markdown: kramdown
 
 # Custom
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
