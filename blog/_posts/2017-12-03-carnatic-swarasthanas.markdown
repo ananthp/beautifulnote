@@ -3,6 +3,7 @@ layout: post
 author: Ananth Pattabiraman
 title: Carnatic Swarasthanas
 description: Carnatic music has 16 swarasthanas sharing 12 distinct positions. This article describes their relationship
+image: "/images/carnatic-swarasthanas.png"
 excerpt_separator: <!--more-->
 ---
 
@@ -11,15 +12,16 @@ excerpt_separator: <!--more-->
 	"@context": "http://schema.org/",
 	"@type": "ImageObject",
 	"author": "Ananth Pattabiraman",
-	"ContentUrl": "{{ site.url }}/images/carnatic-swarasthanas.png",
+	"ContentUrl": {{ page.image }},
     "InLanguage": "English",
     "name": "List of Carnatic Swarasthanas"
 }
 </script>
 
+
 Carnatic music has 16 swarasthanas packed in 12 distinct positions. The 12 tones are more or less universal; many systems of music around the world have them, may be with some differences in the ratios/frequencies of individual notes. (Checkout [Shruti Carnatic Tuner](https://play.google.com/store/apps/details?id=org.kuyil.shruti) for precise swarasthanas used in Carnatic music)
 
-<img id="table" class="img-responsive center-block" alt="Carnatic Swarasthanas" src="{{ site.url }}/images/carnatic-swarasthanas.png" />
+<img id="table" class="img-responsive center-block" alt="Carnatic Swarasthanas" src="{{ page.image }}" />
 
 In addition to the usual 12 notes, Carnatic music has 4 more swarasthanas, however they simply share their positions with existing notes. Sounds tricky? Not really, read on.
 <!--more-->
