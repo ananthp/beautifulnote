@@ -2,7 +2,7 @@
 layout: post
 author: Ananth Pattabiraman
 title: Carnatic Swarasthanas
-description: Carnatic music has 16 swarasthanas sharing 12 distinct positions. This article describes their relationship
+description: Carnatic music has 16 swarasthanas sharing 12 distinct positions. This article describes their relationship.
 image: "/images/carnatic-swarasthanas.png"
 excerpt_separator: <!--more-->
 ---
@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 	"@context": "http://schema.org/",
 	"@type": "ImageObject",
 	"author": "Ananth Pattabiraman",
-	"ContentUrl": {{ page.image }},
+	"ContentUrl": "{{ site.url }}/{{ page.image }}",
     "InLanguage": "English",
     "name": "List of Carnatic Swarasthanas"
 }
