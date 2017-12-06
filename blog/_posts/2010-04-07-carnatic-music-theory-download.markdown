@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 
 
 <p>Music Theory notes for Carnatic Music at Government Music colleges, Andhra Pradesh/Telangana</p>
-<p> <a class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year1}}">Carnatic Music Theory - Year I</a> (pdf, ~110 KB)</p>
+<p> <a class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year1}}">Carnatic Music Theory - Year I</a> (pdf, ~2.5 MB)</p>
 <p> <a class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year2}}">Year II </a> (pdf, ~217 KB)</p>
 
 ### Android apps
