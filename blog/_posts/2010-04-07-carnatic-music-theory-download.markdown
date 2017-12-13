@@ -12,30 +12,82 @@ syllabus: /download/syllabus-Telugu--carnatic_music--certificate_and_diploma--al
 excerpt_separator: <!--more-->
 ---
 
+I've prepared some study material on Carnatic music theory. These notes are based on the syllabus framed by Potti Sriramulu Telugu University for Certificate in Music (Karnataka Sangeetham) examinations. Government music colleges in Telangana and Andhra Pradesh also follow the same syllabus. So, if you are a music student from one of the above mentioned colleges, or preparing to appear for the university exam as a private candidate, you'll find these texts useful:
 
-<p>Music Theory notes for Carnatic Music at Government Music colleges, Andhra Pradesh/Telangana</p>
-<p> <a class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year1}}">Carnatic Music Theory - Year I</a> (Edition 2.2, ~240 kb pdf)</p>
-<p> <a class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year2}}">Year II </a> (~217 kb pdf)</p>
+<hr />
+<div class='row'>
+  <div class="col-md-6 text-center">
+  Carnatic music theory - Year 1<br />
+  <small>Edition 2.2 (Dec 2017)</small>
+  </div>
+
+  <div class="col-md-6 text-center">
+    <a class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year1}}">Download</a>
+  </div>
+</div>
+
+<hr />
+
+<div class='row'>
+  <div class="col-md-6 text-center">
+  Carnatic music theory - Year 2
+  </div>
+
+  <div class="col-md-6 text-center">
+    <a class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year2}}">Download</a>
+  </div>
+</div>
+
+<hr />
 
 ### Android apps
 
-<p>Kuyil, the company I cofounded, makes android apps exclusively for Carnatic music. Students would find them very useful:</p>
-<div itemscope itemtype="schema.org/MobileApplication">
-<meta itemprop="operatingSystem" content="Android" />
-<meta itemprop="applicationCategory" content="Music" />
-<p><a class="btn btn-success" itemprop="url" href="https://play.google.com/store/apps/details?id=org.kuyil.shruti"><span itemprop="name">Shruti Carnatic Tuner</span></a> <span itemprop="featureList">tunes instruments or voice to proper carnatic shruti. Automatically detects and shows the swaram that the user sings or plays.</span></p></div>
-<div itemscope itemtype="schema.org/MobileApplication">
-<meta itemprop="operatingSystem" content="Android" />
-<meta itemprop="applicationCategory" content="Education" />
-<p><a class="btn btn-success" itemprop="url" href="https://play.google.com/store/apps/details?id=org.kuyil.sadhakam"><span itemprop="name">Sādhakam Carnatic Ear Trainer</span></a> <span itemprop="featureList">detailed swarasthana exercises to improve one's Swara Gyānam.</span></p></div>
+Here are the android apps specifically made for Carnatic music. If you are a carnatic music student, teacher or professional, you'll find them very useful.
 
+<hr />
+<div class='row'
+     itemscope itemtype="schema.org/MobileApplication">
+  <meta itemprop="operatingSystem" content="Android" />
+  <meta itemprop="applicationCategory" content="Music" />
+  <meta itemprop='sameAs' content='https://play.google.com/store/apps/details?id=org.kuyil.shruti'>
+
+  <div class="col-md-6">
+    <span itemprop="name">Shruti Carnatic Tuner</span><br />
+  <small><span itemprop="featureList">Tune any instrument quickly. Sing to see which swaram you are singing.</span></small>
+  </div>
+
+  <div class="col-sm-offset-4 col-sm-4 col-md-offset-1 col-md-3">
+    <a itemprop="url"
+     href='https://play.google.com/store/apps/details?id=org.kuyil.shruti&utm_source=beautifulnote&utm_campaign=theory-notes-page&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+      <img class='img-responsive' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
+    </a>
+  </div>
+</div>
+
+<hr />
+
+<div class='row'
+     itemscope itemtype="schema.org/MobileApplication">
+  <meta itemprop="operatingSystem" content="Android" />
+  <meta itemprop="applicationCategory" content="Music" />
+  <meta itemprop='sameAs' content='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>
+
+  <div class="col-md-6">
+    <span itemprop="name">Sādhakam Carnatic Ear Trainer</span><br />
+  <small><span itemprop="featureList">Easiest way to improve your Swara gyānam! Learn to identify swarasthanas by ear.</span></small>
+  </div>
+
+  <div class="col-sm-offset-4 col-sm-4 col-md-offset-1 col-md-3">
+    <a itemprop="url"
+     href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam&utm_source=beautifulnote&utm_campaign=theory-notes-page&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+      <img class='img-responsive' alt='Get it on Google Play'
+            src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
+    </a>
+  </div>
+</div>
+
+<hr />
 <!--more-->
 
-<blockquote>For more scholarly resources see this post: <a href="{% post_url blog/2016-04-25-carnatic-resources %}">Carnatic Music Resources</a></blockquote>
-
-### Notes:
-
-* I've completed my certificate course. I used a different strategy for my notes for year 3 and 4; I couldn't share the notes here.
-* [Detailed Syllabus (in Telugu)]( {{ site.url }}/{{ page.syllabus}}) - Certificate and Diploma Courses - all Years - (pdf, ~3 MB). It's from a copy of official syllabus, scanned & reformatted, however, I can't make any promises that this is the current and official syllabus. Shared in public interest.
-
-
+<p></p>
+<small>Detailed Syllabus in Telugu, for all years of Certificate and Diploma courses can be found [here]( {{ site.url }}/{{ page.syllabus}}). It's a scanned-and-reformatted copy of the official syllabus from some time ago. Do contact the university/college and ensure it is valid and current.</a>
