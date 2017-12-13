@@ -7,13 +7,14 @@ excerpt_separator: <!--more-->
 ---
 In an [earlier post]({{ site.baseurl}}{% post_url blog/2016-11-02-ga3 %}), we had demonstrated the difference between Carnatic Ga3 and its closest matching note on keyboards, the Major 3rd. It sparkled some discussion on [forums](http://www.rasikas.org/forums/viewtopic.php?f=9&t=28292) and [social media](https://www.facebook.com/kuyilorg/posts/343819562676883), and some of the readers began to think that only Ga3 is different from what is on keyboards while other swarasthanas are ok.
 
-Actually, _all swarasthanas deviate from their respective western notes_! 
+Actually, _all swarasthanas deviate from their respective western notes_!
 
 Take a look at this visualization that shows the deviation of carnatic swarasthanams from their nearest western equal-tempered notes:
 
 <img class="img-responsive" alt="deviation of carnatic swarasthanas from their nearest ET notes" src="{{ site.url }}/images/carnatic_vs_et.png" />
 
 As you can clearly see from the chart:
+<!--more-->
 
 * Eight swarasthanas sound lower than keyboard notes.
 * Three swarasthanas sound higher.
@@ -23,7 +24,7 @@ As a result, most swarasthanas will collide with their equivalent note on a keyb
 
 Many carnatic music teachers make their students practice swarasthanas on keyboard in the hope that it might help them to improve their swara gyanam. Contrarily, it will only destroy their sense of swarasthana as most of the notes on a keyboard are very wrong. Let us fully understand the danger: according to [this study](http://mtg.upf.edu/files/publications/jserra11ismir_icmtuning.pdf), use of harmonium, which is also an equal tempered keyboard, has permanently skewed Hindustani music's swara ratios. Fortunately, influence of harmonium is minimal in carnatic music, and the study says, we still retain the purity of our swarasthanas.
 
-## What is the alternative? 
+## What is the alternative?
 
 Absence of appropriate technology for carnatic is the reason why our teachers and students have to resort to other means such as keyboards.
 
