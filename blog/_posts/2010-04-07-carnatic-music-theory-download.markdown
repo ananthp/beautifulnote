@@ -90,4 +90,4 @@ Here are the android apps specifically made for Carnatic music. If you are a car
 <!--more-->
 
 <p></p>
-<small>Detailed Syllabus in Telugu, for all years of Certificate and Diploma courses can be found [here]( {{ site.url }}/{{ page.syllabus}}). It's a scanned-and-reformatted copy of the official syllabus from some time ago. Do contact the university/college and ensure it is valid and current.</a>
+<small>Detailed Syllabus in Telugu, for all years of Certificate and Diploma courses can be found [here]( {{ site.url }}/{{ page.syllabus}}). It's a scanned-and-reformatted copy of the official syllabus from some time ago. Do contact the university/college and ensure it is valid and current.
