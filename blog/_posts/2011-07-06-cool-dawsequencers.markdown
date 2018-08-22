@@ -7,7 +7,7 @@ redirect_from: "/blog/2011/07/cool-dawsequencers/"
 
 Reaper is my main Digital-Audio-Workstation. It's just awesome!
 
-<img class="img-responsive" src="http://reaper.fm/siteimages/ss_v4_fp.jpg" alt="Reaper DAW screenshot" />
+<img class="img-responsive" src="https://reaper.fm/siteimages/ss_v4_fp.jpg" alt="Reaper DAW screenshot" />
 
 Reaper, the DAW
 
@@ -29,10 +29,10 @@ There are some pretty interesting DAWs and Sequencers in linux. The usual ones a
 
 [Non Sequencer](http://non-sequencer.tuxfamily.org/) is novel and beautiful.
 
-<img class="img-responsive" alt="non-sequencer" src="http://non-sequencer.tuxfamily.org/non-pattern-editor.png" />
+<img class="img-responsive" alt="non-sequencer" src="https://non-sequencer.tuxfamily.org/non-pattern-editor.png" />
 
 That's the midi sequencer. There's a Non DAW too.  Unfortunately, they don't seem to be under active development (?)
 
 Despite its name, Qtractor is not a tractor-like software. Clean, familiar interface. Developed passionately.
 
-<img class="img-responsive" alt="Qtractor" src="http://qtractor.sourceforge.net/image/qtractor-screenshot8.png" />
+<img class="img-responsive" alt="Qtractor" src="https://qtractor.sourceforge.io/image/qtractor-screenshot8.png" />

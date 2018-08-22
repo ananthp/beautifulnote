@@ -11,7 +11,7 @@ author:
 author_login: ananth
 author_email: ananth@beautifulnote.com
 wordpress_id: 36
-wordpress_url: http://beautifulnote.com/blog/?page_id=36
+wordpress_url: https://beautifulnote.com/blog/?page_id=36
 date: !binary |-
   MjAwOS0wNi0xNiAyMTozMzoxOCArMDUzMA==
 date_gmt: !binary |-

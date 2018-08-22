@@ -46,13 +46,12 @@ A typical page in a music theory/appreciation book looks like this -
 
  <img class="img-responsive" src="{{site.url}}/images/screenshot-belkin.png" alt="Alan Belkin: Writings on Musical Craft" />
 
-[Alan Belkin, composer. Writings on Musical Craft](http://alanbelkinmusic.com/ABWritingNAV.html)
+[Alan Belkin, composer. Writings on Musical Craft](http://alanbelkinmusic.com)
 
-*More from Belkin:* [Principles of Orchestration Online](http://www.northernsounds.com/forum/forumdisplay.php/77-Principles-of-Orchestration-On-line), based on Rimsky-Korsakov's book with the same title.
 
 
 #### and some more
 
- -  <http://imslp.org/wiki/Category:Music_theory\> - Music Theory books in Public Domain: (Including books on Harmony written by Schoenberg, Schenker, Tchaikovsky, Rameau; and on Orchestration by Berlioz, Forsyth, Rimsky, etc.)
+ -  <https://imslp.org/wiki/Category:Music_theory\> - Music Theory books in Public Domain: (Including books on Harmony written by Schoenberg, Schenker, Tchaikovsky, Rameau; and on Orchestration by Berlioz, Forsyth, Rimsky, etc.)
 
  - <http://www.harmony.org.uk/>

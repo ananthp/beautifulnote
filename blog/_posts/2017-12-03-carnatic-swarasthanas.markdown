@@ -50,4 +50,4 @@ Of course, the same logic applies to *Dha* and *Ni*.
 * If you are interested in Carnatic Swarasthanas, try [Sādhakam Carnatic Ear Trainer](https://play.google.com/store/apps/details?id=org.kuyil.sadhakam) (android app). It trains you to recognize swarasthanas you hear. It works with all 16 swarasthanas as listed in the table, with correct numbers and short forms. Sādhakam only plays swarasthana combinations that are meaningful in Carnatic music and avoids all invalid combinations. See [this post]({{ site.base_url }}{% post_url /blog/2017-07-13-sadhakam-building-up-swara-gyanam %}) to know how Sādhakam app can help you to improve your swara gyānam.
 
 <hr />
-_**Ananth Pattabiraman** is a musician and co-founder of [Kuyil](http://kuyil.org), a startup dedicated to crafting apps for carnatic._
+_**Ananth Pattabiraman** is a musician and co-founder of [Kuyil](kuyil.org), a startup dedicated to crafting apps for carnatic._

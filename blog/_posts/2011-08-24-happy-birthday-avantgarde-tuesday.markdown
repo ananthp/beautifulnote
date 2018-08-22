@@ -23,11 +23,11 @@ The published is the trimmed down version of a much longer recording, and with a
 
 - (mp3) An Avant-Garde Tuesday\</a\> (5:45 mins, 6.3 MB)
 
-- <http://soundcloud.com/ananth-pattabi/an-avant-garde-tuesday>
+- <https://soundcloud.com/ananth-pattabi/an-avant-garde-tuesday>
 
-- <http://www.jamendo.com/en/album/81596>
+- <https://www.jamendo.com/en/album/81596>
 
 ### Score:
 
-- <http://imslp.org/wiki/An_Avant-Garde_Tuesday_(Pattabiraman,_Ananth)>
+- <https://imslp.org/wiki/An_Avant-Garde_Tuesday_(Pattabiraman,_Ananth)>
 

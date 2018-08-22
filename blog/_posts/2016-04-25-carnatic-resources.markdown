@@ -12,11 +12,7 @@ Stuff on carnatic music is not usually hard to come by. Nowadays, one can look u
 
 ### Journal of The Music Academy
 
-Madras Music Academy has been publishing this journal since pre-independence era. Many important musicians and musicologists have participated in this. Journal archives from 1929 to 2002 are available online for free.
-
-* [Keyword index](http://www.musicacademymadras.in/fotemplatearchive.php?temp=f0bb1350-f75f-11e2-8d59-00304891133e&tc=1f28f41a-f7be-11e2-8d59-00304891133e&shid=1f292d36-f7be-11e2-8d59-00304891133e)
-* [Journal archives](https://issuu.com/themusicacademy)
-* NEW! [Web Journal](http://www.musicacademymadras.in/fotemplate01.php?temp=7a184615-da71-11e2-b2c0-00167688e545&tc=8dd586b0-644d-11e4-b751-00304891133e&shid=8dd5e40c-644d-11e4-b751-00304891133e)
+[Madras Music Academy](https://www.musicacademymadras.in/publications/journal) has been publishing this journal since pre-independence era. Many important musicians and musicologists have participated in this. [Journal archives](https://issuu.com/themusicacademy) from 1929 to 2002 are available online for free.
 
 ### MusicResearch.in
 

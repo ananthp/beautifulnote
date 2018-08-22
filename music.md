@@ -12,4 +12,4 @@ More tracks? <https://soundcloud.com/ananth-pattabi/tracks>
 
 - ### [Music For Commercial use](https://licensing.jamendo.com/en/catalog/search?qs=query=artist_name:%22Ananth%22)
 
-- And some more free love: [Freesound](http://www.freesound.org/people/raguanu), [ccMixter](http://ccmixter.org/people/Ananth)
+- And some more free love: [Freesound](https://www.freesound.org/people/raguanu), [ccMixter](http://ccmixter.org/people/Ananth)

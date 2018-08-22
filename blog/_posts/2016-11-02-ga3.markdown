@@ -32,5 +32,5 @@ In conclusion, western keyboard should not be used naively as a learning tool fo
 <sup>#</sup>[Cent](https://en.wikipedia.org/wiki/Cent_(music)) is a logarithmic unit of measure used for musical intervals. 
 
 <hr />
-_**Ananth Pattabiraman** is a musician and co-founder of [Kuyil](http://kuyil.org), a startup dedicated to crafting apps for carnatic.  
+_**Ananth Pattabiraman** is a musician and co-founder of [Kuyil](kuyil.org), a startup dedicated to crafting apps for carnatic.  
 [Shruti Carnatic Tuner](https://play.google.com/store/apps/details?id=org.kuyil.shruti), their android app, assists carnatic musicians and students with precise reference tones for swara sthanas._
