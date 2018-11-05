@@ -23,7 +23,7 @@ class_col_play_badge: "col-xs-offset-3 col-xs-6 col-md-offset-1 col-md-3"
 excerpt_separator: <!--more-->
 ---
 
-<em>Updated on Dec 2017</em>
+<em>Updated on Nov 2018</em>
 
 I've prepared some study material on Carnatic music theory. These notes are based on the syllabus framed by Potti Sriramulu Telugu University for Certificate in Music (Karnataka Sangeetham) examinations. Government music colleges in Telangana and Andhra Pradesh also follow the same syllabus. So, if you are a music student from one of the above mentioned colleges, or preparing to appear for the university exam as a private candidate, you'll find these texts useful.
 
@@ -33,7 +33,7 @@ I've prepared some study material on Carnatic music theory. These notes are base
 <div class='row'>
   <div class="col-md-6 text-center">
   Carnatic music theory - Year 1<br />
-  <small>Edition 2.2 (Dec 2017)</small>
+  <small>Edition 2.3 (Nov 2018)</small>
   </div>
 
   <div class="col-md-6 text-center">
