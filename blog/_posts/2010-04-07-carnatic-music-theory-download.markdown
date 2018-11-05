@@ -4,15 +4,30 @@ title: "Download: Carnatic Music Theory notes"
 description: "Music Theory notes for Carnatic Music at Government Music colleges, Andhra Pradesh/Telangana. PDFs. Free download"
 image: "{{ site.url }}/images/sample-music-theory1.png"
 author: Ananth Pattabiraman
+
 redirect_from: "/blog/2010/04/carnatic-music-theory-download/"
 redirect_from: "/theory"
+
 theory-year1: /download/carnatic_music_theory1.pdf
 theory-year2: /download/carnatic_music_theory2.pdf  
 syllabus: /download/syllabus-Telugu--carnatic_music--certificate_and_diploma--all_years.pdf  
+
+shruti_app_link:    "https://play.google.com/store/apps/details?id=org.kuyil.shruti"
+sadhakam_app_link:  "https://play.google.com/store/apps/details?id=org.kuyil.sadhakam"
+shrutibox_app_link: "https://play.google.com/store/apps/details?id=org.kuyil.shrutibox"
+
+class_col_app_logo: "col-xs-offset-4 col-xs-4 col-md-offset-0 col-md-1"
+class_col_app_text: "col-xs-12 col-md-6"
+class_col_play_badge: "col-xs-offset-3 col-xs-6 col-md-offset-1 col-md-3"
+
 excerpt_separator: <!--more-->
 ---
 
-I've prepared some study material on Carnatic music theory. These notes are based on the syllabus framed by Potti Sriramulu Telugu University for Certificate in Music (Karnataka Sangeetham) examinations. Government music colleges in Telangana and Andhra Pradesh also follow the same syllabus. So, if you are a music student from one of the above mentioned colleges, or preparing to appear for the university exam as a private candidate, you'll find these texts useful:
+<em>Updated on Dec 2017</em>
+
+I've prepared some study material on Carnatic music theory. These notes are based on the syllabus framed by Potti Sriramulu Telugu University for Certificate in Music (Karnataka Sangeetham) examinations. Government music colleges in Telangana and Andhra Pradesh also follow the same syllabus. So, if you are a music student from one of the above mentioned colleges, or preparing to appear for the university exam as a private candidate, you'll find these texts useful.
+
+<em>These texts are updated and improved from time to time. So, to share these notes, do share the link to this page, or simply <a href="{{ site.url }}/theory">beautifulnote.com/theory</a>, rather than copying or hosting the pdf files directly.</em>
 
 <hr />
 <div class='row'>
@@ -39,8 +54,7 @@ I've prepared some study material on Carnatic music theory. These notes are base
 </div>
 
 <hr />
-
-### Android apps
+### Apps for carnatic music students
 
 Here are the android apps specifically made for Carnatic music. If you are a carnatic music student, teacher or professional, you'll find them very useful.
 
@@ -49,39 +63,71 @@ Here are the android apps specifically made for Carnatic music. If you are a car
      itemscope itemtype="schema.org/MobileApplication">
   <meta itemprop="operatingSystem" content="Android" />
   <meta itemprop="applicationCategory" content="Music" />
-  <meta itemprop='sameAs' content='https://play.google.com/store/apps/details?id=org.kuyil.shruti'>
+  <meta itemprop='sameAs' content='https://play.google.com/store/apps/details?id=org.kuyil.shrutibox'>
 
-  <div class="col-md-6">
-    <span itemprop="name">Shruti Carnatic Tuner</span><br />
-  <small><span itemprop="featureList">Tune any instrument quickly. Sing to see which swaram you are singing.</span></small>
+  <div class="{{ page.class_col_app_logo }}">
+    <img class='img-responsive center-block' alt='Pocket Shruti Box app logo' src="{{ site.ur }}/images/shrutibox_logo.png" />
   </div>
 
-  <div class="col-sm-offset-4 col-sm-4 col-md-offset-1 col-md-3">
+  <div class="{{ page.class_col_app_text }}">
+  <a href="{{ page.shrutibox_app_link }}"><span itemprop="name">Pocket Shruti Box: Carnatic Tambura</span></a><br />
+  <small><span itemprop="featureList">Shruti box with clear and accurate Tambura sound. Crafted for Carnatic music.</span></small>
+  </div>
+
+  <div class="{{ page.class_col_play_badge }}">
     <a itemprop="url"
-     href='https://play.google.com/store/apps/details?id=org.kuyil.shruti&utm_source=beautifulnote&utm_campaign=theory-notes-page&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+     href='https://play.google.com/store/apps/details?id=org.kuyil.shrutibox&utm_source=beautifulnote&utm_campaign=theory-notes-page&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
       <img class='img-responsive' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
     </a>
   </div>
 </div>
 
-<hr />
 
+<hr />
 <div class='row'
      itemscope itemtype="schema.org/MobileApplication">
   <meta itemprop="operatingSystem" content="Android" />
   <meta itemprop="applicationCategory" content="Music" />
   <meta itemprop='sameAs' content='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>
 
-  <div class="col-md-6">
-    <span itemprop="name">Sādhakam Carnatic Ear Trainer</span><br />
+  <div class="{{ page.class_col_app_logo }}">
+    <img class='img-responsive center-block' alt='shruti app logo' src="{{ site.ur }}/images/sadhakam_logo.png" />
+  </div>
+
+  <div class="{{ page.class_col_app_text }}">
+    <a href="{{ page.sadhakam_app_link }}"><span itemprop="name">Sādhakam Carnatic Ear Trainer</span></a><br />
   <small><span itemprop="featureList">Easiest way to improve your Swara gyānam! Learn to identify swarasthanas by ear.</span></small>
   </div>
 
-  <div class="col-sm-offset-4 col-sm-4 col-md-offset-1 col-md-3">
+  <div class="{{ page.class_col_play_badge }}">
     <a itemprop="url"
      href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam&utm_source=beautifulnote&utm_campaign=theory-notes-page&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
       <img class='img-responsive' alt='Get it on Google Play'
             src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
+    </a>
+  </div>
+</div>
+
+<hr />
+<div class='row'
+     itemscope itemtype="schema.org/MobileApplication">
+  <meta itemprop="operatingSystem" content="Android" />
+  <meta itemprop="applicationCategory" content="Music" />
+  <meta itemprop='sameAs' content='https://play.google.com/store/apps/details?id=org.kuyil.shruti'>
+
+  <div class="{{ page.class_col_app_logo }}">
+    <img class='img-responsive center-block' alt='shruti app logo' src="{{ site.ur }}/images/shruti_logo.png" />
+  </div>
+
+  <div class="{{ page.class_col_app_text }}">
+  <a href="{{ page.shruti_app_link }}"><span itemprop="name">Shruti Carnatic Tuner</span></a><br />
+  <small><span itemprop="featureList">Tune any instrument quickly. Sing to see which swaram you are singing.</span></small>
+  </div>
+
+  <div class="{{ page.class_col_play_badge }}">
+    <a itemprop="url"
+     href='https://play.google.com/store/apps/details?id=org.kuyil.shruti&utm_source=beautifulnote&utm_campaign=theory-notes-page&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+      <img class='img-responsive' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
     </a>
   </div>
 </div>
