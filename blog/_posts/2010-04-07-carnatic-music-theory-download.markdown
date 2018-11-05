@@ -71,7 +71,7 @@ Here are the android apps specifically made for Carnatic music. If you are a car
 
   <div class="{{ page.class_col_app_text }}">
   <a href="{{ page.shrutibox_app_link }}"><span itemprop="name">Pocket Shruti Box: Carnatic Tambura</span></a><br />
-  <small><span itemprop="featureList">Shruti box with clear and accurate Tambura sound. Crafted for Carnatic music.</span></small>
+  <small><span itemprop="featureList">Authentic tambura sound. Clear and accurate.</span></small>
   </div>
 
   <div class="{{ page.class_col_play_badge }}">
