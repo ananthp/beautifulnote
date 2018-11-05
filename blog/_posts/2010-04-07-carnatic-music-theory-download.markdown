@@ -27,7 +27,7 @@ excerpt_separator: <!--more-->
 
 I've prepared some study material on Carnatic music theory. These notes are based on the syllabus framed by Potti Sriramulu Telugu University for Certificate in Music (Karnataka Sangeetham) examinations. Government music colleges in Telangana and Andhra Pradesh also follow the same syllabus. So, if you are a music student from one of the above mentioned colleges, or preparing to appear for the university exam as a private candidate, you'll find these texts useful.
 
-<em>These texts are updated and improved from time to time. So, to share these notes, do share the link to this page, or simply <a href="{{ site.url }}/theory">beautifulnote.com/theory</a>, rather than copying or hosting the pdf files directly.</em>
+<em>These texts are updated and improved from time to time. You are encouraged to share the link to this page, or simply <a href="{{ site.url }}/theory">beautifulnote.com/theory</a>. Never share or host or link to pdf files directly.</em>
 
 <hr />
 <div class='row'>
