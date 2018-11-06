@@ -17,26 +17,27 @@ sadhakam_app_link:  "https://play.google.com/store/apps/details?id=org.kuyil.sad
 shrutibox_app_link: "https://play.google.com/store/apps/details?id=org.kuyil.shrutibox"
 
 class_col_app_logo: "col-xs-offset-4 col-xs-4 col-md-offset-0 col-md-1"
-class_col_app_text: "col-xs-12 col-md-6"
+class_col_app_text: "appinfo col-xs-12 col-md-6"
 class_col_play_badge: "col-xs-offset-3 col-xs-6 col-md-offset-1 col-md-3"
+
 
 excerpt_separator: <!--more-->
 ---
 
 <em>Updated on Nov 2018</em>
 
-I've prepared some study material on Carnatic music theory. These notes are based on the syllabus framed by Potti Sriramulu Telugu University for Certificate in Music (Karnataka Sangeetham) examinations. Government music colleges in Telangana and Andhra Pradesh also follow the same syllabus. So, if you are a music student from one of the above mentioned colleges, or preparing to appear for the university exam as a private candidate, you'll find these texts useful.
+I've prepared some study material on Carnatic music theory. These notes are based on the syllabus framed by Potti Sriramulu Telugu University for Certificate in Music (Karnataka Sangeetham) examinations. Government music colleges in Telangana and Andhra Pradesh also follow the same syllabus. So, if you are a music student from one of the above mentioned colleges, or preparing to appear for the university exam as a private candidate, you'll find these texts useful. This might also serve as an easy-to-follow introduction to Carnatic music for those who are generally interested in the system but not appearing for any particular examination.
 
 <em>These texts are updated and improved from time to time. You are encouraged to share the link to this page, or simply <a href="{{ site.url }}/theory">beautifulnote.com/theory</a>. Never share or host or link to pdf files directly.</em>
 
 <hr />
 <div class='row'>
-  <div class="col-md-6 text-center">
+  <div class="col-xs-12 col-md-6 text-center theory_text_filename">
   Carnatic music theory - Year 1<br />
   <small>Edition 2.3 (Nov 2018)</small>
   </div>
 
-  <div class="col-md-6 text-center">
+  <div class="col-xs-12 col-md-6 text-center">
     <a class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year1}}">Download</a>
   </div>
 </div>
@@ -44,7 +45,7 @@ I've prepared some study material on Carnatic music theory. These notes are base
 <hr />
 
 <div class='row'>
-  <div class="col-md-6 text-center">
+  <div class="col-md-6 text-center theory_text_filename">
   Carnatic music theory - Year 2
   </div>
 
@@ -59,14 +60,16 @@ I've prepared some study material on Carnatic music theory. These notes are base
 Here are the android apps specifically made for Carnatic music. If you are a carnatic music student, teacher or professional, you'll find them very useful.
 
 <hr />
-<div class='row'
+<div class='row vcenter-desktop'
      itemscope itemtype="schema.org/MobileApplication">
   <meta itemprop="operatingSystem" content="Android" />
   <meta itemprop="applicationCategory" content="Music" />
   <meta itemprop='sameAs' content='https://play.google.com/store/apps/details?id=org.kuyil.shrutibox'>
 
   <div class="{{ page.class_col_app_logo }}">
-    <img class='img-responsive center-block' alt='Pocket Shruti Box app logo' src="{{ site.ur }}/images/shrutibox_logo.png" />
+    <a href="{{ page.shrutibox_app_link }}"> 
+        <img class='img-responsive center-block' alt='Pocket Shruti Box app logo' src="{{ site.url }}/images/shrutibox_logo.png" />
+    </a>
   </div>
 
   <div class="{{ page.class_col_app_text }}">
@@ -84,14 +87,16 @@ Here are the android apps specifically made for Carnatic music. If you are a car
 
 
 <hr />
-<div class='row'
+<div class='row vcenter-desktop'
      itemscope itemtype="schema.org/MobileApplication">
   <meta itemprop="operatingSystem" content="Android" />
   <meta itemprop="applicationCategory" content="Music" />
   <meta itemprop='sameAs' content='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>
 
   <div class="{{ page.class_col_app_logo }}">
-    <img class='img-responsive center-block' alt='shruti app logo' src="{{ site.ur }}/images/sadhakam_logo.png" />
+    <a href="{{ page.sadhakam_app_link }}">
+        <img class='img-responsive center-block' alt='sadhakam app logo' src="{{ site.url }}/images/sadhakam_logo.png" />
+    </a>
   </div>
 
   <div class="{{ page.class_col_app_text }}">
@@ -109,14 +114,16 @@ Here are the android apps specifically made for Carnatic music. If you are a car
 </div>
 
 <hr />
-<div class='row'
+<div class='row vcenter-desktop'
      itemscope itemtype="schema.org/MobileApplication">
   <meta itemprop="operatingSystem" content="Android" />
   <meta itemprop="applicationCategory" content="Music" />
   <meta itemprop='sameAs' content='https://play.google.com/store/apps/details?id=org.kuyil.shruti'>
 
   <div class="{{ page.class_col_app_logo }}">
-    <img class='img-responsive center-block' alt='shruti app logo' src="{{ site.ur }}/images/shruti_logo.png" />
+    <a href="{{ page.shruti_app_link }}">
+        <img class='img-responsive center-block' alt='shruti app logo' src="{{ site.url }}/images/shruti_logo.png" />
+    </a>
   </div>
 
   <div class="{{ page.class_col_app_text }}">
