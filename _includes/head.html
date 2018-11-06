@@ -6,28 +6,16 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <!--   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}"> -->
+  <!-- style sheets -->
+  {% include bootstrap.html %}
+  <link rel="stylesheet" href="{{ '/css/site_theme.css' | prepend: site.baseurl }}">
 
-  <!-- Bootstrap -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-  <link rel="stylesheet" href="{{ "/css/bootstrap-overrides.css" | prepend: site.baseurl }}">
-
-
-  <link href='https://fonts.googleapis.com/css?family=Life+Savers|Milonga|Open+Sans|Roboto' rel='stylesheet' type='text/css'>
+  <!-- fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans|Roboto' rel='stylesheet' type='text/css'>
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-  <!-- Start of Woopra Code. Statistics -->
-  <script>
-(function(){
-         var t,i,e,n=window,o=document,a=arguments,s="script",r=["config","track","identify","visit","push","call","trackForm","trackClick"],c=function(){var t,i=this;for(i._e=[],t=0;r.length>t;t++)(function(t){i[t]=function(){return i._e.push([t].concat(Array.prototype.slice.call(arguments,0))),i}})(r[t])};for(n._w=n._w||{},t=0;a.length>t;t++)n._w[a[t]]=n[a[t]]=n[a[t]]||new c;i=o.createElement(s),i.async=1,i.src="//static.woopra.com/js/t/5.js",e=o.getElementsByTagName(s)[0],e.parentNode.insertBefore(i,e)
-         })("woopra");
 
-woopra.config({
-        domain: 'beautifulnote.com'
-        });
-woopra.track();
-  </script>
-  <!-- End of Woopra Code -->
+  {% include woopra.html %}
   {% seo %}
 </head>
