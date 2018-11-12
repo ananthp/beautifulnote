@@ -34,7 +34,7 @@ I've prepared some study material on Carnatic music theory. These notes are base
 <div class='row'>
   <div class="col-xs-12 col-md-6 text-center theory_text_filename">
   Carnatic music theory - Year 1<br />
-  <small>Edition 2.3 (Nov 2018)</small>
+  <small>Edition 2.5 (Nov 2018)</small>
   </div>
 
   <div class="col-xs-12 col-md-6 text-center">
