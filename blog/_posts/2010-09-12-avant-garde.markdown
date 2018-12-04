@@ -12,7 +12,7 @@ redirect_from: "/blog/2010/09/avant-garde/"
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/8043164&amp;color=333333&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 <!-- Image redundant. Soundcloud player already show it
-![Avantgarde Tuesday]({{site.url}}/images/avatgardetuesday.png "avatgardetuesday")
+![Avantgarde Tuesday]({{site.url}}/images/avantgardetuesday.png "avantgardetuesday")
 -->
 
 ### About this work:

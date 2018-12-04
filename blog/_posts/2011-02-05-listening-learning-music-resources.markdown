@@ -31,7 +31,7 @@ A typical page in a music theory/appreciation book looks like this -
 
  San Francisco Conservatory of Music This site has excellent supplementary materials for Harmony and Analysis. The school suggests Aldwell-Schachter's book on harmony.  This site has examples - scores & and associated audio recordings, for the theoretical matters discussed in each chapter of the book, with some descriptions. The examples make sense even without the prescribed book.
 
-<img class="img-responsive" src="{{site.url}}/images/screenshot-sfcmtheory.png" alt="Screenshot: scfmtheory.com" />
+<img class="img-responsive" src="{{site.url}}/images/screenshot-sfcmtheory.jpg" alt="Screenshot: scfmtheory.com" />
 <http://www.sfcmtheory.com/>
 
  Interesting Sections from the site:
