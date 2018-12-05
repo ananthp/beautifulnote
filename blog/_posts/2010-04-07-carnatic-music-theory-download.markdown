@@ -21,7 +21,6 @@ class_col_app_logo: "col-xs-offset-4 col-xs-4 col-md-offset-0 col-md-1"
 class_col_app_text: "appinfo col-xs-12 col-md-6"
 class_col_play_badge: "col-xs-offset-3 col-xs-6 col-md-offset-1 col-md-3"
 
-
 excerpt_separator: <!--more-->
 ---
 
