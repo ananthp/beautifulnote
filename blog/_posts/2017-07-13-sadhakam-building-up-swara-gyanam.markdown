@@ -60,4 +60,4 @@ If you have learnt typewriting you'd have experienced the same stages. Initially
 Our brains just need a lot of time and lots of repetition to internalize patterns. That's why the exercises in Sadhakam app are short, reasonably fast paced and repeatable. So, don't worry too much about making mistakes, just practice, practice and practice a lot!
 
 <hr />
-_**Ananth Pattabiraman** is a musician and co-founder of [Kuyil](kuyil.org), a startup dedicated to crafting apps for carnatic._
+_**Ananth Pattabiraman** is a musician and co-founder of [Kuyil](https://kuyil.org), a startup dedicated to crafting apps for carnatic._
