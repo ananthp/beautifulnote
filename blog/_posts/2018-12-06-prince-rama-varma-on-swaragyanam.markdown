@@ -24,12 +24,12 @@ This is exactly why we built [Sadhakam Carnatic Ear Trainer](https://play.google
 <div class='row'>
 <div class='col-xs-6'>
 	<a href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>
-	<img width='230px' src="/images/screenshot-sadhakam-srg-question.png" alt="a challenge in sadhakam app sa-ri-ga exercise" />
+	<img class='img-responsive' src="/images/screenshot-sadhakam-srg-question.png" alt="a challenge in sadhakam app sa-ri-ga exercise" />
 	</a>
 </div>
 <div class='col-xs-6'>
 	<a href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>
-	<img width='230px' src="/images/screenshot-sadhakam-srg-answer.png" alt="answer to the challenge in sadhakam app" />
+	<img class='img-responsive' src="/images/screenshot-sadhakam-srg-answer.png" alt="answer to the challenge in sadhakam app" />
 	</a>
 </div>
 </div>
