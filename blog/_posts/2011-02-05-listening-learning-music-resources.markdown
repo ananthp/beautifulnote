@@ -13,8 +13,8 @@ A typical page in a music theory/appreciation book looks like this -
 <!--more-->
 <blockquote><p>NOTE: This article is on <em>Western</em> music theory resources. For <em>Carnatic music</em> related resources see these:
 <ul>
-    <li> <a href="{% post_url 2010-04-07-carnatic-music-theory-download %}">Download: Carnatic Music Theory</a></li>
-    <li> <a href="{% post_url 2016-04-25-carnatic-resources %}">Carnatic Music Resources</a></li>
+    <li> <a href="{% post_url blog/2010-04-07-carnatic-music-theory-download %}">Download: Carnatic Music Theory</a></li>
+    <li> <a href="{% post_url blog/2016-04-25-carnatic-resources %}">Carnatic Music Resources</a></li>
 </ul></p></blockquote>
 
 <p class='lead'>Here are some fantastic resources, all **Free!**, both for listeners and music students.</p>
@@ -31,7 +31,7 @@ A typical page in a music theory/appreciation book looks like this -
 
  San Francisco Conservatory of Music This site has excellent supplementary materials for Harmony and Analysis. The school suggests Aldwell-Schachter's book on harmony.  This site has examples - scores & and associated audio recordings, for the theoretical matters discussed in each chapter of the book, with some descriptions. The examples make sense even without the prescribed book.
 
-<img class="img-responsive" src="{{site.url}}/images/screenshot-sfcmtheory.png" alt="Screenshot: scfmtheory.com" />
+<img class="img-responsive" src="{{site.url}}/images/screenshot-sfcmtheory.jpg" alt="Screenshot: scfmtheory.com" />
 <http://www.sfcmtheory.com/>
 
  Interesting Sections from the site:
@@ -46,13 +46,12 @@ A typical page in a music theory/appreciation book looks like this -
 
  <img class="img-responsive" src="{{site.url}}/images/screenshot-belkin.png" alt="Alan Belkin: Writings on Musical Craft" />
 
-[Alan Belkin, composer. Writings on Musical Craft](http://alanbelkinmusic.com/ABWritingNAV.html)
+[Alan Belkin, composer. Writings on Musical Craft](http://alanbelkinmusic.com)
 
-*More from Belkin:* [Principles of Orchestration Online](http://www.northernsounds.com/forum/forumdisplay.php/77-Principles-of-Orchestration-On-line), based on Rimsky-Korsakov's book with the same title.
 
 
 #### and some more
 
- -  <http://imslp.org/wiki/Category:Music_theory\> - Music Theory books in Public Domain: (Including books on Harmony written by Schoenberg, Schenker, Tchaikovsky, Rameau; and on Orchestration by Berlioz, Forsyth, Rimsky, etc.)
+ -  <https://imslp.org/wiki/Category:Music_theory\> - Music Theory books in Public Domain: (Including books on Harmony written by Schoenberg, Schenker, Tchaikovsky, Rameau; and on Orchestration by Berlioz, Forsyth, Rimsky, etc.)
 
  - <http://www.harmony.org.uk/>

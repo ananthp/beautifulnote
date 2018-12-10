@@ -1,0 +1,55 @@
+---
+---
+
+html,
+body, 
+p
+  font-family: 'Roboto', 'Open Sans', sans-serif
+  font-size: 18px
+  
+p
+  padding-bottom: 8px
+  line-height: 1.7
+  font-family: 'Libre Baskerville', serif
+
+h1, h2, h3, h4
+  font-family: 'Roboto', sans-serif
+
+.post-date
+  color: #757575
+  padding-top: 0px
+  padding-bottom: 24px
+  font-family: 'Libre Baskerville', serif
+  font-style: italic
+  
+// this is the minimum width of md (desktop) screens
+// this variable is defined by bootstrap, and ideally should be simply imported here.
+// however, as we don't have bootstrap source here, we simply redefine it.
+// ref: https://getbootstrap.com/docs/3.3/css/#grid-options
+$screen-md-min: 992px
+
+// mobile
+@media (max-width: $screen-md-min)
+  .appinfo
+    text-align: center
+    margin-top: 12px
+    margin-bottom: 8px
+
+  .row
+    .vcenter-mobile
+      align-items: center
+      display: flex
+      
+  .theory_text_filename
+    padding-top: 8px
+    padding-bottom: 8px
+
+// desktop
+@media (min-width: $screen-md-min)
+  .appinfo
+    text-align: left
+
+  .row
+    .vcenter-desktop
+      align-items: center
+      display: flex

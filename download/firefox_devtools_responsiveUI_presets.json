@@ -1,0 +1,31 @@
+[
+    {"name" : "FullHD 1080p", "width": 1920, "height": 1080},
+    {"name" : "HD 720p", "width": 1280, "height": 720},
+
+    {"name" : "Laptop", "width": 1366, "height": 768},
+
+    {"name" : "Bootstrap xs max width", "width": 767, "height": 720},
+    {"name" : "Bootstrap sm min width", "width": 768, "height": 720},
+    {"name" : "Bootstrap sm max width", "width": 991, "height": 720},
+    {"name" : "Bootstrap md min width", "width": 992, "height": 720},
+    {"name" : "Bootstrap md max width", "width": 1199, "height": 720},
+    {"name" : "Bootstrap lg min width", "width": 1200, "height": 720},
+
+
+    {"name" : "Material breakpoint 480", "width": 480, "height": 720},
+    {"name" : "Material breakpoint 600", "width": 600, "height": 720},
+    {"name" : "Material breakpoint 840", "width": 840, "height": 720},
+    {"name" : "Material breakpoint 960", "width": 960, "height": 720},
+    {"name" : "Material breakpoint 1280", "width": 1280, "height": 720},
+    {"name" : "Material breakpoint 1440", "width": 1440, "height": 720},
+    {"name" : "Material breakpoint 1600", "width": 1600, "height": 720},
+
+    {"name" : "Android handset portait very small", "width": 320, "height": 569},
+    {"name" : "Android handset portait small", "width": 360, "height": 640},
+    {"name" : "Android handset portait medium", "width": 400, "height": 711},
+    {"name" : "Android handset portait large (4 columns)", "width": 480, "height": 853},
+    {"name" : "Android handset portait large (max, fill screen)", "width": 600, "height": 1066},
+
+
+    {"name" : "Android One 320x569dp hdpi(1.5x)", "width": 320, "height": 569}
+]

@@ -1,10 +1,17 @@
 ---
 layout: bootstrap-frontpage
 ---
-<article itemscope itemtype="http://schema.org/BlogPosting">
+<article>
   <header>
     <h1>{{ page.title }}</h1>
-    <p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <div class='post-date'>
+        {% if page.updated %} 
+        Updated on {{ page.updated | date: "%b %Y" }}
+        {% else %}
+        {{ page.date | date: "%b %-d, %Y" }}
+        {% endif %}
+        {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+    </div>
   </header>
 {{ content }}
 </article>

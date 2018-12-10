@@ -4,7 +4,7 @@ title: Music
 redirect_from: "/blog/music/"
 ---
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/2410015&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/337319561&amp;color=ff9900&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 More tracks? <https://soundcloud.com/ananth-pattabi/tracks>
 
@@ -12,4 +12,4 @@ More tracks? <https://soundcloud.com/ananth-pattabi/tracks>
 
 - ### [Music For Commercial use](https://licensing.jamendo.com/en/catalog/search?qs=query=artist_name:%22Ananth%22)
 
-- And some more free love: [Freesound](http://www.freesound.org/people/raguanu), [ccMixter](http://ccmixter.org/people/Ananth)
+- And some more free love: [Freesound](https://www.freesound.org/people/raguanu), [ccMixter](http://ccmixter.org/people/Ananth)
