@@ -7,13 +7,10 @@ image: "{{site.url}}/images/mahaganapathim-snippet.png"
 redirect_from: "/blog/2010/07/score-mahaganapatim-kriti-naattai-eka-dikshitar/"
 ---
 
-<img class="img-responsive" src="{{site.url}}/images/mahaganapathim-snippet.png" alt="Mahaganapathim music score snippet" />
+<img class="img-responsive" src='{{ "/images/mahaganapathim-snippet.png" | absolute_url }}' alt='Mahaganapathim music score snippet' />
 
-Download Mahaganapathim Score PDF:
+Download: 
+<a {{ site.external_link }} href='{{ "/download/scores/mahaganapathim-naattai-eka-dikshitar.pdf" | absolute_url }}'>Mahaganapathim Score (PDF)</a>
 
-Local Copy: [Mahaganapathim Score]({{site.url}}/download/scores/mahaganapathim-naattai-eka-dikshitar.pdf "Mahaganapathim")
-
-Mirror: [IMSLP.org](https://imslp.org/wiki/Maha_Ganapathim_%28Kriti%29_%28Dikshitar,_Muthuswamy%29)
-
-Or, in traditional Carnatic style notation, *sarigama*, from  [Carnatic Scores Repository](https://ananthp.github.io/carnatic_scores/)
+Carnatic style *sarigama* notation can be downloaded from  <a {{ site.external_link }} href='https://ananthp.github.io/carnatic_scores/'>Carnatic Scores Repository</a>
 

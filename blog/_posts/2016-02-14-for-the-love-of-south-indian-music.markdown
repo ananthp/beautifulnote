@@ -6,7 +6,7 @@ description: Write up on Professor P Sambamurthy's contributions to Carnatic mus
 excerpt_separator: <!--more-->
 ---
 
-14th February is Musicologist Professor P. Sambamurthy's birthday. I started reading his treatise, *South Indian Music (6 volumes)*, when I got more than slightly interested in Carnatic music. I can't say I liked it very much at first. But I knew it was a very important resource and kept coming back to it often.
+14th of February is Musicologist Professor P. Sambamurthy's birthday. I started reading his treatise, *South Indian Music (6 volumes)*, when I got more than slightly interested in Carnatic music. I can't say I liked it very much at first. But I knew it was a very important resource and kept coming back to it often.
 
 At first, it didn't feel like a crisp, concise theory book. I thought it had a lot of fluff and unnecessary boasting (about the system of music). I began appreciating the quality of the contents only after reading a few more *theory* books. Some of them had passages literally copied from Sambamoorthy's, while others didn't have much of theoretical value IMHO (particularly the ones began with "Carnatic music originated from Shiva's head")
 
@@ -25,4 +25,4 @@ Actually the comparative attitude in Karnatic music related texts was quite comm
 
 One shouldn't think I'm underestimating Prof. Sambamurthy's contribution. Actually I admire his passion for Carnatic music. His texts on music theory have become standard references to both beginners and pros, his biographies of composers and performers with rare pictures are treasures. He loved carnatic music and had a positive attitude towards it.
 
-I know very little about this great man. The only photograph printed in one of his books is very shady. He has received Padma Bhushan in 1971, the official entry says *Pich Sambamurthy*. At the time of this writing there was no wikipedia article about him, so I created one - [Wikipedia: Professor P Sambamurthy](https://en.wikipedia.org/wiki/Professor_P_Sambamurthy#Publications). Do contribute facts and improve the page.
+I know very little about this great man. The only photograph printed in one of his books is very shady. He has received Padma Bhushan in 1971, the official entry says *Pich Sambamurthy*. At the time of this writing there was no wikipedia article about him, so I created one - <a {{ site.external_link }} href='https://en.wikipedia.org/wiki/Professor_P_Sambamurthy'>Wikipedia: Professor P Sambamurthy</a>. Do contribute facts and improve the page.

@@ -19,7 +19,7 @@ Excerpts from his talk:
 > 
 > 12:37 "Like a keyboard, in our throat, in our ear, in our brain, all 12 notes have to be fixed."
 
-This is exactly why we built [Sadhakam Carnatic Ear Trainer](https://play.google.com/store/apps/details?id=org.kuyil.sadhakam) (Android app). It has direct swaram centric exercises that will help you fix all the swarasthanas <em>in your throat, ear and brain</em> as Prince Rama Varma advices.
+This is exactly why we built <a {{ site.external_link }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sadhakam Carnatic Ear Trainer</a> (Android app). It has direct swaram centric exercises that will help you fix all the swarasthanas <em>in your throat, ear and brain</em> as Prince Rama Varma advices.
 
 <div class='row'>
 <div class='col-xs-6'>

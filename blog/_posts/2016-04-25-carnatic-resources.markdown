@@ -12,8 +12,8 @@ Stuff on carnatic music is not usually hard to come by. Nowadays, one can look u
 
 ### Journal of The Music Academy
 
-[Madras Music Academy](https://www.musicacademymadras.in/publications/journal) has been publishing this journal since pre-independence era. Many important musicians and musicologists have participated in this. [Journal archives](https://issuu.com/themusicacademy) from 1929 to 2002 are available online for free.
+<a {{ site.external_link }} href='https://www.musicacademymadras.in/publications/journal'>Madras Music Academy</a> has been publishing this journal since pre-independence era. Many important musicians and musicologists have participated in this. <a {{ site.external_link }} href='https://issuu.com/themusicacademy'>Journal archives</a> from 1929 to 2002 are available online for free.
 
 ### MusicResearch.in
 
-[musicresearch.in](musicresearch.in) hosts some fine scholarly articles, scanned copies of rare books and manuscripts. It's not a very easy to use site but its contents are invaluable. Recently, they've spawned a new site [musicresearchlirary.net](musicresearchlibrary.net) and are moving rare books and manuscripts there along with some more content.
+ <a {{ site.external_link }} href='http://musicresearchlibrary.net'>Music Research Library</a> hosts some fine scholarly articles, scanned copies of rare books and manuscripts.

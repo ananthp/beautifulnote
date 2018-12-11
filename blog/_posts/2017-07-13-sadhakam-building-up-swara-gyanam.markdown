@@ -24,7 +24,7 @@ excerpt_separator: <!--more-->
 </script>
 
 
-[Sādhakam Carnatic Ear Trainer](https://play.google.com/store/apps/details?id=org.kuyil.sadhakam) is an android app which helps students build their Swara Gyānam. Practicing with the app, doing the interactive exercises, students gradually develop their ability to identify swarams they hear. Hearing a sound and being able to tell the swarasthanam instantly is a wonderful skill, isn't it? 
+<a {{ site.external_link }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sādhakam Carnatic Ear Trainer</a> is an android app which helps students build their Swara Gyānam. Practicing with the app, doing the interactive exercises, students gradually develop their ability to identify swarams they hear. Hearing a sound and being able to tell the swarasthanam instantly is a wonderful skill, isn't it? 
 
 <img class="img-responsive center-block" alt="Challange answered correct" src="{{ site.url }}/images/sadhakam-answer-correct.png" />
 
@@ -46,8 +46,6 @@ excerpt_separator: <!--more-->
 	</div>
 </div>
 
-
-
 This feels like a quiz game. Some users may feel it would be better if they can hear the swarams and combinations before taking the quiz. But the quiz itself is the learning process! Let's say you start the first exercise and you are immediately asked to identify a Ri. You have absolutely no clue whether it's Ri1 or Ri2 or Ri3. You can replay the question again and again and listen carefully. Still doesn't ring a bell? Just take a wild guess and answer. You may be right or wrong, but you shall make a note of the correct answer. Next time in the same session if you get the same combination you might get it right.
 
 Skill development happens in different stages when you practice this way. Initially, in an exercise session, you may make some mistakes but get many of the questions right based on learning from your mistakes. For instance, you answered Ri1 when the correct answer is Ri2. If the next question is actually Ri2 again you'll get it. If the subsequent question is Ri1 or Ri3, you'll compare the sound with the Ri2 in your memory and be able to make a reasonable guess based on whether the new swaram sounds higher or lower. This is the very first stage (let's call it Stage 1). You make some blunders, based on that you learn something.
@@ -60,4 +58,4 @@ If you have learnt typewriting you'd have experienced the same stages. Initially
 Our brains just need a lot of time and lots of repetition to internalize patterns. That's why the exercises in Sadhakam app are short, reasonably fast paced and repeatable. So, don't worry too much about making mistakes, just practice, practice and practice a lot!
 
 <hr />
-_**Ananth Pattabiraman** is a musician and co-founder of [Kuyil](https://kuyil.org), a startup dedicated to crafting apps for carnatic._
+_**Ananth Pattabiraman** is a musician and co-founder of <a {{ site.external_link }} href='https://kuyil.org'>Kuyil</a>, a startup dedicated to crafting apps for carnatic._

@@ -21,13 +21,13 @@ The published is the trimmed down version of a much longer recording, and with a
 
 ### Download:
 
-- <a href="/download/music/ananth-avant_garde_tuesday.mp3">(mp3) An Avant-Garde Tuesday</a> (5:45 mins, 6.3 MB)
+- <a {{ site.external_url }} href="/download/music/ananth-avant_garde_tuesday.mp3">An Avant-Garde Tuesday</a> (mp3, 5:45 mins, 6.3 MB)
 
-- <https://soundcloud.com/ananth-pattabi/an-avant-garde-tuesday>
+- Listen to it on <a {{ site.external_link }} href='https://soundcloud.com/ananth-pattabi/an-avant-garde-tuesday'>Soundcloud</a>
 
-- <https://www.jamendo.com/en/album/81596>
+- Listen to it on <a {{ site.external_link }} href='https://www.jamendo.com/en/album/81596'>Jamendo</a>
 
 ### Score:
 
-- <https://imslp.org/wiki/An_Avant-Garde_Tuesday_(Pattabiraman,_Ananth)>
+- Download <a {{ site.external_link }} href='https://imslp.org/wiki/An_Avant-Garde_Tuesday_(Pattabiraman,_Ananth)'>music score</a> from IMSLP
 
