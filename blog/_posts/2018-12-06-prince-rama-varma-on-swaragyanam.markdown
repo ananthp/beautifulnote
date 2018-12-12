@@ -5,6 +5,8 @@ layout: post
 class_col_app_logo: "col-xs-offset-4 col-xs-4 col-md-offset-0 col-md-1"
 class_col_app_text: "appinfo col-xs-12 col-md-6"
 class_col_play_badge: "col-xs-offset-3 col-xs-6 col-md-offset-1 col-md-3"
+
+sadhakam_app_link: https://play.google.com/store/apps/details?id=org.kuyil.sadhakam
 ---
 
 Prince Rama Varma, an eminent carnatic musician and teacher, points out a shortcoming in swara gyanam that's common even among advanced carnatic musicians. He also explains why it is common in our traditional raga-by-raga learning process:
@@ -47,18 +49,18 @@ Sadhakam app in action: In a swaram quiz, the app has played a sequence and the 
   <meta itemprop='sameAs' content='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>
 
   <div class="{{ page.class_col_app_logo }}">
-    <a href="{{ page.sadhakam_app_link }}">
+    <a {{ site.external_link }} href="{{ page.sadhakam_app_link }}">
         <img class='img-responsive center-block' alt='sadhakam app logo' src="{{ site.url }}/images/sadhakam_logo.png" />
     </a>
   </div>
 
   <div class="{{ page.class_col_app_text }}">
-    <a href="{{ page.sadhakam_app_link }}"><span itemprop="name">Sādhakam Carnatic Ear Trainer</span></a><br />
+    <a {{ site.external_link }} href="{{ page.sadhakam_app_link }}"><span itemprop="name">Sādhakam Carnatic Ear Trainer</span></a><br />
   <small><span itemprop="featureList">Easiest way to improve your Swara gyānam! Learn to identify swarasthanas by ear.</span></small>
   </div>
 
   <div class="{{ page.class_col_play_badge }}">
-    <a itemprop="url"
+    <a {{ site.external_link }} itemprop="url"
      href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam&utm_source=beautifulnote&utm_campaign=theory-notes-page&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
       <img class='img-responsive' alt='Get it on Google Play'
             src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
