@@ -15,10 +15,10 @@ redirect_from: "/blog/2010/03/dharbar-varnam-score/"
 
 <div class='row'>
     <div class='col-md-6'>
-<img class="img-responsive" alt="Dharbar Varnam Score - Page 1" src='{{ "/images/ananth-dharbar_varnam_page1.png" | absolute_url }}' />
+<img class="img-fluid" alt="Dharbar Varnam Score - Page 1" src='{{ "/images/ananth-dharbar_varnam_page1.png" | absolute_url }}' />
     </div>
     <div class='col-md-6'>
-<img class="img-responsive" alt="Dharbar Varnam Score - Page 2" src='{{ "/images/ananth-dharbar_varnam_page2.png" | absolute_url }}' />
+<img class="img-fluid" alt="Dharbar Varnam Score - Page 2" src='{{ "/images/ananth-dharbar_varnam_page2.png" | absolute_url }}' />
     </div>
 </div>
 <!--more-->

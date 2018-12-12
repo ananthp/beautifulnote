@@ -26,12 +26,12 @@ This is exactly why we built <a {{ site.external_link }} href='https://play.goog
 <div class='row'>
 <div class='col-xs-6'>
 	<a href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>
-	<img class='img-responsive' src="/images/screenshot-sadhakam-srg-question.png" alt="a challenge in sadhakam app sa-ri-ga exercise" />
+	<img class='img-fluid' src="/images/screenshot-sadhakam-srg-question.png" alt="a challenge in sadhakam app sa-ri-ga exercise" />
 	</a>
 </div>
 <div class='col-xs-6'>
 	<a href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>
-	<img class='img-responsive' src="/images/screenshot-sadhakam-srg-answer.png" alt="answer to the challenge in sadhakam app" />
+	<img class='img-fluid' src="/images/screenshot-sadhakam-srg-answer.png" alt="answer to the challenge in sadhakam app" />
 	</a>
 </div>
 </div>
@@ -50,7 +50,7 @@ Sadhakam app in action: In a swaram quiz, the app has played a sequence and the 
 
   <div class="{{ page.class_col_app_logo }}">
     <a {{ site.external_link }} href="{{ page.sadhakam_app_link }}">
-        <img class='img-responsive center-block' alt='sadhakam app logo' src="{{ site.url }}/images/sadhakam_logo.png" />
+        <img class='img-fluid center-block' alt='sadhakam app logo' src="{{ site.url }}/images/sadhakam_logo.png" />
     </a>
   </div>
 
@@ -62,7 +62,7 @@ Sadhakam app in action: In a swaram quiz, the app has played a sequence and the 
   <div class="{{ page.class_col_play_badge }}">
     <a {{ site.external_link }} itemprop="url"
      href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam&utm_source=beautifulnote&utm_campaign=theory-notes-page&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
-      <img class='img-responsive' alt='Get it on Google Play'
+      <img class='img-fluid' alt='Get it on Google Play'
             src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
     </a>
   </div>

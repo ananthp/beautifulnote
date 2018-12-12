@@ -11,7 +11,7 @@ Actually, _all swarasthanas deviate from their respective western notes_!
 
 Take a look at this visualization that shows the deviation of carnatic swarasthanams from their nearest western equal-tempered notes:
 
-<img class="img-responsive" alt="deviation of carnatic swarasthanas from their nearest ET notes" src="{{ site.url }}/images/carnatic_vs_et.png" />
+<img class="img-fluid" alt="deviation of carnatic swarasthanas from their nearest ET notes" src="{{ site.url }}/images/carnatic_vs_et.png" />
 
 As you can clearly see from the chart:
 <!--more-->

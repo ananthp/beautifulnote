@@ -29,7 +29,7 @@ Listen to it on <a {{ site.external_link }} href='https://www.jamendo.com/en/alb
 
 ### Score/Sheetmusic
 
-<img class="img-responsive" src="{{site.url}}/images//ananth-avantgarde_tuesday-bass_preview.png" alt="Ananth - Avantgarde-Tuesday Bass preview" />
+<img class="img-fluid" src="{{site.url}}/images//ananth-avantgarde_tuesday-bass_preview.png" alt="Ananth - Avantgarde-Tuesday Bass preview" />
 
 <a {{ site.external_link }} href='https://imslp.org/wiki/An_Avant-Garde_Tuesday_%28Pattabiraman,_Ananth%29'>Download Sheetmusic of Avant-Garde Tuesday</a>
 

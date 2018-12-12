@@ -26,7 +26,7 @@ excerpt_separator: <!--more-->
 
 <a {{ site.external_link }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sādhakam Carnatic Ear Trainer</a> is an android app which helps students build their Swara Gyānam. Practicing with the app, doing the interactive exercises, students gradually develop their ability to identify swarams they hear. Hearing a sound and being able to tell the swarasthanam instantly is a wonderful skill, isn't it? 
 
-<img class="img-responsive center-block" alt="Challange answered correct" src="{{ site.url }}/images/sadhakam-answer-correct.png" />
+<img class="img-fluid center-block" alt="Challange answered correct" src="{{ site.url }}/images/sadhakam-answer-correct.png" />
 
 <p>This article describes how the app works, various stages of swara gynam development, and how to get the most out of it. <!--more--> The app's functionality is quite simple. It has many exercises. Each exercise focus on one aspect of learning. For instance, the first exercise makes you understand and distinguish the three swarasthanams of Ri.</p>
 
@@ -34,15 +34,15 @@ excerpt_separator: <!--more-->
 
 <div class='row'>
 	<div class="col-xs-12 col-md-4">
-		<img class="img-responsive center-block" alt="Sadhakam swara gyanam exercises" src="{{ site.url }}/images/sadhakam-exercises.png" /><p></p>
+		<img class="img-fluid center-block" alt="Sadhakam swara gyanam exercises" src="{{ site.url }}/images/sadhakam-exercises.png" /><p></p>
 	</div>
 
 	<div class="col-xs-12 col-md-4">
-		<img class="img-responsive center-block" alt="Sadhakam exercise challange" src="{{ site.url }}/images/sadhakam-challange.png" /><p></p>
+		<img class="img-fluid center-block" alt="Sadhakam exercise challange" src="{{ site.url }}/images/sadhakam-challange.png" /><p></p>
 	</div>
 
 	<div class="col-xs-12 col-md-4">
-		<img class="img-responsive center-block" alt="Challange answered wrong" src="{{ site.url }}/images/sadhakam-answer-wrong.png" />
+		<img class="img-fluid center-block" alt="Challange answered wrong" src="{{ site.url }}/images/sadhakam-answer-wrong.png" />
 	</div>
 </div>
 

@@ -67,7 +67,7 @@ Here are the android apps specifically made for Carnatic music. If you are a car
 
   <div class="{{ page.class_col_app_logo }}">
     <a {{ site.external_link }} href="{{ page.shrutibox_app_link }}"> 
-        <img class='img-responsive center-block' alt='Pocket Shruti Box app logo' src="{{ site.url }}/images/shrutibox_logo.png" />
+        <img class='img-fluid center-block' alt='Pocket Shruti Box app logo' src="{{ site.url }}/images/shrutibox_logo.png" />
     </a>
   </div>
 
@@ -79,7 +79,7 @@ Here are the android apps specifically made for Carnatic music. If you are a car
   <div class="{{ page.class_col_play_badge }}">
     <a {{ site.external_link }} itemprop="url"
      href='https://play.google.com/store/apps/details?id=org.kuyil.shrutibox&utm_source=beautifulnote&utm_campaign=theory-notes-page&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
-      <img class='img-responsive' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
+      <img class='img-fluid' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
     </a>
   </div>
 </div>
@@ -94,7 +94,7 @@ Here are the android apps specifically made for Carnatic music. If you are a car
 
   <div class="{{ page.class_col_app_logo }}">
     <a {{ site.external_link }} href="{{ page.sadhakam_app_link }}">
-        <img class='img-responsive center-block' alt='sadhakam app logo' src="{{ site.url }}/images/sadhakam_logo.png" />
+        <img class='img-fluid center-block' alt='sadhakam app logo' src="{{ site.url }}/images/sadhakam_logo.png" />
     </a>
   </div>
 
@@ -106,7 +106,7 @@ Here are the android apps specifically made for Carnatic music. If you are a car
   <div class="{{ page.class_col_play_badge }}">
     <a {{ site.external_link }} itemprop="url"
      href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam&utm_source=beautifulnote&utm_campaign=theory-notes-page&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
-      <img class='img-responsive' alt='Get it on Google Play'
+      <img class='img-fluid' alt='Get it on Google Play'
             src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
     </a>
   </div>
@@ -121,7 +121,7 @@ Here are the android apps specifically made for Carnatic music. If you are a car
 
   <div class="{{ page.class_col_app_logo }}">
     <a {{ site.external_link }} href="{{ page.shruti_app_link }}">
-        <img class='img-responsive center-block' alt='shruti app logo' src="{{ site.url }}/images/shruti_logo.png" />
+        <img class='img-fluid center-block' alt='shruti app logo' src="{{ site.url }}/images/shruti_logo.png" />
     </a>
   </div>
 
@@ -133,7 +133,7 @@ Here are the android apps specifically made for Carnatic music. If you are a car
   <div class="{{ page.class_col_play_badge }}">
     <a {{ site.external_link }} itemprop="url"
      href='https://play.google.com/store/apps/details?id=org.kuyil.shruti&utm_source=beautifulnote&utm_campaign=theory-notes-page&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
-      <img class='img-responsive' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
+      <img class='img-fluid' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
     </a>
   </div>
 </div>

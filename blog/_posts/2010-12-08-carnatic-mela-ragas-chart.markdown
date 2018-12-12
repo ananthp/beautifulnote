@@ -7,6 +7,6 @@ redirect_from: "/blog/2010/12/carnatic-mela-ragas-chart/"
 ---
 
 Scales of Carnatic mela-ragas in western music notation. Will be a handy reference.
-<img class="img-responsive" src="{{site.url}}/images/ananth-carnatic_raga_chart1.png" alt="Carnatic Mela Raga Chart" />
+<img class="img-fluid" src="{{site.url}}/images/ananth-carnatic_raga_chart1.png" alt="Carnatic Mela Raga Chart" />
 
 *Work in progress. Will post the full, downloadable mela-raga chart here*

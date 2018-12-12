@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 
 I've created a library for Carnatic Music Notations. One can download Carnatic Music Notations/Scores for Varnams, Kritis from here. These notations are created by me and can be shared freely among carnatic music students, teachers and practicioners for non-commercial purposes.
 
-<img class="img-responsive" alt="Score: Kalaharanamelara - Tyagaraja @ Carnatic Scores Repository" src="{{site.url}}/images/kalaharana-snippet.png"/>
+<img class="img-fluid" alt="Score: Kalaharanamelara - Tyagaraja @ Carnatic Scores Repository" src="{{site.url}}/images/kalaharana-snippet.png"/>
 <!--more-->
 
 <em>Note: These notations are tweaked and improved from time to time. Please share this link rather than sharing the pdf files directly</em>
