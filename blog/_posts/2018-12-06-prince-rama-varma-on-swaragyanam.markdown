@@ -11,25 +11,27 @@ sadhakam_app_link: https://play.google.com/store/apps/details?id=org.kuyil.sadha
 
 Prince Rama Varma, an eminent carnatic musician and teacher, points out a shortcoming in swara gyanam that's common even among advanced carnatic musicians. He also explains why it is common in our traditional raga-by-raga learning process:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AivQgaKwEfo?start=606" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class='embed-responsive-item' src="https://www.youtube-nocookie.com/embed/AivQgaKwEfo?start=606" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Excerpts from his talk:
 
 > 10:06 "We (Carnatic musicians) are always trained to identify swarams of one raga only."
-> 
+>
 > 11:45 "Many carnatic musicians I myself know, they would be qualified to give a Ragam-Tanam-Pallavi in Todi correctly. But if we just ask them to sing Prati Madhyamam, immediately, they have to think a little bit. If someone asks you your name, you don't have to hesitate, you'll tell immediately. Like that we have to know all the 12 notes, not just the notes of one raga."
-> 
+>
 > 12:37 "Like a keyboard, in our throat, in our ear, in our brain, all 12 notes have to be fixed."
 
 This is exactly why we built <a {{ site.external_link }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sadhakam Carnatic Ear Trainer</a> (Android app). It has direct swaram centric exercises that will help you fix all the swarasthanas <em>in your throat, ear and brain</em> as Prince Rama Varma advices.
 
 <div class='row'>
-<div class='col-xs-6'>
+<div class='col-md'>
 	<a href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>
 	<img class='img-fluid' src="/images/screenshot-sadhakam-srg-question.png" alt="a challenge in sadhakam app sa-ri-ga exercise" />
 	</a>
 </div>
-<div class='col-xs-6'>
+<div class='col-md'>
 	<a href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>
 	<img class='img-fluid' src="/images/screenshot-sadhakam-srg-answer.png" alt="answer to the challenge in sadhakam app" />
 	</a>
