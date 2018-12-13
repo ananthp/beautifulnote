@@ -33,7 +33,7 @@ The remaining swarams- *Ri, Ga, Dha* and *Ni*, take 3 positions each. Interestin
 
 The fact that there are three varients each of *Ri, Ga, Dha* and *Ni*, and how exactly they overlap are key aspects of Carnatic music.  The entire 72 Melakartha Raga scheme is based on this. However, some books 'simplify' swarasthanams by omitting some overlapping swarasthanams and calling the remaining as "1 & 2" or "small & big". This is a terrible mistake and causes confusion especially in music notations.
 
-The table [here](#table) lists out all 16 swarasthanams. Correctly numbered short forms are provided. You can also see how they are related. For example, Ri2 and Ga1 are listed in the same line. It means they have same pitch. What is the implication? That pitch will be treated as Ri in some ragas, and as Ga in some other ragas. 
+The table [here](#table) lists out all 16 swarasthanams. Correctly numbered short forms are provided. You can also see how they are related. For example, Ri2 and Ga1 are listed in the same line. It means they have same pitch. What is the implication? That pitch will be treated as Ri in some ragas, and as Ga in some other ragas.
 
 Tips:
 
@@ -41,11 +41,8 @@ Tips:
 
 * In a raga where only either *Ri* or *Ga* is present, and you don't know whether to interpret a sound as Ri or Ga, it's most likely
     * Ri2 rather than Ga1
-    * Ga2 rather than Ri3 
+    * Ga2 rather than Ri3
 
 Of course, the same logic applies to *Dha* and *Ni*.
 
 If you are interested in Carnatic Swarasthanas, try <a {{ site.external_link }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sādhakam Carnatic Ear Trainer</a> (android app). It trains you to recognize swarasthanas you hear. It works with all 16 swarasthanas as listed in the table, with correct numbers and short forms. Sādhakam only plays swarasthana combinations that are meaningful in Carnatic music and avoids all invalid combinations. See <a href='{{ site.base_url }}{% post_url /blog/2017-07-13-sadhakam-building-up-swara-gyanam %}'>this post</a> to know how Sādhakam app can help you to improve your swara gyānam.
-
-<hr />
-_**Ananth Pattabiraman** is a musician and co-founder of <a {{ site.external_link }} href='https://kuyil.org'>Kuyil</a>, a startup dedicated to crafting apps for carnatic._

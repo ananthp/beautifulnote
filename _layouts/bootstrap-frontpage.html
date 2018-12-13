@@ -5,44 +5,24 @@
 
 <body>
 
-<div class="container">
+  <div class="container">
+    {% include navbar.html %}
 
-{% if page.url == '/' %}
-{%    assign home = '#' %}
-{% else %}
-{%    assign home = site.url %}
-{% endif %}
-
-  <!-- Top. Navigation-->
-  <nav class="navbar navbar-expand-md navbar-light bg-light">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <a class="navbar-brand disabled" href="{{ home }}">Beautifulnote</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class='nav ml-auto'>
-        {% for page in site.pages %}
-        {% if page.title %}
-        <li class='nav-item'><a class='nav-link' href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-        {% endif %}
-        {% endfor %}
-      </ul>
+    <!-- main content -->
+    <div class="row justify-content-center">
+      <div class="col-11 col-md-8">
+        {{ content }}
+        <hr />
+        <em>
+          <strong>Ananth Pattabiraman</strong> is a musician and co-founder of <a {{ site.external_link }} href='https://kuyil.org'>Kuyil Carnatic Apps</a>, a startup dedicated to crafting apps for carnatic.
+          You can checkout the apps below.
+        </em>
+      </div>
     </div>
 
-  </nav>
-
-  <!-- main content -->
-  <div class="row justify-content-center">
-    <div class="col-11 col-md-8">
-      {{ content }}
-    </div>
-  </div>
-</div>
-
-{% include bootstrap-scripts.html %}
-{% include apps_listing.html %}
+  {% include footer.html %}
+  {% include bootstrap-scripts.html %}
+</div> <!-- container -->
 </body>
 
 </html>

@@ -11,6 +11,3 @@ redirect_from: "/blog/"
 {{ post.excerpt }}
 <p class="text-left"><a href="{{ post.url | prepend: site.baseurl }}">Read more…</a></p>
 {% endfor %}
-
-<!-- This should come as a footer or something -->
-<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
