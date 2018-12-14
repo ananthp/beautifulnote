@@ -29,7 +29,3 @@ Many carnatic music teachers make their students practice swarasthanas on keyboa
 Absence of appropriate technology for carnatic is the reason why our teachers and students have to resort to other means such as keyboards.
 
 On our part, we have created <a {{ site.external_link }} href='https://play.google.com/store/apps/details?id=org.kuyil.shruti'>Shruti Carnatic Tuner</a>, a reliable companion for authentic carnatic swarasthanas. It provides accurate reference tones. It also detects and shows you the swarasthanam when you sing or play.  We, at <a {{ site.external_link }} href='https://kuyil.org'>kuyil</a>, will continue to innovate apps tailor-made for carnatic that will empower teachers, students and performers.
-
-<hr />
-_**Ananth Pattabiraman** is a musician and co-founder of <a {{ site.external_link }} href='https://kuyil.org'>Kuyil</a>, a startup dedicated to crafting apps for carnatic.  
-[Shruti Carnatic Tuner](https://play.google.com/store/apps/details?id=org.kuyil.shruti), their android app, assists carnatic musicians and students with precise reference tones for swara sthanas._

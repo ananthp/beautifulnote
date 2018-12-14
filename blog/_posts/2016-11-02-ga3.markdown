@@ -29,8 +29,4 @@ Putting that in the context of Sa, this recording would help you get the taste o
 In conclusion, western keyboard should not be used naively as a learning tool for Carnatic music. Instead of resorting to tools designed without consideration for our music, we shall develop and support tools that are created specifically for carnatic music. Our <a {{ site.external_link }} href='https://play.google.com/store/apps/details?id=org.kuyil.shruti'>Shruti Carnatic Tuner</a> (Android app) is one such effort. It provides accurate reference tones for pure carnatic swarasthanas.
 
 <sup>*</sup><a {{ site.external_link }} href='https://en.wikipedia.org/wiki/Equal_temperament'>Equal Temperament</a> is the tuning system used for keyboards. This is a western tuning system.  
-<sup>#</sup><a {{ site.external_link }} href='https://en.wikipedia.org/wiki/Cent_(music)'>Cent</a> is a logarithmic unit of measure used for musical intervals. 
-
-<hr />
-_**Ananth Pattabiraman** is a musician and co-founder of <a {{ site.external_link }} href='https://kuyil.org'>Kuyil</a>, a startup dedicated to crafting apps for carnatic.  
-[Shruti Carnatic Tuner](https://play.google.com/store/apps/details?id=org.kuyil.shruti), their android app, assists carnatic musicians and students with precise reference tones for swara sthanas._
+<sup>#</sup><a {{ site.external_link }} href='https://en.wikipedia.org/wiki/Cent_(music)'>Cent</a> is a logarithmic unit of measure used for musical intervals.

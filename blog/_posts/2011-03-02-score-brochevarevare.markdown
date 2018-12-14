@@ -16,4 +16,4 @@ Another score/notation added to <a {{ site.external_link }} href='https://ananth
 
 As mentioned earlier, Carnatic Notations Library is my attempt to notate carnatic music compositions and make them available to every musician and student. At present there is a small collection of high quality carnatic music notations.
 
-Download from <a {{ site.external_link }} href='https://ananthp.github.io/carnatic_scores/2011/03/01/brochevarevare.html'>Carnatic Scores Repository</a>
+Download from <a {{ site.external_link }} href='https://ananthp.github.io/carnatic_scores/2011/03/01/brochevarevare.html'>Carnatic Notations Library</a>

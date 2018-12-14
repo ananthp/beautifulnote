@@ -1,4 +1,11 @@
 <footer class="site-footer">
   {% include apps_listing.html %}
-  <p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <div class='row'>
+    <div class='col'>
+      <p class='copyright'>© beautifulnote.com</p>
+    </div>
+    <div class='col'>
+      <p class='text-right copyright'><a href="{{ "/feed.xml" | prepend: site.baseurl }}">Subscribe via RSS</a></p>
+    </div>
+  </div>
 </footer>

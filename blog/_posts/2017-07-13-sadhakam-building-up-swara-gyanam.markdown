@@ -16,33 +16,33 @@ excerpt_separator: <!--more-->
 	"operatingSystem": "Android",
    	"screenshot": [
                  { "url": "{{ site.url }}/images/sadhakam-exercises.png" },
-                 { "url": "{{ site.url }}/images/sadhakam-challange.png" },
+                 { "url": "{{ site.url }}/images/sadhakam-challenge.png" },
                  { "url": "{{ site.url }}/images/sadhakam-answer-correct.png" },
-                 { "url": "{{ site.url }}/images/sadhakam-answer-wrong.png" } 
+                 { "url": "{{ site.url }}/images/sadhakam-answer-wrong.png" }
 	]
 }
 </script>
 
 
-<a {{ site.external_link }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sādhakam Carnatic Ear Trainer</a> is an android app which helps students build their Swara Gyānam. Practicing with the app, doing the interactive exercises, students gradually develop their ability to identify swarams they hear. Hearing a sound and being able to tell the swarasthanam instantly is a wonderful skill, isn't it? 
+<a {{ site.external_link }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sādhakam Carnatic Ear Trainer</a> is an android app which helps students build their Swara Gyānam. Practicing with the app, doing the interactive exercises, students gradually develop their ability to identify swarams they hear. Hearing a sound and being able to tell the swarasthanam instantly is a wonderful skill, isn't it?
 
-<img class="img-fluid center-block" alt="Challange answered correct" src="{{ site.url }}/images/sadhakam-answer-correct.png" />
+<img class="img-fluid center-block" alt="Challenge answered correct" src="{{ site.url }}/images/sadhakam-answer-correct.png" />
 
 <p>This article describes how the app works, various stages of swara gynam development, and how to get the most out of it. <!--more--> The app's functionality is quite simple. It has many exercises. Each exercise focus on one aspect of learning. For instance, the first exercise makes you understand and distinguish the three swarasthanams of Ri.</p>
 
-<p>Exercises are interactive. The app plays a sequence, and you should identify one or more swarasthanams. You answer by choosing one of the choices. The app tells whether you are right or wrong and proceeds to the next challange.</p>
+<p>Exercises are interactive. The app plays a sequence, and you should identify one or more swarasthanams. You answer by choosing one of the choices. The app tells whether you are right or wrong and proceeds to the next challenge.</p>
 
-<div class='row'>
-	<div class="col-xs-12 col-md-4">
+<div class='row mb-3'>
+	<div class="col-md">
 		<img class="img-fluid center-block" alt="Sadhakam swara gyanam exercises" src="{{ site.url }}/images/sadhakam-exercises.png" /><p></p>
 	</div>
 
-	<div class="col-xs-12 col-md-4">
-		<img class="img-fluid center-block" alt="Sadhakam exercise challange" src="{{ site.url }}/images/sadhakam-challange.png" /><p></p>
+	<div class="col-md">
+		<img class="img-fluid center-block" alt="Sadhakam exercise challenge" src="{{ site.url }}/images/sadhakam-challenge.png" /><p></p>
 	</div>
 
-	<div class="col-xs-12 col-md-4">
-		<img class="img-fluid center-block" alt="Challange answered wrong" src="{{ site.url }}/images/sadhakam-answer-wrong.png" />
+	<div class="col-md">
+		<img class="img-fluid center-block" alt="Challenge answered wrong" src="{{ site.url }}/images/sadhakam-answer-wrong.png" />
 	</div>
 </div>
 
@@ -54,8 +54,5 @@ But the learning in Stage 1 is very temporary. Let's say you did reasonably well
 
 With lot more practice you reach a stage where you don't have to think. You hear the sound and you just know whether it's Ri1 or Ri2 or Ri3. (Stage 3)
 
-If you have learnt typewriting you'd have experienced the same stages. Initially you would be mindful of the keys, later you have some confusion between keys. But once you crossed these levels, you just type the words automatically.
+If you have learned typewriting you'd have experienced the same stages. Initially you would be mindful of the keys, later you have some confusion between keys. But once you crossed these levels, you just type the words automatically.
 Our brains just need a lot of time and lots of repetition to internalize patterns. That's why the exercises in Sadhakam app are short, reasonably fast paced and repeatable. So, don't worry too much about making mistakes, just practice, practice and practice a lot!
-
-<hr />
-_**Ananth Pattabiraman** is a musician and co-founder of <a {{ site.external_link }} href='https://kuyil.org'>Kuyil</a>, a startup dedicated to crafting apps for carnatic._

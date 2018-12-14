@@ -1,5 +1,5 @@
 ---
-layout: bootstrap-frontpage
+layout: default
 ---
 <article>
   <header>
@@ -10,7 +10,8 @@ layout: bootstrap-frontpage
         {% else %}
         {{ page.date | date: "%b %-d, %Y" }}
         {% endif %}
-        {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+        {% if page.author %} • {{ page.author }}{% elsif site.author %}• {{ site.author }}{% endif %}
+        {% if page.meta %} • {{ page.meta }}{% endif %}
     </div>
   </header>
 {{ content }}
