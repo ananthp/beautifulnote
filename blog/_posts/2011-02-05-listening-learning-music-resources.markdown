@@ -14,7 +14,7 @@ A typical page in a music theory/appreciation book looks like this -
 <blockquote><p>NOTE: This article is on <em>Western</em> music theory resources. For <em>Carnatic music</em> related resources see these:
 <ul>
     <li> Download: <a href='{{ "/theory" | absolute_url }}'>Carnatic Music Theory notes</a></li>
-    <li> <a href="{% post_url blog/2016-04-25-carnatic-resources %}">Carnatic Music Resources</a></li>
+    <li> <a {{ site.new_tab }} href="{% post_url blog/2016-04-25-carnatic-resources %}">Carnatic Music Resources</a></li>
 </ul></p></blockquote>
 
 <p class='lead'>Here are some fantastic resources, all <em>Free!</em>, both for listeners and music students.</p>
@@ -24,18 +24,18 @@ A typical page in a music theory/appreciation book looks like this -
 #### Sound Reasoning
 
 *Sound Reasoning* is a web-based, introductory music appreciation course. It offers a new approach to music appreciation for adults, focusing on style-independent concepts.  Short-and-sweet descriptions and lots of musical examples ranging from Gregorian chants to contemporary music. A typical page in the course looks like this.
- 
+
 <img class="img-fluid" src="{{site.url}}/images/screenshot-sound_reasoning.png" alt="cnx.org: Sound Reasoning, by Anthony Brandt" />
-<a {{ site.external_link }} href='https://cnx.org/contents/R21GFBYj@21.2:8gAhyfRY@23/Sound-Reasoning-A-New-Way-to-Listen'>Sound Reasoning</a>
+<a {{ site.new_tab }} href='https://cnx.org/contents/R21GFBYj@21.2:8gAhyfRY@23/Sound-Reasoning-A-New-Way-to-Listen'>Sound Reasoning</a>
 
 ### For Music Students
 
  San Francisco Conservatory of Music This site has excellent supplementary materials for Harmony and Analysis. The school suggests Aldwell-Schachter's book on harmony.  This site has examples - scores & and associated audio recordings, for the theoretical matters discussed in each chapter of the book, with some descriptions. The examples make sense even without the prescribed book.
 
 <img class="img-fluid" src="{{site.url}}/images/screenshot-sfcmtheory.jpg" alt="Screenshot: scfmtheory.com" />
-<a {{ site.external_link }} href='http://www.sfcmtheory.com/'>http://www.sfcmtheory.com/</a>
+<a {{ site.new_tab }} href='http://www.sfcmtheory.com/'>http://www.sfcmtheory.com/</a>
 
- Be sure to checkout the <a {{ site.external_link }} href='http://sfcmtheory.com/online_materials.htm'>Online Materials section</a>, <a {{ site.external_link }} href='http://sfcmtheory.com/harmony_supplements/harmony_supplements.html'>Aldwell-Schachter Harmony Supplements</a> and 
+ Be sure to checkout the <a {{ site.new_tab }} href='http://sfcmtheory.com/online_materials.htm'>Online Materials section</a>, <a {{ site.new_tab }} href='http://sfcmtheory.com/harmony_supplements/harmony_supplements.html'>Aldwell-Schachter Harmony Supplements</a> and
  Formal Analysis Supplements
 
 #### Alan Belkin, composer. Writings on Musical Craft
@@ -44,10 +44,10 @@ A typical page in a music theory/appreciation book looks like this -
 
  <img class="img-fluid" src="{{site.url}}/images/screenshot-belkin.png" alt="Alan Belkin: Writings on Musical Craft" />
 
-<a {{ site.external_link }} href='http://alanbelkinmusic.com'>Alan Belkin, composer. Writings on Musical Craft</a>
+<a {{ site.new_tab }} href='http://alanbelkinmusic.com'>Alan Belkin, composer. Writings on Musical Craft</a>
 
 #### and some more
 
- -  <a {{ site.external_url }} href='https://imslp.org/wiki/Category:Music_theory'>IMSLP Music Theory Books</a> - Public Domain music theory books including texts on Harmony written by Schoenberg, Schenker, Tchaikovsky, Rameau; and on Orchestration by Berlioz, Forsyth, Rimsky, etc.
+ -  <a {{ site.new_tab }} href='https://imslp.org/wiki/Category:Music_theory'>IMSLP Music Theory Books</a> - Public Domain music theory books including texts on Harmony written by Schoenberg, Schenker, Tchaikovsky, Rameau; and on Orchestration by Berlioz, Forsyth, Rimsky, etc.
 
- - <a {{ site.external_link }} href='http://www.harmony.org.uk/'>http://www.harmony.org.uk/</a>
+ - <a {{ site.new_tab }} href='http://www.harmony.org.uk/'>http://www.harmony.org.uk/</a>

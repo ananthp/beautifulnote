@@ -11,7 +11,7 @@ redirect_from: "/blog/2010/03/dharbar-varnam-score/"
 - Ragam: Dharbar, Thalam: Adi, Composer: Thiruvotriyur Tyagayyar
 - Score Transcribed by Ananth.
 - License: Creative Commons - Free for Non-Commercial, Share-alike use.  
-- Download <a {{ site.external_link }} href='{{ "/download/scores/ananth-dharbar_varnam.pdf" | absolute_url }}'>PDF</a>
+- Download <a {{ site.new_tab }} href='{{ "/download/scores/ananth-dharbar_varnam.pdf" | absolute_url }}'>PDF</a>
 
 <div class='row'>
     <div class='col-md-6'>
@@ -29,4 +29,4 @@ redirect_from: "/blog/2010/03/dharbar-varnam-score/"
   <iframe class="embed-responsive-item" width="420" height="315" src="https://www.youtube-nocookie.com/embed/x3GxlQQm3jM?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Video: <a {{ site.external_link }} href='https://www.youtube.com/watch?v=QPUhECZHsQI'>Second Part</a> (Utharangam: Charanam & Chitta Swarams)
+Video: <a {{ site.new_tab }} href='https://www.youtube.com/watch?v=QPUhECZHsQI'>Second Part</a> (Utharangam: Charanam & Chitta Swarams)

@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 redirect_from: "/blog/2011/03/score-brochevarevare-kriti-sriranjani-adi-tyagaraja/"
 ---
 
-Another score/notation added to <a {{ site.external_link }} href='https://ananthp.github.io/carnatic_scores/'>Carnatic Notations Library</a> - Saint Tyagaraja's kriti *Brochevarevare* in Sriranjani Ragam, Adi Talam
+Another score/notation added to <a {{ site.new_tab }} href='https://ananthp.github.io/carnatic_scores/'>Carnatic Notations Library</a> - Saint Tyagaraja's kriti *Brochevarevare* in Sriranjani Ragam, Adi Talam
 
 <img class="img-fluid" src="{{ site.url}}/images/sample-brochevarevare.png" alt="Music score sample: Brochevarevare" />
 
@@ -16,4 +16,4 @@ Another score/notation added to <a {{ site.external_link }} href='https://ananth
 
 As mentioned earlier, Carnatic Notations Library is my attempt to notate carnatic music compositions and make them available to every musician and student. At present there is a small collection of high quality carnatic music notations.
 
-Download from <a {{ site.external_link }} href='https://ananthp.github.io/carnatic_scores/2011/03/01/brochevarevare.html'>Carnatic Notations Library</a>
+Download from <a {{ site.new_tab }} href='https://ananthp.github.io/carnatic_scores/2011/03/01/brochevarevare.html'>Carnatic Notations Library</a>

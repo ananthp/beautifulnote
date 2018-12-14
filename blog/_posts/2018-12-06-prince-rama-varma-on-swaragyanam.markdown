@@ -23,17 +23,17 @@ Excerpts from his talk:
 >
 > 12:37 "Like a keyboard, in our throat, in our ear, in our brain, all 12 notes have to be fixed."
 
-This is exactly why we built <a {{ site.external_link }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sadhakam Carnatic Ear Trainer</a> (Android app). It has direct swaram centric exercises that will help you fix all the swarasthanas <em>in your throat, ear and brain</em> as Prince Rama Varma advices.
+This is exactly why we built <a {{ site.new_tab }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sadhakam Carnatic Ear Trainer</a> (Android app). It has direct swaram centric exercises that will help you fix all the swarasthanas <em>in your throat, ear and brain</em> as Prince Rama Varma advices.
 
 <figure>
 <div class='row'>
 <div class='col-md py-3'>
-	<a href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>
+	<a {{ site.new_tab }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>
 	<img class='img-fluid' src="/images/screenshot-sadhakam-srg-question.png" alt="a challenge in sadhakam app sa-ri-ga exercise" />
 	</a>
 </div>
 <div class='col-md py-3'>
-	<a href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>
+	<a {{ site.new_tab }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>
 	<img class='img-fluid' src="/images/screenshot-sadhakam-srg-answer.png" alt="answer to the challenge in sadhakam app" />
 	</a>
 </div>

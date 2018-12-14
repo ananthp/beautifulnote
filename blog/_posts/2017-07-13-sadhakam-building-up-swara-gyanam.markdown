@@ -24,7 +24,7 @@ excerpt_separator: <!--more-->
 </script>
 
 
-<a {{ site.external_link }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sādhakam Carnatic Ear Trainer</a> is an android app which helps students build their Swara Gyānam. Practicing with the app, doing the interactive exercises, students gradually develop their ability to identify swarams they hear. Hearing a sound and being able to tell the swarasthanam instantly is a wonderful skill, isn't it?
+<a {{ site.new_tab }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sādhakam Carnatic Ear Trainer</a> is an android app which helps students build their Swara Gyānam. Practicing with the app, doing the interactive exercises, students gradually develop their ability to identify swarams they hear. Hearing a sound and being able to tell the swarasthanam instantly is a wonderful skill, isn't it?
 
 <img class="img-fluid center-block" alt="Challenge answered correct" src="{{ site.url }}/images/sadhakam-answer-correct.png" />
 

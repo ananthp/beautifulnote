@@ -36,7 +36,7 @@ I've prepared some study material on Carnatic music theory. These notes are base
   </div>
 
   <div class="col-xs-12 col-md-6 text-center">
-    <a {{ site.external_link }} class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year1}}">Download</a>
+    <a {{ site.new_tab }} class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year1}}">Download</a>
   </div>
 </div>
 
@@ -49,9 +49,9 @@ I've prepared some study material on Carnatic music theory. These notes are base
   </div>
 
   <div class="col-md-6 text-center">
-    <a {{ site.external_link }} class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year2}}">Download</a>
+    <a {{ site.new_tab }} class="btn btn-primary" href="{{ site.url }}/{{ page.theory-year2}}">Download</a>
   </div>
 </div>
 <hr />
 
-<p><small>Detailed Syllabus in Telugu, for all years of Certificate and Diploma courses can be found <a {{ site.external_link }} href='{{ page.syllabus | absolute_url }}'>here</a>. It's a scanned-and-reformatted copy of the official syllabus from some time ago. Do contact the university/college and ensure it is valid and current.</small></p>
+<p><small>Detailed Syllabus in Telugu, for all years of Certificate and Diploma courses can be found <a {{ site.new_tab }} href='{{ page.syllabus | absolute_url }}'>here</a>. It's a scanned-and-reformatted copy of the official syllabus from some time ago. Do contact the university/college and ensure it is valid and current.</small></p>
