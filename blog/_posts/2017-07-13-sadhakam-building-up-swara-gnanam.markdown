@@ -1,16 +1,17 @@
 ---
 layout: post
 author: Ananth Pattabiraman
-title: Building up Swara Gyānam
-description: Sādhakam Carnatic Ear Trainer has exercises to improve one's swara gyanam. This post describes various stages of aquiring swara gyanam using the app.
+title: Building up Swara Gnanam
+description: Sādhakam Carnatic Swara Gnanam Practice has exercises to improve one's swara gnanam. This post describes various stages of aquiring swara gnanam using the app.
 excerpt_separator: <!--more-->
+redirect_from: /blog/2017/07/13/sadhakam-building-up-swara-gyanam
 ---
 
 <script type="application/ld+json">
 {
 	"@context": "http://schema.org/",
 	"@type": "MobileApplication",
-	"name": "Sādhakam Carnatic Ear Trainer",
+	"name": "Sādhakam: Carnatic Swara Gnanam Practice",
 	"url": "https://play.google.com/store/apps/details?id=org.kuyil.sadhakam",
 	"applicationCategory": "Education",
 	"operatingSystem": "Android",
@@ -24,17 +25,17 @@ excerpt_separator: <!--more-->
 </script>
 
 
-<a {{ site.new_tab }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sādhakam Carnatic Ear Trainer</a> is an android app which helps students build their Swara Gyānam. Practicing with the app, doing the interactive exercises, students gradually develop their ability to identify swarams they hear. Hearing a sound and being able to tell the swarasthanam instantly is a wonderful skill, isn't it?
+<a {{ site.new_tab }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sādhakam: Carnatic Swara Gnanam Practice</a> is an android app which helps students build their Swara Gnanam. Practicing with the app, doing the interactive exercises, students gradually develop their ability to identify swarams they hear. Hearing a sound and being able to tell the swarasthanam instantly is a wonderful skill, isn't it?
 
 <img class="img-fluid center-block" alt="Challenge answered correct" src="{{ site.url }}/images/sadhakam-answer-correct.png" />
 
-<p>This article describes how the app works, various stages of swara gynam development, and how to get the most out of it. <!--more--> The app's functionality is quite simple. It has many exercises. Each exercise focus on one aspect of learning. For instance, the first exercise makes you understand and distinguish the three swarasthanams of Ri.</p>
+<p>This article describes how the app works, various stages of swara gnanam development, and how to get the most out of it. <!--more--> The app's functionality is quite simple. It has many exercises. Each exercise focus on one aspect of learning. For instance, the first exercise makes you understand and distinguish the three swarasthanams of Ri.</p>
 
 <p>Exercises are interactive. The app plays a sequence, and you should identify one or more swarasthanams. You answer by choosing one of the choices. The app tells whether you are right or wrong and proceeds to the next challenge.</p>
 
 <div class='row mb-3'>
 	<div class="col-md">
-		<img class="img-fluid center-block" alt="Sadhakam swara gyanam exercises" src="{{ site.url }}/images/sadhakam-exercises.png" /><p></p>
+		<img class="img-fluid center-block" alt="Sadhakam swara gnanam practice" src="{{ site.url }}/images/sadhakam-exercises.png" /><p></p>
 	</div>
 
 	<div class="col-md">

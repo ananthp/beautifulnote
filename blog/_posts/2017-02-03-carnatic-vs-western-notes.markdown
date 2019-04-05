@@ -22,7 +22,7 @@ As you can clearly see from the chart:
 
 As a result, most swarasthanas will collide with their equivalent note on a keyboard and produce the out-of-tune beating effect as we have <a {{ site.new_tab }} href='{{ site.baseurl }}{% post_url blog/2016-11-02-ga3 %}#audio'>heard</a> in case of Ga3.
 
-Many carnatic music teachers make their students practice swarasthanas on keyboard in the hope that it might help them to improve their swara gyanam. Contrarily, it will only destroy their sense of swarasthana as most of the notes on a keyboard are very wrong. Let us fully understand the danger: according to <a {{ site.new_tab }} href='http://mtg.upf.edu/files/publications/jserra11ismir_icmtuning.pdf'>this study</a>, use of harmonium, which is also an equal tempered keyboard, has permanently skewed Hindustani music's swara ratios. Fortunately, influence of harmonium is minimal in carnatic music, and the study says, we still retain the purity of our swarasthanas.
+Many carnatic music teachers make their students practice swarasthanas on keyboard in the hope that it might help them to improve their swara gnanam. Contrarily, it will only destroy their sense of swarasthana as most of the notes on a keyboard are very wrong. Let us fully understand the danger: according to <a {{ site.new_tab }} href='http://mtg.upf.edu/files/publications/jserra11ismir_icmtuning.pdf'>this study</a>, use of harmonium, which is also an equal tempered keyboard, has permanently skewed Hindustani music's swara ratios. Fortunately, influence of harmonium is minimal in carnatic music, and the study says, we still retain the purity of our swarasthanas.
 
 ## What is the alternative?
 

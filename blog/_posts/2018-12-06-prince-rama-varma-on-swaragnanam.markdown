@@ -1,5 +1,5 @@
 ---
-title: Prince Rama Varma on Swara Gyanam
+title: Prince Rama Varma on Swara Gnanam
 layout: post
 
 class_col_app_logo: "col-xs-offset-4 col-xs-4 col-md-offset-0 col-md-1"
@@ -7,9 +7,10 @@ class_col_app_text: "appinfo col-xs-12 col-md-6"
 class_col_play_badge: "col-xs-offset-3 col-xs-6 col-md-offset-1 col-md-3"
 
 sadhakam_app_link: https://play.google.com/store/apps/details?id=org.kuyil.sadhakam
+redirect_from: /blog/2018/12/06/prince-rama-varma-on-swaragyanam
 ---
 
-Prince Rama Varma, an eminent carnatic musician and teacher, points out a shortcoming in swara gyanam that's common even among advanced carnatic musicians. He also explains why it is common in our traditional raga-by-raga learning process:
+Prince Rama Varma, an eminent carnatic musician and teacher, points out a shortcoming in swara gnanam that's common even among advanced carnatic musicians. He also explains why it is common in our traditional raga-by-raga learning process:
 
 <div class="embed-responsive embed-responsive-16by9 mb-3">
 <iframe class='embed-responsive-item' src="https://www.youtube-nocookie.com/embed/AivQgaKwEfo?start=606" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -23,7 +24,7 @@ Excerpts from his talk:
 >
 > 12:37 "Like a keyboard, in our throat, in our ear, in our brain, all 12 notes have to be fixed."
 
-This is exactly why we built <a {{ site.new_tab }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sadhakam Carnatic Ear Trainer</a> (Android app). It has direct swaram centric exercises that will help you fix all the swarasthanas <em>in your throat, ear and brain</em> as Prince Rama Varma advices.
+This is exactly why we built <a {{ site.new_tab }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sadhakam: Carnatic Swara Gnanam Practice</a> (Android app). It has direct swaram centric exercises that will help you fix all the swarasthanas <em>in your throat, ear and brain</em> as Prince Rama Varma advices.
 
 <figure>
 <div class='row'>
