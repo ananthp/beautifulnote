@@ -12,16 +12,15 @@ excerpt_separator: <!--more-->
 	"@context": "http://schema.org/",
 	"@type": "ImageObject",
 	"author": "Ananth Pattabiraman",
-	"ContentUrl": "{{ site.url }}/{{ page.image }}",
+	"ContentUrl": "/{{ page.image | absolute_url }}",
     "InLanguage": "English",
     "name": "List of Carnatic Swarasthanas"
 }
 </script>
 
+Carnatic music has 16 swarasthanas packed in 12 distinct positions. The 12 tones are more or less universal; many systems of music around the world have them, may be with some differences in the ratios/frequencies of individual notes. (*Checkout <a {{ site.new_tab }} href='https://play.google.com/store/apps/details?id=org.kuyil.shruti'>Shruti Carnatic Tuner</a> for precise swarasthanas used in Carnatic music*)
 
-Carnatic music has 16 swarasthanas packed in 12 distinct positions. The 12 tones are more or less universal; many systems of music around the world have them, may be with some differences in the ratios/frequencies of individual notes. (Checkout [Shruti Carnatic Tuner](https://play.google.com/store/apps/details?id=org.kuyil.shruti) for precise swarasthanas used in Carnatic music)
-
-<img id="table" class="img-responsive center-block" alt="Carnatic Swarasthanas" src="{{ page.image }}" />
+<img id="table" class="img-fluid center-block" alt="Carnatic Swarasthanas" src="{{ page.image }}" />
 
 In addition to the usual 12 notes, Carnatic music has 4 more swarasthanas, however they simply share their positions with existing notes. Sounds tricky? Not really, read on.
 <!--more-->
@@ -34,8 +33,7 @@ The remaining swarams- *Ri, Ga, Dha* and *Ni*, take 3 positions each. Interestin
 
 The fact that there are three varients each of *Ri, Ga, Dha* and *Ni*, and how exactly they overlap are key aspects of Carnatic music.  The entire 72 Melakartha Raga scheme is based on this. However, some books 'simplify' swarasthanams by omitting some overlapping swarasthanams and calling the remaining as "1 & 2" or "small & big". This is a terrible mistake and causes confusion especially in music notations.
 
-The table [here](#table) lists out all 16 swarasthanams. Correctly numbered short forms are provided. You can also see how they are related. For example, Ri2 and Ga1 are listed in the same line. It means they have same pitch. What is the implication? That pitch will be treated as Ri in some ragas, and as Ga in some other ragas. 
-
+The table [here](#table) lists out all 16 swarasthanams. Correctly numbered short forms are provided. You can also see how they are related. For example, Ri2 and Ga1 are listed in the same line. It means they have same pitch. What is the implication? That pitch will be treated as Ri in some ragas, and as Ga in some other ragas.
 
 Tips:
 
@@ -43,11 +41,8 @@ Tips:
 
 * In a raga where only either *Ri* or *Ga* is present, and you don't know whether to interpret a sound as Ri or Ga, it's most likely
     * Ri2 rather than Ga1
-    * Ga2 rather than Ri3 
+    * Ga2 rather than Ri3
 
 Of course, the same logic applies to *Dha* and *Ni*.
 
-* If you are interested in Carnatic Swarasthanas, try [Sādhakam Carnatic Ear Trainer](https://play.google.com/store/apps/details?id=org.kuyil.sadhakam) (android app). It trains you to recognize swarasthanas you hear. It works with all 16 swarasthanas as listed in the table, with correct numbers and short forms. Sādhakam only plays swarasthana combinations that are meaningful in Carnatic music and avoids all invalid combinations. See [this post]({{ site.base_url }}{% post_url /blog/2017-07-13-sadhakam-building-up-swara-gyanam %}) to know how Sādhakam app can help you to improve your swara gyānam.
-
-<hr />
-_**Ananth Pattabiraman** is a musician and co-founder of [Kuyil](https://kuyil.org), a startup dedicated to crafting apps for carnatic._
+If you are interested in Carnatic Swarasthanas, try <a {{ site.new_tab }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sādhakam: Carnatic Swara Gnanam Practice</a> (android app). It trains you to recognize swarasthanas you hear. It works with all 16 swarasthanas as listed in the table, with correct numbers and short forms. Sādhakam only plays swarasthana combinations that are meaningful in Carnatic music and avoids all invalid combinations. See <a href='{{ site.base_url }}{% post_url /blog/2017-07-13-sadhakam-building-up-swara-gnanam %}'>this post</a> to know how Sādhakam app can help you to improve your swara gnanam.

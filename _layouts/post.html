@@ -1,16 +1,17 @@
 ---
-layout: bootstrap-frontpage
+layout: default
 ---
 <article>
   <header>
-    <h1>{{ page.title }}</h1>
+    <h1 class='post-title'>{{ page.title }}</h1>
     <div class='post-date'>
-        {% if page.updated %} 
+        {% if page.updated %}
         Updated on {{ page.updated | date: "%b %Y" }}
         {% else %}
         {{ page.date | date: "%b %-d, %Y" }}
         {% endif %}
-        {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+        {% if page.author %} • {{ page.author }}{% elsif site.author %}• {{ site.author }}{% endif %}
+        {% if page.meta %} • {{ page.meta }}{% endif %}
     </div>
   </header>
 {{ content }}

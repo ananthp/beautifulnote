@@ -1,0 +1,106 @@
+{% assign shruti_app_link =    "https://play.google.com/store/apps/details?id=org.kuyil.shruti" %}
+{% assign sadhakam_app_link =  "https://play.google.com/store/apps/details?id=org.kuyil.sadhakam" %}
+{% assign shrutibox_app_link = "https://play.google.com/store/apps/details?id=org.kuyil.shrutibox" %}
+
+{% assign class_row_app = "row vcenter-desktop justify-content-sm-center" %}
+{% assign class_col_app_logo = "col-sm-auto my-auto" %}
+{% assign class_col_app_text = "col-md-5 appinfo" %}
+{% assign class_col_play_badge = "col-sm-auto my-auto" %}
+
+{% assign play_badge_width = "150" %}
+{% assign app_logo_width = "96" %}
+
+<!-- apps listing -->
+<div class="container">
+    <h2 class='text-center pb-3 pt-3 appinfo-heading'>Our Carnatic Apps</h2>
+    <div class='{{ class_row_app }}' itemscope itemtype="schema.org/MobileApplication">
+        <meta itemprop="operatingSystem" content="Android" />
+        <meta itemprop="applicationCategory" content="Music" />
+        <meta itemprop='sameAs' content='https://play.google.com/store/apps/details?id=org.kuyil.shrutibox'>
+
+        <div class="{{ class_col_app_logo }}">
+            <a {{ site.new_tab }} href="{{ shrutibox_app_link }}">
+                <img class='img mx-auto d-block' width="{{ app_logo_width }}" alt='Pocket Shruti Box app logo' src="/images/shrutibox_logo.png" />
+            </a>
+        </div>
+
+        <div class="{{ class_col_app_text }}">
+            <h3 class="app-title">
+                <a {{ site.new_tab }} href="{{ shrutibox_app_link }}"><span itemprop="name">Pocket Shruti Box</span></a>
+                <br />
+                <small>Carnatic Tambura</small>
+            </h3>
+            <p class="app-description"><span itemprop="featureList">Concert grade shruti box app. Authentic tambura sound. Very accurate. Clear even on phone speakers. Sounds great with external speakers and headphones.</span></p>
+        </div>
+
+        <div class="{{ class_col_play_badge }}">
+            <a itemprop="url" {{ site.new_tab }}
+               href='https://play.google.com/store/apps/details?id=org.kuyil.shrutibox&utm_source=beautifulnote&utm_campaign=app-listing&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+                <img class='img mx-auto d-block' width='{{ play_badge_width }}' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
+            </a>
+        </div>
+    </div>
+
+
+    <hr />
+    <div class='{{ class_row_app }}'
+               itemscope itemtype="schema.org/MobileApplication">
+        <meta itemprop="operatingSystem" content="Android" />
+        <meta itemprop="applicationCategory" content="Music" />
+        <meta itemprop='sameAs' content='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>
+
+        <div class="{{ class_col_app_logo }}">
+            <a {{ site.new_tab }} href="{{ sadhakam_app_link }}">
+                <img class='img mx-auto d-block' width="{{ app_logo_width }}" alt='sadhakam app logo' src="/images/sadhakam_logo.png" />
+            </a>
+        </div>
+
+        <div class="{{ class_col_app_text }}">
+            <h3 class="app-title">
+                <a {{ site.new_tab }} href="{{ sadhakam_app_link }}"><span itemprop="name">Sādhakam</span></a>
+                <br />
+                <small>Carnatic Swara Gnanam Practice</small>
+            </h3>
+            <p class="app-description"><span itemprop="featureList">Easily improve your swara gnanam with interactive exercises. Develop the skill to identify swarams from what you hear.</span></p>
+        </div>
+
+        <div class="{{ class_col_play_badge }}">
+            <a itemprop="url" {{ site.new_tab }}
+               href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam&utm_source=beautifulnote&utm_campaign=app-listing&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+                <img class='img mx-auto d-block' width='{{ play_badge_width }}' alt='Get it on Google Play'
+               src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
+            </a>
+        </div>
+    </div>
+
+    <hr />
+    <div class='{{ class_row_app }}' itemscope itemtype="schema.org/MobileApplication">
+        <meta itemprop="operatingSystem" content="Android" />
+        <meta itemprop="applicationCategory" content="Music" />
+        <meta itemprop='sameAs' content='https://play.google.com/store/apps/details?id=org.kuyil.shruti'>
+
+        <div class="{{ class_col_app_logo }}">
+            <a {{ site.new_tab }} href="{{ shruti_app_link }}">
+                <img class='img mx-auto d-block' width="{{ app_logo_width }}" alt='shruti app logo' src="/images/shruti_logo.png" />
+            </a>
+        </div>
+
+        <div class="{{ class_col_app_text }}">
+            <h3 class="app-title">
+                <a {{ site.new_tab }} href="{{ shruti_app_link }}"><span itemprop="name">Shruti</span></a>
+                <br />
+                <small>Carnatic Tuner</small>
+            </h3>
+            <p class="app-description"><span itemprop="featureList">Instantly see the swaram you're singing or playing. Tune any instrument accurately. Perfect your singing and playing.</span></p>
+        </div>
+
+        <div class="{{ class_col_play_badge }}">
+            <a itemprop="url" {{ site.new_tab }}
+               href='https://play.google.com/store/apps/details?id=org.kuyil.shruti&utm_source=beautifulnote&utm_campaign=app-listing&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+                <img class='img mx-auto d-block' width='{{ play_badge_width }}' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
+            </a>
+        </div>
+    </div>
+    <hr />
+
+</div><!-- apps listing container-->

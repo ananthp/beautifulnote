@@ -9,7 +9,7 @@ In carnatic music, Anthara Gandharam (Ga<sub>3</sub>) has a peculiar characteris
 
 On a keyboard<sup>*</sup>, Major 3rd is used to approximate Ga<sub>3</sub>. However, Major 3rd (western music) is 400 cents<sup>#</sup> whereas proper carnatic Ga<sub>3</sub> is at 386.31 cents above Sa (5/4 ratio).
 
-<img class="img-responsive" alt="ga3 is several cents flatter than major 3rd on keyboard" src="{{ site.url }}/images/ga3.png" />
+<img class="img-fluid" alt="ga3 is several cents flatter than major 3rd on keyboard" src="{{ site.url }}/images/ga3.png" />
 
 <!--more-->
 
@@ -26,11 +26,7 @@ Putting that in the context of Sa, this recording would help you get the taste o
 * 2nd Phrase --> Sa and western Major 3rd are played separately and together.
 * 3rd Phrase --> Carnatic Ga3 and western Major 3rd are played together.
 
-In conclusion, western keyboard should not be used naively as a learning tool for Carnatic music. Instead of resorting to tools designed without consideration for our music, we shall develop and support tools that are created specifically for carnatic music. Our [Shruti Carnatic Tuner](https://play.google.com/store/apps/details?id=org.kuyil.shruti) (Android app) is one such effort. It provides accurate reference tones for pure carnatic swarasthanas.
+In conclusion, western keyboard should not be used naively as a learning tool for Carnatic music. Instead of resorting to tools designed without consideration for our music, we shall develop and support tools that are created specifically for carnatic music. Our <a {{ site.new_tab }} href='https://play.google.com/store/apps/details?id=org.kuyil.shruti'>Shruti Carnatic Tuner</a> (Android app) is one such effort. It provides accurate reference tones for pure carnatic swarasthanas.
 
-<sup>*</sup>[Equal Temperament](https://en.wikipedia.org/wiki/Equal_temperament) is the tuning system used for keyboards. This is a western tuning system.  
-<sup>#</sup>[Cent](https://en.wikipedia.org/wiki/Cent_(music)) is a logarithmic unit of measure used for musical intervals. 
-
-<hr />
-_**Ananth Pattabiraman** is a musician and co-founder of [Kuyil](kuyil.org), a startup dedicated to crafting apps for carnatic.  
-[Shruti Carnatic Tuner](https://play.google.com/store/apps/details?id=org.kuyil.shruti), their android app, assists carnatic musicians and students with precise reference tones for swara sthanas._
+<sup>*</sup><a {{ site.new_tab }} href='https://en.wikipedia.org/wiki/Equal_temperament'>Equal Temperament</a> is the tuning system used for keyboards. This is a western tuning system.  
+<sup>#</sup><a {{ site.new_tab }} href='https://en.wikipedia.org/wiki/Cent_(music)'>Cent</a> is a logarithmic unit of measure used for musical intervals.

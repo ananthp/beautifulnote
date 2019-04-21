@@ -23,3 +23,6 @@ plugins:
 
 excerpt_seperator: <!--more-->
 
+# site level variables
+new_tab: 'target="_blank" rel="noopener noreferrer"'
+author: Ananth Pattabiraman

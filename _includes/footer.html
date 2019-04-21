@@ -1,8 +1,11 @@
 <footer class="site-footer">
-  <div class="wrapper">
-    <div class="footer-col-wrapper" >
-      <p class="text">{{ site.description }}</p>
+  {% include apps_listing.html %}
+  <div class='row'>
+    <div class='col'>
+      <p class='copyright'>© beautifulnote.com</p>
+    </div>
+    <div class='col'>
+      <p class='text-right copyright'><a {{ site.new_tab }} href="{{ "/feed.xml" | prepend: site.baseurl }}">Subscribe via RSS</a></p>
     </div>
   </div>
-
 </footer>

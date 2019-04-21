@@ -2,18 +2,28 @@
 ---
 
 html,
-body, 
+body,
 p
-  font-family: 'Roboto', 'Open Sans', sans-serif
-  font-size: 18px
-  
-p
-  padding-bottom: 8px
-  line-height: 1.7
   font-family: 'Libre Baskerville', serif
+
+p
+  padding-bottom: 0.8rem
+  line-height: 1.7
+  font-size: 1.1rem
 
 h1, h2, h3, h4
   font-family: 'Roboto', sans-serif
+
+a
+  color: #337ab7
+
+figcaption
+  margin-top: 1rem
+  font-style: italic
+
+.post-title
+  font-size: 2rem
+  padding-top: 2rem
 
 .post-date
   color: #757575
@@ -21,12 +31,30 @@ h1, h2, h3, h4
   padding-bottom: 24px
   font-family: 'Libre Baskerville', serif
   font-style: italic
-  
+
+.site-footer
+  padding-bottom: 1rem
+  .copyright
+    font-size: 0.8rem
+
+nav
+  margin-bottom: 24px
 // this is the minimum width of md (desktop) screens
 // this variable is defined by bootstrap, and ideally should be simply imported here.
 // however, as we don't have bootstrap source here, we simply redefine it.
 // ref: https://getbootstrap.com/docs/3.3/css/#grid-options
 $screen-md-min: 992px
+
+.appinfo
+  .app-title
+    font-size: 1.1rem
+  .app-description
+    font-size: 0.9rem
+
+.appinfo-heading
+  font-family: 'Libre Baskerville', serif
+  font-size: 1.7rem
+  color: #616161
 
 // mobile
 @media (max-width: $screen-md-min)
@@ -39,7 +67,7 @@ $screen-md-min: 992px
     .vcenter-mobile
       align-items: center
       display: flex
-      
+
   .theory_text_filename
     padding-top: 8px
     padding-bottom: 8px

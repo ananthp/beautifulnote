@@ -1,20 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    {% include header.html %}
+  <div class="container">
+    {% include navbar.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
+    <!-- main content -->
+    <div class="row justify-content-center">
+      <div class="col-11 col-md-8">
         {{ content }}
+        <hr />
+        <em>
+          <strong>Ananth Pattabiraman</strong> is a musician and co-founder of <a {{ site.new_tab }} href='https://kuyil.org'>Kuyil Carnatic Apps</a>, a startup dedicated to crafting apps for carnatic.
+          You can checkout the apps below.
+        </em>
+        <hr />
       </div>
     </div>
 
-    {% include footer.html %}
-
-  </body>
+  {% include footer.html %}
+  {% include bootstrap-scripts.html %}
+</div> <!-- container -->
+</body>
 
 </html>

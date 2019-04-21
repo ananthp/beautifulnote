@@ -1,28 +1,13 @@
 ---
-layout: bootstrap-frontpage
+layout: default
 redirect_from: "/blog/"
 ---
 
 
 {% for post in site.posts %}
-<div class="row">
-  <div class="col-xs-12">
-    <h2>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-12">
-    {{ post.excerpt }}
-  </div>
-  <div class="col-xs-12">
-    <p class="text-left"><a href="{{ post.url | prepend: site.baseurl }}">Read more…</a></p>
-  </div>
-</div>
+<h2 class='post-title'>
+  <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+</h2>
+{{ post.excerpt }}
+<p class="text-left"><a href="{{ post.url | prepend: site.baseurl }}">Read more…</a></p>
 {% endfor %}
-
-<!-- This should come as a footer or something -->
-<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-

@@ -8,7 +8,7 @@ redirect_from: "/blog/2010/08/concert-aug-30-31-2010-ywca-hall-west-marredpally-
 *Occasion*: Annual day celebrations, Sri Bhakta Ramadas Govt.
 College of Music and Dance.
 
-###Open For All.
+### Open For All.
 
 ### Monday, Aug 30, 2010. 4pm - 7.30pm 
 
@@ -18,7 +18,7 @@ I'll play Carnatic Violin, as a part of the orchestra. We'll perform
 Chaapu, composed by Oothukkadu Venkata Subbier
 
 - A *Nava-Raaga-maalika* composition  by Smt. B. Haripriya of
-renowned 'Hyderabad Sisters', Thalam: Adi, (conducted by the
+the renowned *Hyderabad Sisters*, Thalam: Adi, (conducted by the
 composer)
 
 - A *Thillana*, in Sumanisa Ranjani Ragam, Adi Thala.
