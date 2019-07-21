@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+
+  <div class="container">
+    {% include navbar.html %}
+
+    <!-- main content -->
+    <div class="row justify-content-center">
+      <div class="col-11 col-md-8">
+        {{ content }}
+      </div>
+    </div>
+
+  {% include bootstrap-scripts.html %}
+</div> <!-- container -->
+</body>
+
+</html>

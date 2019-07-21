@@ -1,7 +1,3 @@
-{% assign shruti_app_link =    "https://play.google.com/store/apps/details?id=org.kuyil.shruti" %}
-{% assign sadhakam_app_link =  "https://play.google.com/store/apps/details?id=org.kuyil.sadhakam" %}
-{% assign shrutibox_app_link = "https://play.google.com/store/apps/details?id=org.kuyil.shrutibox" %}
-
 {% assign class_row_app = "row vcenter-desktop justify-content-sm-center" %}
 {% assign class_col_app_logo = "col-sm-auto my-auto" %}
 {% assign class_col_app_text = "col-md-5 appinfo" %}
@@ -19,18 +15,18 @@
         <meta itemprop='sameAs' content='https://play.google.com/store/apps/details?id=org.kuyil.shrutibox'>
 
         <div class="{{ class_col_app_logo }}">
-            <a {{ site.new_tab }} href="{{ shrutibox_app_link }}">
+            <a {{ site.new_tab }} href="{{ site.shrutibox_app_link }}">
                 <img class='img mx-auto d-block' width="{{ app_logo_width }}" alt='Pocket Shruti Box app logo' src="/images/shrutibox_logo.png" />
             </a>
         </div>
 
         <div class="{{ class_col_app_text }}">
             <h3 class="app-title">
-                <a {{ site.new_tab }} href="{{ shrutibox_app_link }}"><span itemprop="name">Pocket Shruti Box</span></a>
+                <a {{ site.new_tab }} href="{{ site.shrutibox_app_link }}"><span itemprop="name">Pocket Shruti Box</span></a>
                 <br />
                 <small>Carnatic Tambura</small>
             </h3>
-            <p class="app-description"><span itemprop="featureList">Concert grade shruti box app. Authentic tambura sound. Very accurate. Clear even on phone speakers. Sounds great with external speakers and headphones.</span></p>
+            <p class="app-description"><span itemprop="featureList">{{ site.shrutibox_app_description }}</span></p>
         </div>
 
         <div class="{{ class_col_play_badge }}">
@@ -50,18 +46,18 @@
         <meta itemprop='sameAs' content='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>
 
         <div class="{{ class_col_app_logo }}">
-            <a {{ site.new_tab }} href="{{ sadhakam_app_link }}">
+            <a {{ site.new_tab }} href="{{ site.sadhakam_app_link }}">
                 <img class='img mx-auto d-block' width="{{ app_logo_width }}" alt='sadhakam app logo' src="/images/sadhakam_logo.png" />
             </a>
         </div>
 
         <div class="{{ class_col_app_text }}">
             <h3 class="app-title">
-                <a {{ site.new_tab }} href="{{ sadhakam_app_link }}"><span itemprop="name">Sādhakam</span></a>
+                <a {{ site.new_tab }} href="{{ site.sadhakam_app_link }}"><span itemprop="name">Sādhakam</span></a>
                 <br />
                 <small>Carnatic Swara Gnanam Practice</small>
             </h3>
-            <p class="app-description"><span itemprop="featureList">Easily improve your swara gnanam with interactive exercises. Develop the skill to identify swarams from what you hear.</span></p>
+            <p class="app-description"><span itemprop="featureList">{{ site.sadhakam_app_description }}</span></p>
         </div>
 
         <div class="{{ class_col_play_badge }}">
@@ -80,18 +76,18 @@
         <meta itemprop='sameAs' content='https://play.google.com/store/apps/details?id=org.kuyil.shruti'>
 
         <div class="{{ class_col_app_logo }}">
-            <a {{ site.new_tab }} href="{{ shruti_app_link }}">
+            <a {{ site.new_tab }} href="{{ site.shruti_app_link }}">
                 <img class='img mx-auto d-block' width="{{ app_logo_width }}" alt='shruti app logo' src="/images/shruti_logo.png" />
             </a>
         </div>
 
         <div class="{{ class_col_app_text }}">
             <h3 class="app-title">
-                <a {{ site.new_tab }} href="{{ shruti_app_link }}"><span itemprop="name">Shruti</span></a>
+                <a {{ site.new_tab }} href="{{ site.shruti_app_link }}"><span itemprop="name">Shruti</span></a>
                 <br />
                 <small>Carnatic Tuner</small>
             </h3>
-            <p class="app-description"><span itemprop="featureList">Instantly see the swaram you're singing or playing. Tune any instrument accurately. Perfect your singing and playing.</span></p>
+            <p class="app-description"><span itemprop="featureList">{{ site.shruti_app_description }}</span></p>
         </div>
 
         <div class="{{ class_col_play_badge }}">
