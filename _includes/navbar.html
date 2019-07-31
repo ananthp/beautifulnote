@@ -4,22 +4,15 @@
 {%    assign home = site.url %}
 {% endif %}
 
-  <!-- Top. Navigation-->
-  <nav class="navbar navbar-expand-md navbar-light bg-light">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <a class="navbar-brand disabled" href="{{ home }}">Beautifulnote</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class='nav ml-auto'>
-        {% for page in site.pages %}
-        {% if page.title %}
-        <li class='nav-item'><a class='nav-link' href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-        {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
-
-  </nav>
+<div class="container-fluid">
+    <nav class="navbar navbar-dark bg-dark fixed-top">
+        <a class="navbar-brand disabled" href="{{ home }}">
+            BeautifulNote
+        </a>
+        <ul class="nav">
+            <li class="nav-item">
+                <a class="nav-link" href="/about">About</a>
+            </li>
+        </ul>
+    </nav>
+</div>

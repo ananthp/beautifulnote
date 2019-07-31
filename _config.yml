@@ -1,6 +1,5 @@
 # Site settings
 title: BeautifulNote
-# email: admin@beautifulnote.com
 description: > # this means to ignore newlines until "baseurl:"
      BeautifulNote.com is a music production company with the mission to create and promote beautiful music. We believe music can dissolve geographical, cultural and intellectual boundaries. We value sharing and collaboration in music.
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -26,3 +25,11 @@ excerpt_seperator: <!--more-->
 # site level variables
 new_tab: 'target="_blank" rel="noopener noreferrer"'
 author: Ananth Pattabiraman
+
+shruti_app_link: "https://play.google.com/store/apps/details?id=org.kuyil.shruti"
+sadhakam_app_link: "https://play.google.com/store/apps/details?id=org.kuyil.sadhakam"
+shrutibox_app_link: "https://play.google.com/store/apps/details?id=org.kuyil.shrutibox"
+
+shruti_app_description: Instantly see the swaram you're singing or playing. Tune any instrument accurately. Perfect your singing and playing.
+sadhakam_app_description: Improve your swara gnanam with interactive exercises. Develop the skill to identify swarams from what you hear.
+shrutibox_app_description: Concert grade shruti box app. Authentic tambura sound. Very accurate. Clear even on phone speakers. Sounds great with external speakers and headphones.
