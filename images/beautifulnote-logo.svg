@@ -26,7 +26,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8242188"
-     inkscape:cx="256"
+     inkscape:cx="162.53533"
      inkscape:cy="256"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,29 +56,21 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-161.53331)">
-    <rect
+    <path
        style="opacity:1;fill:#ffffff;fill-opacity:0.95375725;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect815"
-       width="135.46666"
-       height="135.46666"
-       x="2.7270507e-06"
-       y="161.53331"
-       ry="67.73333" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot817"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:20px;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:0.95375725;fill-rule:nonzero;stroke:none;stroke-width:0.35766074;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
-       transform="matrix(1.4795212,0,0,1.4795212,-153.56549,61.421309)"><flowRegion
-         id="flowRegion819"
-         style="letter-spacing:0px;fill:#000000;stroke-width:0.35766074;"><rect
-           id="rect821"
-           width="400.71948"
-           height="315.20343"
-           x="115.66595"
-           y="110.73233"
-           style="letter-spacing:0px;fill:#000000;stroke-width:0.35766074;" /></flowRegion><flowPara
-         id="flowPara823"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville Bold';letter-spacing:0px;stroke-width:0.35766074;fill:#000000;">B</flowPara></flowRoot>    <path
+       d="M 67.733332,161.53331 C 105.2576,161.53331 135.46666,191.74238 135.46666,229.26664 135.46666,266.7909 105.2576,296.99997 67.733332,296.99997 30.209068,296.99997 2.7270507e-6,266.7909 2.7270507e-6,229.26664 2.7270507e-6,191.74238 30.209068,161.53331 67.733332,161.53331 Z"
+       id="rect815" />
+    <g
+       aria-label="B"
+       transform="matrix(1.4795212,0,0,1.4795212,-153.56549,61.421309)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:20px;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:0.95375725;fill-rule:nonzero;stroke:none;stroke-width:0.35766074;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="flowRoot817">
+      <path
+         d="M 117.77802,138.79694 V 136.23694 Q 119.95402,136.17294 121.23402,135.85294 122.57802,135.53294 123.28202,134.76494 124.05002,133.99694 124.30602,132.58894 124.56202,131.18094 124.56202,128.94094 V 99.372938 Q 124.56202,97.132938 124.37002,95.788938 124.17802,94.380938 123.53802,93.612938 122.96202,92.780938 121.87402,92.524938 120.85002,92.204938 119.12202,92.076938 V 89.516938 H 139.66602 Q 149.33002,89.516938 154.51402,92.652938 159.76202,95.724938 159.76202,101.48494 159.76202,109.10094 148.81802,112.23694 V 112.49294 Q 152.33802,112.49294 155.15402,113.51694 158.03402,114.47694 160.01802,116.26894 162.00202,118.06094 163.09002,120.49294 164.17802,122.92494 164.17802,125.80494 164.17802,129.06894 162.57802,131.50094 161.04202,133.93294 158.09802,135.59694 152.40202,138.79694 142.41802,138.79694 Z M 142.86602,134.89294 Q 153.17002,134.89294 153.17002,125.61294 153.17002,119.91694 149.45802,117.29294 147.53802,115.94894 144.46602,115.37294 141.45802,114.79694 137.04202,114.79694 H 133.97002 V 127.59694 Q 133.97002,131.56494 136.01802,133.22894 138.06602,134.89294 142.86602,134.89294 Z M 137.74602,110.95694 Q 140.62602,110.95694 142.73802,110.44494 144.85002,109.86894 146.32202,108.84494 149.39402,106.73294 149.39402,102.25294 149.39402,97.580938 147.09002,95.532938 144.78602,93.420938 139.66602,93.420938 H 135.12202 Q 133.97002,93.420938 133.97002,94.508938 V 110.95694 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville Bold';letter-spacing:0px;fill:#000000;stroke-width:0.35766074"
+         id="path818" />
+    </g>
+    <path
        style="display:inline;opacity:1;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.2329998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 99.650883,186.37965 103.15405,216.48146 C 95.981406,214.29136 89.869849,218.09081 88.885109,221.32021 87.106388,227.15349 90.75806,233.53331 100.87184,232.57965 107.14666,231.98066 110.67955,227.2047 110.22565,221.58275 L 107.07004,193.65019 118.86976,192.41821 117.52595,185.1474 Z"
        id="path6274"
