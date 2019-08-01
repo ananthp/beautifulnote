@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
      Blog of Ananth Pattabiraman, musician and co-founder of Kuyil Carnatic Apps. Here I write about Carnatic music, advancements in technology for making and learning music. I also make and share music scores here.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://beautifulnote.com"
-logo: /favicon.png
+logo: "/favicon.png"
 twitter_username: ananth
 github_username:  ananthp
 twitter:

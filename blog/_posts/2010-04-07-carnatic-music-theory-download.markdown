@@ -2,7 +2,7 @@
 layout: post
 title: "Download: Carnatic Music Theory notes"
 description: "Music Theory notes for Carnatic Music at Government Music colleges, Andhra Pradesh/Telangana. PDFs. Free download"
-image: "{{ site.url }}/images/sample-music-theory1.png"
+image: "{{ '/images/sample-music-theory1.png' | absolute_url }}"
 author: Ananth Pattabiraman
 updated: Nov 2018
 

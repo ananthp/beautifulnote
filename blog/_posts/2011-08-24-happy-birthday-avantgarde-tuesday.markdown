@@ -2,6 +2,7 @@
 layout: post
 title: Happy Birthday Avantgarde Tuesday!
 author: Ananth Pattabiraman
+image: /images/avantgardetuesday.png
 redirect_from: "/blog/2011/08/happy-birthday-avantgarde-tuesday/"
 ---
 
@@ -9,7 +10,7 @@ redirect_from: "/blog/2011/08/happy-birthday-avantgarde-tuesday/"
 
 Exactly an year ago, I was writing and recording what was to become An avant-garde tuesday. As with all my other compositions, it began with a very simple idea, and took shape in one stretch of work, within the least possible time to carry out the physical aspects of making music. However, It's unlike any other work of mine.
 
-<img class="img-fluid" alt="Avantgarde Tuesday" src="{{ site.url }}/images/avantgardetuesday.png" />
+<img class="img-fluid" alt="Avantgarde Tuesday" src="{{ page.image | absolute_url }}" />
 
 It was the most daring experiment I've had undertaken till then. A big leap from where I stood before. But it felt very easy, very natural when I was actually doing it.  
 

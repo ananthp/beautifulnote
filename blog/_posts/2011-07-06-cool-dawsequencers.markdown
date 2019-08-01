@@ -2,12 +2,15 @@
 layout: post
 title: Cool DAWs/Sequencers
 author: Ananth Pattabiraman
+image: "https://qtractor.sourceforge.io/image/qtractor-screenshot16.png"
 redirect_from: "/blog/2011/07/cool-dawsequencers/"
+excerpt_separator: <!--more-->
 ---
 
 Reaper is my main Digital-Audio-Workstation. It's just awesome!
 
 <img class="img-fluid" src="https://reaper.fm/siteimages/ss_v4_fp.jpg" alt="Reaper DAW screenshot" />
+<!--more-->
 
 Today, I came across Zynewave Podium, which looks cool.
 <div class="embed-responsive embed-responsive-16by9">
@@ -31,4 +34,4 @@ That's the midi sequencer. There's a *Non DAW* too.  Unfortunately, they don't s
 
 Despite its name, <a {{ site.new_tab }} href='https://qtractor.sourceforge.io/'>Qtractor</a> is not a tractor-like software. Clean, familiar interface. Developed passionately.
 
-<img class="img-fluid" alt="Qtractor" src="https://qtractor.sourceforge.io/image/qtractor-screenshot8.png" />
+<img class="img-fluid" alt="Qtractor" src="{{ page.image }}" />

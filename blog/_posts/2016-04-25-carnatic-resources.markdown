@@ -3,11 +3,12 @@ layout: post
 author: Ananth Pattabiraman
 title: Carnatic Music Resources
 description: Vast, immensely useful resources for Carnatic Music 
+image: "/images/journal-music-academy.jpg"
 excerpt_separator: <!--more-->
 ---
 Stuff on carnatic music is not usually hard to come by. Nowadays, one can look up Arohana/Avarohana of a Raga or list of compositions by a composer with a quick web search. And then there are resources- massive, huge, immense resources- that serious students and researchers should be thankful that they exist online.
 
-<img class="img-fluid" alt="Journal of the Music Academy" src="{{ site.url }}/images/journal-music-academy.jpg" />
+<img class="img-fluid" alt="Journal of the Music Academy" src="{{ page.image | absolute_url }}" />
 <!--more-->
 
 ### Journal of The Music Academy

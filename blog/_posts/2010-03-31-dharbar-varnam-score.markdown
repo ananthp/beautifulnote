@@ -3,6 +3,7 @@ layout: post
 title: Staff Notation/Score for Dharbar Varnam
 author: Ananth Pattabiraman
 updated: 2018-12-05
+image: "/images/ananth-dharbar_varnam_page1.png" 
 excerpt_separator: <!--more-->
 redirect_from: "/blog/2010/03/dharbar-varnam-score/"
 ---
@@ -15,7 +16,7 @@ redirect_from: "/blog/2010/03/dharbar-varnam-score/"
 
 <div class='row'>
     <div class='col-md-6'>
-<img class="img-fluid" alt="Dharbar Varnam Score - Page 1" src='{{ "/images/ananth-dharbar_varnam_page1.png" | absolute_url }}' />
+<img class="img-fluid" alt="Dharbar Varnam Score - Page 1" src='{{ page.image | absolute_url }}' />
     </div>
     <div class='col-md-6'>
 <img class="img-fluid" alt="Dharbar Varnam Score - Page 2" src='{{ "/images/ananth-dharbar_varnam_page2.png" | absolute_url }}' />

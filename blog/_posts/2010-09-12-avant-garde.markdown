@@ -3,11 +3,14 @@ layout: post
 title: An Avant-Garde Tuesday 
 description: Series of improvisations on guitar over a syncopated, chromatic bass-line. Jazzy. Atonal. Experimental.
 author: Ananth Pattabiraman
-image: "{{site.url}}/images//ananth-avantgarde_tuesday-bass_preview.png"
+image: "/images/ananth-avantgarde_tuesday-bass_preview.png"
+excerpt_seperator: <!--more-->
 redirect_from: "/blog/2010/09/avant-garde/"
 --- 
 
 **An Avant-Garde Tuesday**, Composed and Performed by Ananth.
+<img class="img-fluid" src="{{ page.image | absolute_url }}" alt="Ananth - Avantgarde-Tuesday Bass preview" />
+<!--more-->
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/8043164&amp;color=333333&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -23,13 +26,7 @@ Series of improvisations on guitar over a syncopated, chromatic bass-line. Jazzy
 
 (mp3) <a {{ site.new_tab }} href='{{ "/download/music/ananth-avant_garde_tuesday.mp3" | absolute_url }}'>An Avant-Garde Tuesday by Ananth</a> (5:45 mins, 6.3 MB)
 
-Listen to it on <a {{ site.new_tab }} href='https://soundcloud.com/ananth-pattabi/an-avant-garde-tuesday'>Sound Cloud</a>
-
-Listen to it on <a {{ site.new_tab }} href='https://www.jamendo.com/en/album/81596'>Jamendo</a>
-
 ### Score/Sheetmusic
-
-<img class="img-fluid" src="{{site.url}}/images//ananth-avantgarde_tuesday-bass_preview.png" alt="Ananth - Avantgarde-Tuesday Bass preview" />
 
 <a {{ site.new_tab }} href='https://imslp.org/wiki/An_Avant-Garde_Tuesday_%28Pattabiraman,_Ananth%29'>Download Sheetmusic of Avant-Garde Tuesday</a>
 

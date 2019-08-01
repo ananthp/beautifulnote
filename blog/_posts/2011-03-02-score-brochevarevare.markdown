@@ -3,14 +3,26 @@ layout: post
 title: "Score: Brochevarevare (Kriti), Sriranjani, Adi - Tyagaraja"
 description: "Music score for the Telugu kriti in Sriranjani Ragam. Traditional carnatic notation, written in English"
 author: Ananth Pattabiraman
-image: "{{ site.url }}/images/sample-brochevarevare.png"
+image: "/images/sample-brochevarevare.png"
 excerpt_separator: <!--more-->
 redirect_from: "/blog/2011/03/score-brochevarevare-kriti-sriranjani-adi-tyagaraja/"
 ---
 
 Another score/notation added to <a {{ site.new_tab }} href='https://ananthp.github.io/carnatic_scores/'>Carnatic Notations Library</a> - Saint Tyagaraja's kriti *Brochevarevare* in Sriranjani Ragam, Adi Talam
 
-<img class="img-fluid" src="{{ site.url}}/images/sample-brochevarevare.png" alt="Music score sample: Brochevarevare" />
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "ImageObject",
+  "author": "Ananth Pattabiraman"
+  "ContentUrl": "{{ page.image | absolute_url }}",
+  "InLanguage": "English",
+  "name": "Preview of music score Brochevarevare in Sriranjani"
+  "isFamilyFriendly": True,
+  "keywords": [ "Carnatic Music", "Music Score", "Notation", "Composition" ]
+}
+</script>
+<img class="img-fluid" src="{{ page.image | absolute_url }}" alt="Music score sample: Brochevarevare" />
 
 <!--more-->
 
