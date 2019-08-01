@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="beautifulnote-logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8242188"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     showguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-161.53331)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.95375725;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815"
+       width="135.46666"
+       height="135.46666"
+       x="2.7270507e-06"
+       y="161.53331"
+       ry="67.73333" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot817"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:20px;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:0.95375725;fill-rule:nonzero;stroke:none;stroke-width:0.35766074;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+       transform="matrix(1.4795212,0,0,1.4795212,-153.56549,61.421309)"><flowRegion
+         id="flowRegion819"
+         style="letter-spacing:0px;fill:#000000;stroke-width:0.35766074;"><rect
+           id="rect821"
+           width="400.71948"
+           height="315.20343"
+           x="115.66595"
+           y="110.73233"
+           style="letter-spacing:0px;fill:#000000;stroke-width:0.35766074;" /></flowRegion><flowPara
+         id="flowPara823"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville Bold';letter-spacing:0px;stroke-width:0.35766074;fill:#000000;">B</flowPara></flowRoot>    <path
+       style="display:inline;opacity:1;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.2329998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 99.650883,186.37965 103.15405,216.48146 C 95.981406,214.29136 89.869849,218.09081 88.885109,221.32021 87.106388,227.15349 90.75806,233.53331 100.87184,232.57965 107.14666,231.98066 110.67955,227.2047 110.22565,221.58275 L 107.07004,193.65019 118.86976,192.41821 117.52595,185.1474 Z"
+       id="path6274"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

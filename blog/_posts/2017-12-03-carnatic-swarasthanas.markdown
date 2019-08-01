@@ -9,12 +9,12 @@ excerpt_separator: <!--more-->
 
 <script type="application/ld+json">
 {
-	"@context": "http://schema.org/",
-	"@type": "ImageObject",
-	"author": "Ananth Pattabiraman",
-	"ContentUrl": "/{{ page.image | absolute_url }}",
-    "InLanguage": "English",
-    "name": "List of Carnatic Swarasthanas"
+  "@context": "http://schema.org/",
+  "@type": "ImageObject",
+  "author": "Ananth Pattabiraman",
+  "ContentUrl": "/{{ page.image | absolute_url }}",
+  "InLanguage": "English",
+  "name": "List of Carnatic Swarasthanas"
 }
 </script>
 
