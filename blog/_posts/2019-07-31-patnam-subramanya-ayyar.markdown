@@ -1,14 +1,27 @@
 ---
 title: Patnam Subramanya Ayyar
 layout: post
+image: "/images/patnam_subramanya_ayyar.jpg"
 excerpt_separator: <!--more-->
 ---
 
 July 31, 2019 marks the 117th death anniversary of Patnam Subramanya Ayyar (1845-1902), a great carnatic composer, performer and teacher.
 
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "ImageObject",
+  "ContentUrl": "{{ page.image | absolute_url }}",
+  "InLanguage": "English",
+  "name": "Photograph of Patnam Subramanya Ayyar"
+  "isFamilyFriendly": True,
+  "description": "Rare picture of Patnam Subramanya Ayyar, scanned from Prof. Sambamurthy's book",
+  "keywords": [ "Carnatic Music", "Music Composer", "Singer", "Teacher", "Music History", "India", "South Inia", 'Classical Musician"]
+}
+</script>
 <img 
   class="img-fluid center-block"
-  src="/images/patnam_subramanya_ayyar.jpg"
+  src="{{ page.image }}"
   alt="Patnam Subramanya Ayyar"
 />
 

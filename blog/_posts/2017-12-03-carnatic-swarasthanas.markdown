@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
   "@context": "http://schema.org/",
   "@type": "ImageObject",
   "author": "Ananth Pattabiraman",
-  "ContentUrl": "/{{ page.image | absolute_url }}",
+  "ContentUrl": "{{ page.image | absolute_url }}",
   "InLanguage": "English",
   "name": "List of Carnatic Swarasthanas"
 }

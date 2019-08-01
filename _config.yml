@@ -1,7 +1,7 @@
 # Site settings
 title: BeautifulNote
 description: > # this means to ignore newlines until "baseurl:"
-     BeautifulNote.com is a music production company with the mission to create and promote beautiful music. We believe music can dissolve geographical, cultural and intellectual boundaries. We value sharing and collaboration in music.
+     Blog of Ananth Pattabiraman, musician and co-founder of Kuyil Carnatic Apps. Here I write about Carnatic music, advancements in technology for making and learning music. I also make and share music scores here.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://beautifulnote.com"
 logo: /favicon.png
