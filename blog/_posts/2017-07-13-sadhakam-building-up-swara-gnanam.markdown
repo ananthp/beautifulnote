@@ -10,18 +10,18 @@ redirect_from: /blog/2017/07/13/sadhakam-building-up-swara-gyanam
 
 <script type="application/ld+json">
 {
-	"@context": "http://schema.org/",
-	"@type": "MobileApplication",
-	"name": "Sādhakam: Carnatic Swara Gnanam Practice",
-	"url": "https://play.google.com/store/apps/details?id=org.kuyil.sadhakam",
-	"applicationCategory": "Education",
-	"operatingSystem": "Android",
-   	"screenshot": [
-                 { "url": "{{ '/images/sadhakam-exercises.png' | absolute_url }}" },
-                 { "url": "{{ '/images/sadhakam-challenge.png' | absolute_url }}" },
-                 { "url": "{{ '/images/sadhakam-answer-correct.png' | absolute_url }}" },
-                 { "url": "{{ '/images/sadhakam-answer-wrong.png' | absolute_url }}" }
-	]
+    "@context": "http://schema.org/",
+    "@type": "MobileApplication",
+    "name": "Sādhakam: Carnatic Swara Gnanam Practice",
+    "url": "https://play.google.com/store/apps/details?id=org.kuyil.sadhakam",
+    "applicationCategory": "Education",
+    "operatingSystem": "Android",
+    "screenshot": [
+             { "url": "{{ '/images/sadhakam-exercises.png' | absolute_url }}" },
+             { "url": "{{ '/images/sadhakam-challenge.png' | absolute_url }}" },
+             { "url": "{{ '/images/sadhakam-answer-correct.png' | absolute_url }}" },
+             { "url": "{{ '/images/sadhakam-answer-wrong.png' | absolute_url }}" }
+    ]
 }
 </script>
 

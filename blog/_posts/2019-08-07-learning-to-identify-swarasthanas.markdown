@@ -13,7 +13,7 @@ How would one learn to identify swarasthanas when listening to carnatic music? A
   "@type": "ImageObject",
   "ContentUrl": "{{ page.image | absolute_url }}",
   "InLanguage": "English",
-  "name": "Listening to Swarasthanas"
+  "name": "Listening to Swarasthanas",
   "isFamilyFriendly": True,
   "description": "Illustration of a person listening to carnatic swarams",
   "keywords": [ "Carnatic Music", "South India"]

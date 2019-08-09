@@ -14,10 +14,10 @@ Another score/notation added to <a {{ site.new_tab }} href='https://ananthp.gith
 {
   "@context": "http://schema.org/",
   "@type": "ImageObject",
-  "author": "Ananth Pattabiraman"
+  "author": "Ananth Pattabiraman",
   "ContentUrl": "{{ page.image | absolute_url }}",
   "InLanguage": "English",
-  "name": "Preview of music score Brochevarevare in Sriranjani"
+  "name": "Preview of music score Brochevarevare in Sriranjani",
   "isFamilyFriendly": True,
   "keywords": [ "Carnatic Music", "Music Score", "Notation", "Composition" ]
 }

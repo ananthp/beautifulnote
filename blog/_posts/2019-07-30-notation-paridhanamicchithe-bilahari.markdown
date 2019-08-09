@@ -15,10 +15,10 @@ excerpt_separator: <!--more-->
 {
   "@context": "http://schema.org/",
   "@type": "ImageObject",
-  "author": "Ananth Pattabiraman"
+  "author": "Ananth Pattabiraman",
   "ContentUrl": "{{ page.image | absolute_url }}",
   "InLanguage": "English",
-  "name": "Preview of music score Paridhanamicchithe"
+  "name": "Preview of music score Paridhanamicchithe",
   "isFamilyFriendly": True,
   "keywords": [ "Carnatic Music", "Music Score", "Notation", "Composition" ]
 }
@@ -37,7 +37,7 @@ excerpt_separator: <!--more-->
   "@context": "http://schema.org/",
   "@type": "DigitalDocument",
   "name": "Notation of Paridhanamicchithe in Bilahari ragam",
-  "author": "Ananth Pattabiraman"
+  "author": "Ananth Pattabiraman",
   "ContentUrl": "{{ page.pdf | absolute_url }}",
   "InLanguage": "English",
   "isFamilyFriendly": True,
