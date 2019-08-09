@@ -37,7 +37,7 @@ Excerpts from his talk:
 {
     "@context": "http://schema.org/",
     "@type": "MobileApplication",
-    "name": "Sādhakam: Carnatic Swara Gnanam Practice",
+    "name": "Sadhakam: Carnatic Swara Gnanam Practice",
     "url": "{{ site.sadhakam_app_link }}",
     "applicationCategory": "Education",
     "operatingSystem": "Android",

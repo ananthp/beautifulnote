@@ -2,7 +2,7 @@
 layout: post
 author: Ananth Pattabiraman
 title: Building up Swara Gnanam
-description: Sādhakam Carnatic Swara Gnanam Practice has exercises to improve one's swara gnanam. This post describes various stages of aquiring swara gnanam using the app.
+description: Sadhakam Carnatic Swara Gnanam Practice has exercises to improve one's swara gnanam. This post describes various stages of aquiring swara gnanam using the app.
 excerpt_separator: <!--more-->
 image: "/images/sadhakam-answer-correct.png"
 sadhakam_screenshots: [
@@ -18,7 +18,7 @@ redirect_from: /blog/2017/07/13/sadhakam-building-up-swara-gyanam
 {
     "@context": "http://schema.org/",
     "@type": "MobileApplication",
-    "name": "Sādhakam: Carnatic Swara Gnanam Practice",
+    "name": "Sadhakam: Carnatic Swara Gnanam Practice",
     "url": "{{ site.sadhakam_app_link }}",
     "applicationCategory": "Education",
     "operatingSystem": "Android",
@@ -28,7 +28,7 @@ redirect_from: /blog/2017/07/13/sadhakam-building-up-swara-gyanam
 </script>
 
 
-<a {{ site.new_tab }} href='{{ site.sadhakam_app_link }}'>Sādhakam: Carnatic Swara Gnanam Practice</a> is an android app which helps students build their Swara Gnanam. Practicing with the app, doing the interactive exercises, students gradually develop their ability to identify swarams they hear. Hearing a sound and being able to tell the swarasthanam instantly is a wonderful skill, isn't it?
+<a {{ site.new_tab }} href='{{ site.sadhakam_app_link }}'>Sadhakam: Carnatic Swara Gnanam Practice</a> is an android app which helps students build their Swara Gnanam. Practicing with the app, doing the interactive exercises, students gradually develop their ability to identify swarams they hear. Hearing a sound and being able to tell the swarasthanam instantly is a wonderful skill, isn't it?
 
 <img class="img-fluid center-block" alt="Challenge answered correct" src="{{ page.image | absolute_url }}" />
 
