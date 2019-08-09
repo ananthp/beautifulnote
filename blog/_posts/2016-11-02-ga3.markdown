@@ -27,7 +27,7 @@ Putting that in the context of Sa, this recording would help you get the taste o
 * 2nd Phrase --> Sa and western Major 3rd are played separately and together.
 * 3rd Phrase --> Carnatic Ga3 and western Major 3rd are played together.
 
-In conclusion, western keyboard should not be used naively as a learning tool for Carnatic music. Instead of resorting to tools designed without consideration for our music, we shall develop and support tools that are created specifically for carnatic music. Our <a {{ site.new_tab }} href='https://play.google.com/store/apps/details?id=org.kuyil.shruti'>Shruti Carnatic Tuner</a> (Android app) is one such effort. It provides accurate reference tones for pure carnatic swarasthanas.
+In conclusion, western keyboard should not be used naively as a learning tool for Carnatic music. Instead of resorting to tools designed without consideration for our music, we shall develop and support tools that are created specifically for carnatic music. Our <a {{ site.new_tab }} href='{{ site.shruti_app_link }}'>Shruti Carnatic Tuner</a> (Android app) is one such effort. It provides accurate reference tones for pure carnatic swarasthanas.
 
 <sup>*</sup><a {{ site.new_tab }} href='https://en.wikipedia.org/wiki/Equal_temperament'>Equal Temperament</a> is the tuning system used for keyboards. This is a western tuning system.  
 <sup>#</sup><a {{ site.new_tab }} href='https://en.wikipedia.org/wiki/Cent_(music)'>Cent</a> is a logarithmic unit of measure used for musical intervals.

@@ -12,16 +12,16 @@ How good are you in identifying swarasthanas when you hear a musical sequence? T
 
 ### Why is this important?
 
-This is just one of the many challenges from our [Sadhakam](https://play.google.com/store/apps/details?id=org.kuyil.sadhakam) app. The exercise having this challenge, works out all combinations of <i>Ri</i> and <i>Ga</i> thoroughly.
+This is just one of the many challenges from our <a {{ site.new_tab }} href="{{ site.sadhakam_app_link }}">Sadhakam app</a>. The exercise having this challenge, works out all combinations of <i>Ri</i> and <i>Ga</i> thoroughly.
 <!--more--> 
 
 There are six valid combinations of <i>Ri</i> and <i>Ga</i> in Carnatic music (and very similarly there are six combinations of <i>Dha</i> and <i>Ni</i>). Cycles of <i>Ri</i>-<i>Ga</i> combinations and <i>Dha</i>-<i>Ni</i> combinations are the basis of the <i>72 Melakartha scheme</i>, which is one of the backbones of our raga system.
 
-So, it is critical that every student masters these combinations. [Sadhakam](https://play.google.com/store/apps/details?id=org.kuyil.sadhakam) app provides a rigorous yet easy way to build this skill.
+So, it is critical that every student masters these combinations. <a {{ site.new_tab }} href="{{ site.sadhakam_app_link }}">Sadhakam</a> app provides a rigorous yet easy way to build this skill.
 
 ### Answer
 
-If you are fuzzy about Carnatic swarasthana numbering, read <a href='{{ site.base_url }}{% post_url /blog/2017-12-03-carnatic-swarasthanas %}'>this post</a> before checking the answer.
+If you are fuzzy about Carnatic swarasthana numbering, read <a {{ site.new_tab }} href='{{ site.base_url }}{% post_url /blog/2017-12-03-carnatic-swarasthanas %}'>this post</a> before checking the answer.
 
 <button class='btn btn-primary' type='button' data-toggle='collapse' data-target='#answer-div' aria-expanded='false' aria-controls='answer-div'>See Answer</button>
 

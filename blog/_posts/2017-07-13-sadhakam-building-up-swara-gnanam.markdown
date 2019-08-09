@@ -5,28 +5,30 @@ title: Building up Swara Gnanam
 description: Sādhakam Carnatic Swara Gnanam Practice has exercises to improve one's swara gnanam. This post describes various stages of aquiring swara gnanam using the app.
 excerpt_separator: <!--more-->
 image: "/images/sadhakam-answer-correct.png"
+sadhakam_screenshots: [
+             '/images/sadhakam-exercises.png',
+             '/images/sadhakam-challenge.png',
+             '/images/sadhakam-answer-correct.png',
+             '/images/sadhakam-answer-wrong.png' ]
 redirect_from: /blog/2017/07/13/sadhakam-building-up-swara-gyanam
 ---
 
 <script type="application/ld+json">
+{% for screenshot in page.sadhakam_screenshots %}
 {
     "@context": "http://schema.org/",
     "@type": "MobileApplication",
     "name": "Sādhakam: Carnatic Swara Gnanam Practice",
-    "url": "https://play.google.com/store/apps/details?id=org.kuyil.sadhakam",
+    "url": "{{ site.sadhakam_app_link }}",
     "applicationCategory": "Education",
     "operatingSystem": "Android",
-    "screenshot": [
-             { "url": "{{ '/images/sadhakam-exercises.png' | absolute_url }}" },
-             { "url": "{{ '/images/sadhakam-challenge.png' | absolute_url }}" },
-             { "url": "{{ '/images/sadhakam-answer-correct.png' | absolute_url }}" },
-             { "url": "{{ '/images/sadhakam-answer-wrong.png' | absolute_url }}" }
-    ]
-}
+    "screenshot": "{{ screenshot | absolute_url }}"
+},
+{% endfor %}
 </script>
 
 
-<a {{ site.new_tab }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sādhakam: Carnatic Swara Gnanam Practice</a> is an android app which helps students build their Swara Gnanam. Practicing with the app, doing the interactive exercises, students gradually develop their ability to identify swarams they hear. Hearing a sound and being able to tell the swarasthanam instantly is a wonderful skill, isn't it?
+<a {{ site.new_tab }} href='{{ site.sadhakam_app_link }}'>Sādhakam: Carnatic Swara Gnanam Practice</a> is an android app which helps students build their Swara Gnanam. Practicing with the app, doing the interactive exercises, students gradually develop their ability to identify swarams they hear. Hearing a sound and being able to tell the swarasthanam instantly is a wonderful skill, isn't it?
 
 <img class="img-fluid center-block" alt="Challenge answered correct" src="{{ page.image | absolute_url }}" />
 

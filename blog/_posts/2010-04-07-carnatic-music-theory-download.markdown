@@ -12,11 +12,6 @@ redirect_from: "/theory"
 theory-year1: /download/carnatic_music_theory1.pdf
 theory-year2: /download/carnatic_music_theory2.pdf  
 syllabus: /download/syllabus-Telugu--carnatic_music--certificate_and_diploma--all_years.pdf  
-
-shruti_app_link:    "https://play.google.com/store/apps/details?id=org.kuyil.shruti"
-sadhakam_app_link:  "https://play.google.com/store/apps/details?id=org.kuyil.sadhakam"
-shrutibox_app_link: "https://play.google.com/store/apps/details?id=org.kuyil.shrutibox"
-
 class_col_app_logo: "col-xs-offset-4 col-xs-4 col-md-offset-0 col-md-1"
 class_col_app_text: "appinfo col-xs-12 col-md-6"
 class_col_play_badge: "col-xs-offset-3 col-xs-6 col-md-offset-1 col-md-3"

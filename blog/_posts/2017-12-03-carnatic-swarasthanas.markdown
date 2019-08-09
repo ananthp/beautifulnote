@@ -18,7 +18,7 @@ excerpt_separator: <!--more-->
 }
 </script>
 
-Carnatic music has 16 swarasthanas packed in 12 distinct positions. The 12 tones are more or less universal; many systems of music around the world have them, may be with some differences in the ratios/frequencies of individual notes. (*Checkout <a {{ site.new_tab }} href='https://play.google.com/store/apps/details?id=org.kuyil.shruti'>Shruti Carnatic Tuner</a> for precise swarasthanas used in Carnatic music*)
+Carnatic music has 16 swarasthanas packed in 12 distinct positions. The 12 tones are more or less universal; many systems of music around the world have them, may be with some differences in the ratios/frequencies of individual notes. (*Checkout <a {{ site.new_tab }} href='{{ site.shruti_app_link }}'>Shruti Carnatic Tuner</a> for precise swarasthanas used in Carnatic music*)
 
 <img id="table" class="img-fluid center-block" alt="Carnatic Swarasthanas" src="{{ page.image }}" />
 
@@ -45,4 +45,4 @@ Tips:
 
 Of course, the same logic applies to *Dha* and *Ni*.
 
-If you are interested in Carnatic Swarasthanas, try <a {{ site.new_tab }} href='https://play.google.com/store/apps/details?id=org.kuyil.sadhakam'>Sādhakam: Carnatic Swara Gnanam Practice</a> (android app). It trains you to recognize swarasthanas you hear. It works with all 16 swarasthanas as listed in the table, with correct numbers and short forms. Sādhakam only plays swarasthana combinations that are meaningful in Carnatic music and avoids all invalid combinations. See <a href='{{ site.base_url }}{% post_url /blog/2017-07-13-sadhakam-building-up-swara-gnanam %}'>this post</a> to know how Sādhakam app can help you to improve your swara gnanam.
+If you are interested in Carnatic Swarasthanas, try <a {{ site.new_tab }} href='{{ site.sadhakam_app_link }}'>Sādhakam: Carnatic Swara Gnanam Practice</a> (android app). It trains you to recognize swarasthanas you hear. It works with all 16 swarasthanas as listed in the table, with correct numbers and short forms. Sādhakam only plays swarasthana combinations that are meaningful in Carnatic music and avoids all invalid combinations. See <a href='{{ site.base_url }}{% post_url /blog/2017-07-13-sadhakam-building-up-swara-gnanam %}'>this post</a> to know how Sādhakam app can help you to improve your swara gnanam.
