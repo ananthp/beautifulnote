@@ -14,7 +14,7 @@ How would one learn to identify swarasthanas when listening to carnatic music? A
   "ContentUrl": "{{ page.image | absolute_url }}",
   "InLanguage": "English",
   "name": "Listening to Swarasthanas",
-  "isFamilyFriendly": True,
+  "isFamilyFriendly": true,
   "description": "Illustration of a person listening to carnatic swarams",
   "keywords": [ "Carnatic Music", "South India"]
 }

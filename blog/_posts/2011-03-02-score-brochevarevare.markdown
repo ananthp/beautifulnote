@@ -18,7 +18,7 @@ Another score/notation added to <a {{ site.new_tab }} href='https://ananthp.gith
   "ContentUrl": "{{ page.image | absolute_url }}",
   "InLanguage": "English",
   "name": "Preview of music score Brochevarevare in Sriranjani",
-  "isFamilyFriendly": True,
+  "isFamilyFriendly": true,
   "keywords": [ "Carnatic Music", "Music Score", "Notation", "Composition" ]
 }
 </script>

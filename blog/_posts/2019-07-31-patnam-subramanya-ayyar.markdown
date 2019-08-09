@@ -14,9 +14,9 @@ July 31, 2019 marks the 117th death anniversary of Patnam Subramanya Ayyar (1845
   "ContentUrl": "{{ page.image | absolute_url }}",
   "InLanguage": "English",
   "name": "Photograph of Patnam Subramanya Ayyar",
-  "isFamilyFriendly": True,
+  "isFamilyFriendly": true,
   "description": "Rare picture of Patnam Subramanya Ayyar, scanned from Prof. Sambamurthy's book",
-  "keywords": ["Carnatic Music", "Music Composer", "Singer", "Teacher", "Music History", "India", "South India", 'Classical Musician"]
+  "keywords": ["Carnatic Music", "Music Composer", "Singer", "Teacher", "Music History", "India", "South India", "Classical Musician"]
 }
 </script>
 <img 

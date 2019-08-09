@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
   "ContentUrl": "{{ page.image | absolute_url }}",
   "InLanguage": "English",
   "name": "Preview of music score Paridhanamicchithe",
-  "isFamilyFriendly": True,
+  "isFamilyFriendly": true,
   "keywords": [ "Carnatic Music", "Music Score", "Notation", "Composition" ]
 }
 </script>
