@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Download: Carnatic Music Theory notes"
-description: "Music Theory notes for Carnatic Music at Government Music colleges, Andhra Pradesh/Telangana. PDFs. Free download"
+title: "Download: Carnatic Music Theory Books"
+description: "Carnatic Music Theory Books. Free PDF downloads."
 image: "{{ '/images/sample-music-theory1.png' | absolute_url }}"
 author: Ananth Pattabiraman
 updated: Nov 2018
@@ -19,7 +19,7 @@ class_col_play_badge: "col-xs-offset-3 col-xs-6 col-md-offset-1 col-md-3"
 excerpt_separator: <!--more-->
 ---
 
-I've prepared some study material on Carnatic music theory. These notes are based on the syllabus framed by Potti Sriramulu Telugu University for Certificate in Music (Karnataka Sangeetham) examinations. Government music colleges in Telangana and Andhra Pradesh also follow the same syllabus. So, if you are a music student from one of the above mentioned colleges, or preparing to appear for the university exam as a private candidate, you'll find these texts useful. This might also serve as an easy-to-follow introduction to Carnatic music for those who are generally interested in the system but not appearing for any particular examination.
+I've written these books on carnatic music theory, based on the syllabus framed by *Potti Sriramulu Telugu University*. Government music colleges in Telangana and Andhra Pradesh also follow the same syllabus. So, if you are a music student from one of the above mentioned colleges, or a private candiate preparing to appear for *Certificate in Music (Karnataka Sangeetham)* examinations, you'll find these books useful. These texts also serve as an easy-to-follow introduction to carnatic music theory for those who are generally interested in the system.
 <!--more-->
 
 <em>These texts are updated and improved from time to time. You are encouraged to share the link to this page, or simply <a href="{{ site.url }}/theory">beautifulnote.com/theory</a>. Never share or host or link to pdf files directly.</em>
