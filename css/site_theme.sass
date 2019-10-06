@@ -1,6 +1,5 @@
 ---
 ---
-
 html,
 body,
 p
@@ -8,6 +7,7 @@ p
 
 body
   margin-top: 60px
+  margin-bottom: 40px
 
 h1, h2, h3, h4
   font-family: 'Roboto', sans-serif
@@ -28,6 +28,9 @@ blockquote
 
 a
   color: #337ab7
+
+.monochrome-link
+  color: var(--dark)
 
 figcaption
   margin-top: 1rem
@@ -56,8 +59,12 @@ figcaption
   .copyright
     font-size: 0.8rem
 
-nav
-  margin-bottom: 24px
+.appinfo-condensed
+  .app-title
+    font-size: 1.1rem
+  .app-description
+    font-size: 0.9rem
+
 // this is the minimum width of md (desktop) screens
 // this variable is defined by bootstrap, and ideally should be simply imported here.
 // however, as we don't have bootstrap source here, we simply redefine it.

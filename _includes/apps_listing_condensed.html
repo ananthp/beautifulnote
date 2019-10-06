@@ -1,0 +1,72 @@
+{% assign class_row_app = "row vcenter-desktop mt-3 justify-content-start" %}
+{% assign class_col_app_logo = "col-3 my-auto" %}
+{% assign class_col_app_text = "col appinfo-condensed" %}
+
+{% assign app_logo_width = "36" %}
+
+<!-- apps listing -->
+<hr class='mt-2' />
+<div class="container">
+    <div class='{{ class_row_app }}' itemscope itemtype="schema.org/MobileApplication">
+        <meta itemprop="operatingSystem" content="Android" />
+        <meta itemprop="applicationCategory" content="Music" />
+        <meta itemprop='sameAs' content='{{ site.shrutibox_app_link }}'>
+
+        <div class="{{ class_col_app_logo }}">
+            <a {{ site.new_tab }} href="{{ site.shrutibox_app_link }}">
+                <img class='img mx-auto d-block' width="{{ app_logo_width }}" alt='Pocket Shruti Box app logo' src="/images/shrutibox_logo.png" />
+            </a>
+        </div>
+
+        <a class="{{ class_col_app_text }}"{{ site.new_tab }} href="{{ site.shrutibox_app_link }}">
+            <h3 class="app-title">
+                <span itemprop="name">Pocket Shruti Box</span>
+                <br />
+                <small class="monochrome-link">Carnatic Tambura</small>
+            </h3>
+        </a>
+    </div>
+
+
+    <div class='{{ class_row_app }}'
+               itemscope itemtype="schema.org/MobileApplication">
+        <meta itemprop="operatingSystem" content="Android" />
+        <meta itemprop="applicationCategory" content="Music" />
+        <meta itemprop='sameAs' content='{{ site.sadhakam_app_link }}'>
+
+        <div class="{{ class_col_app_logo }}">
+            <a {{ site.new_tab }} href="{{ site.sadhakam_app_link }}">
+                <img class='img mx-auto d-block' width="{{ app_logo_width }}" alt='sadhakam app logo' src="/images/sadhakam_logo.png" />
+            </a>
+        </div>
+
+        <a class="{{ class_col_app_text }}"{{ site.new_tab }} href="{{ site.sadhakam_app_link }}">
+            <h3 class="app-title">
+                <span itemprop="name">Sadhakam</span>
+                <br />
+                <small class="monochrome-link">Carnatic Swara Gnanam Practice</small>
+            </h3>
+        </a>
+    </div>
+
+    <div class='{{ class_row_app }}' itemscope itemtype="schema.org/MobileApplication">
+        <meta itemprop="operatingSystem" content="Android" />
+        <meta itemprop="applicationCategory" content="Music" />
+        <meta itemprop='sameAs' content='{{ site.shruti_app_link }}'>
+
+        <div class="{{ class_col_app_logo }}">
+            <a {{ site.new_tab }} href="{{ site.shruti_app_link }}">
+                <img class='img mx-auto d-block' width="{{ app_logo_width }}" alt='shruti app logo' src="/images/shruti_logo.png" />
+            </a>
+        </div>
+
+        <a class="{{ class_col_app_text }}"{{ site.new_tab }} href="{{ site.shruti_app_link }}">
+            <h3 class="app-title">
+                <span itemprop="name">Shruti</span>
+                <br />
+                <small class="monochrome-link">Carnatic Tuner</small>
+            </h3>
+        </a>
+    </div>
+
+</div><!-- apps listing container-->
