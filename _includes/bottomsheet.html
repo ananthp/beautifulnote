@@ -1,4 +1,4 @@
-{% assign toggle = "data-toggle='collapse' data-target='#apps' aria-controls='apps' aria-expanded='false' aria-label='Toggle navigation'" %}
+{% assign toggle = "data-toggle='collapse' data-target='#apps_listing_condensed' aria-controls='apps_listing_condensed' aria-expanded='false' aria-label='Toggle navigation'" %}
 
 <nav id='bottomsheet' class='navbar fixed-bottom navbar-light' style='background-color: #e1f5fe;' {{ toggle }} >
     <div class='navbar-brand'>
@@ -9,7 +9,7 @@
         <img src='/images/ic_elevator.svg' />
     </button>
 
-    <div class='collapse navbar-collapse' id='apps'>
+    <div class='collapse navbar-collapse' id='apps_listing_condensed'>
         {% include apps_listing_condensed.html %}
     </div>
 </nav>
