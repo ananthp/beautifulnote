@@ -21,22 +21,8 @@
       </div>
     </div>
 
-
   {% include footer.html %}
-  {% assign toggle = "data-toggle='collapse' data-target='#apps' aria-controls='apps' aria-expanded='false' aria-label='Toggle navigation'" %}
-  <nav id='bottomsheet' class='navbar fixed-bottom navbar-light bg-light' {{ toggle }} >
-      <div class='navbar-brand'>
-          <img src='/images/kuyil_logo.svg' width='30' height='30' alt='kuyil-logo' />
-      </div>
-      <div class='navbar-text'>Our Carnatic Apps</div>
-      <button class='navbar-toggler' {{ toggle }} >
-          <span class='navbar-toggler-icon'></span>
-      </button>
-
-      <div class='collapse navbar-collapse' id='apps'>
-          {% include apps_listing_condensed.html %}
-      </div>
-  </nav>
+  {% include bottomsheet.html %}
 
   {% include bootstrap-scripts.html %}
 </div> <!-- container -->
