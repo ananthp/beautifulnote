@@ -3,23 +3,43 @@
     <div class='col-auto'>
         <b>Share</b>
     </div>
+
+    <!-- facebook -->
     <div class='col-auto px-2'>
-        <a {{ site.new_tab }} href='https://www.facebook.com/sharer.php?u={{ page.url | absolute_url }}'>
+        <a {{ site.new_tab }} 
+            href='https://www.facebook.com/sharer.php?u={{ page.url | absolute_url }}' 
+            onclick='woopra.track("shared", { "network": "facebook", "url": "{{ page.url }}" })'
+        >
             <img src='/images/ic_facebook-box.svg' width='{{ share-icon-size }}' height='{{ share-icon-size }}' />
         </a>
     </div>
+
+    <!-- telegram -->
     <div class='col-auto px-2'>
-        <a {{ site.new_tab }} href='https://telegram.me/share/url?url={{ page.url | absolute_url }}'>
+        <a {{ site.new_tab }} 
+            href='https://telegram.me/share/url?url={{ page.url | absolute_url }}'
+            onclick='woopra.track("shared", { "network": "telegram", "url": "{{ page.url }}" })'
+        >
             <img src='/images/ic_telegram.svg' width='{{ share-icon-size }}' height='{{ share-icon-size }}' />
         </a>
     </div>
+
+    <!-- whatsapp -->
     <div class='col-auto px-2'>
-        <a {{ site.new_tab }} href='https://api.whatsapp.com/send?text={{ page.title | uri_escape }} {{ page.url | absolute_url }}'>
+        <a {{ site.new_tab }} 
+            href='https://api.whatsapp.com/send?text={{ page.title | uri_escape }} {{ page.url | absolute_url }}'
+            onclick='woopra.track("shared", { "network": "whatsapp", "url": "{{ page.url }}" })'
+        >
             <img src='/images/ic_whatsapp.svg' width='{{ share-icon-size }}' height='{{ share-icon-size }}' />
         </a>
     </div>
+
+    <!-- twitter -->
     <div class='col-auto px-2'>
-        <a {{ site.new_tab }} href='https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}&text={{ page.title | uri_escape }}'>
+        <a {{ site.new_tab }} 
+            href='https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}&text={{ page.title | uri_escape }}'
+            onclick='woopra.track("shared", { "network": "twitter", "url": "{{ page.url }}" })'
+        >
             <img src='/images/ic_twitter.svg' width='{{ share-icon-size }}' height='{{ share-icon-size }}' />
         </a>
     </div>
