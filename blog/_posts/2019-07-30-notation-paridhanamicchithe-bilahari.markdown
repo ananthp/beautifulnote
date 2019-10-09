@@ -40,7 +40,7 @@ excerpt_separator: <!--more-->
   "author": "Ananth Pattabiraman",
   "ContentUrl": "{{ page.pdf | absolute_url }}",
   "InLanguage": "English",
-  "isFamilyFriendly": True,
+  "isFamilyFriendly": true,
   "keywords": [ "Carnatic Music", "Music Score", "Notation", "Composition", "Bilahari", "Patnam Subramanya Ayyar" ]
 }
 </script>

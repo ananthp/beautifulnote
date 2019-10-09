@@ -1,6 +1,7 @@
 ---
 title: Carnatic Swarasthana Challenge No. 1
 layout: post
+image: "/images/swarasthana-challenge-001.png"
 excerpt_separator: <!--more-->
 ---
 
