@@ -26,17 +26,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59984461"
-     inkscape:cx="553.47355"
-     inkscape:cy="268.69211"
+     inkscape:zoom="0.82421875"
+     inkscape:cx="-61.972988"
+     inkscape:cy="140.52919"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     inkscape:window-height="1025"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -185,136 +185,132 @@
            x="81.822357"
            y="419.06598" /></flowRegion><flowPara
          id="flowPara52"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, Bold';letter-spacing:1.52569342px">Ananth Pattabiraman</flowPara></flowRoot>    <g
-       id="g4778"
-       transform="translate(0,27.658466)">
-      <g
-         transform="translate(-166.77618,161.53331)"
-         id="g4710">
-        <rect
-           y="2.7270507e-06"
-           x="2.7270507e-06"
-           height="135.46666"
-           width="135.46666"
-           id="rect4692"
-           style="fill:#ffebee;stroke-width:0.35923311" />
-        <g
-           id="g4700">
-          <rect
-             style="fill:#00b8d4;fill-opacity:1;stroke:none;stroke-width:0.06804509"
-             id="rect4694"
-             width="135.46666"
-             height="1.0583333"
-             x="0.18899354"
-             y="5.2916651"
-             inkscape:tile-cx="67.733333"
-             inkscape:tile-cy="5.6180327"
-             inkscape:tile-w="135.46665"
-             inkscape:tile-h="1.0583332"
-             inkscape:tile-x0="5.4541013e-06"
-             inkscape:tile-y0="5.088866" />
-          <use
-             height="100%"
-             width="100%"
-             x="0"
-             y="0"
-             inkscape:tiled-clone-of="#rect4546"
-             xlink:href="#rect4546"
-             transform="translate(0,2.1166664)"
-             id="use4696" />
-          <use
-             height="100%"
-             width="100%"
-             x="0"
-             y="0"
-             inkscape:tiled-clone-of="#rect4546"
-             xlink:href="#rect4546"
-             transform="translate(0,4.2333328)"
-             id="use4698" />
-        </g>
-        <g
-           transform="translate(0,2.3194488)"
-           id="g4708">
-          <use
-             x="0"
-             y="0"
-             inkscape:tiled-clone-of="#rect4546"
-             xlink:href="#rect4546"
-             transform="translate(-0.18898809,117.27221)"
-             id="use4702"
-             width="100%"
-             height="100%" />
-          <use
-             x="0"
-             y="0"
-             inkscape:tiled-clone-of="#rect4546"
-             xlink:href="#rect4546"
-             transform="translate(-0.18898809,119.38888)"
-             id="use4704"
-             width="100%"
-             height="100%" />
-          <use
-             x="0"
-             y="0"
-             inkscape:tiled-clone-of="#rect4546"
-             xlink:href="#rect4546"
-             transform="translate(-0.18898809,121.50555)"
-             id="use4706"
-             width="100%"
-             height="100%" />
-        </g>
-      </g>
-      <g
-         id="g4724"
-         transform="matrix(0.55700526,0,0,0.55700526,-163.10059,121.32917)">
-        <text
-           id="text4714"
-           y="149.13762"
-           x="19.590427"
-           style="font-style:normal;font-weight:normal;font-size:43.61066055px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.09026647"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';stroke-width:1.09026647"
-             y="149.13762"
-             x="19.590427"
-             id="tspan4712"
-             sodipodi:role="line">Carnatic</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:43.61066055px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.09026647"
-           x="20.070145"
-           y="189.89622"
-           id="text4718"><tspan
-             sodipodi:role="line"
-             id="tspan4716"
-             x="20.070145"
-             y="189.89622"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';stroke-width:1.09026647">Music</tspan></text>
-        <text
-           id="text4722"
-           y="230.65483"
-           x="20.637083"
-           style="font-style:normal;font-weight:normal;font-size:43.61066055px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.09026647"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';stroke-width:1.09026647"
-             y="230.65483"
-             x="20.637083"
-             id="tspan4720"
-             sodipodi:role="line">Theory</tspan></text>
-      </g>
-      <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, Bold';letter-spacing:1.52569342px">Ananth Pattabiraman</flowPara></flowRoot>    <rect
+       y="189.19179"
+       x="-166.77618"
+       height="135.46666"
+       width="135.46666"
+       id="rect4692"
+       style="fill:#ffebee;stroke-width:0.35923311"
+       inkscape:export-filename="/tmp/carnatic_music_theory-square.png"
+       inkscape:export-xdpi="202.50002"
+       inkscape:export-ydpi="202.50002" />
+    <g
+       id="g4700"
+       transform="matrix(0.99860687,0,0,1,-166.87055,189.19178)">
+      <rect
+         style="fill:#00b8d4;fill-opacity:1;stroke:none;stroke-width:0.06804509"
+         id="rect4694"
+         width="135.46666"
+         height="1.0583333"
+         x="0.18899354"
+         y="5.2916651"
+         inkscape:tile-cx="67.733333"
+         inkscape:tile-cy="5.6180327"
+         inkscape:tile-w="135.46665"
+         inkscape:tile-h="1.0583332"
+         inkscape:tile-x0="5.4541013e-06"
+         inkscape:tile-y0="5.088866" />
+      <use
+         height="100%"
+         width="100%"
+         x="0"
+         y="0"
+         inkscape:tiled-clone-of="#rect4546"
+         xlink:href="#rect4546"
+         transform="translate(0,2.1166664)"
+         id="use4696" />
+      <use
+         height="100%"
+         width="100%"
+         x="0"
+         y="0"
+         inkscape:tiled-clone-of="#rect4546"
+         xlink:href="#rect4546"
+         transform="translate(0,4.2333328)"
+         id="use4698" />
+    </g>
+    <g
+       transform="matrix(0.99860687,0,0,1,-166.68183,191.51123)"
+       id="g4708">
+      <use
+         x="0"
+         y="0"
+         inkscape:tiled-clone-of="#rect4546"
+         xlink:href="#rect4546"
+         transform="translate(-0.18898809,117.27221)"
+         id="use4702"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         inkscape:tiled-clone-of="#rect4546"
+         xlink:href="#rect4546"
+         transform="translate(-0.18898809,119.38888)"
+         id="use4704"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         inkscape:tiled-clone-of="#rect4546"
+         xlink:href="#rect4546"
+         transform="translate(-0.18898809,121.50555)"
+         id="use4706"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       transform="matrix(0.55622928,0,0,0.55700526,-163.10571,148.98764)"
+       id="g4724">
+      <text
          xml:space="preserve"
-         id="flowRoot4732"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0.33296336,0,0,0.33296336,-175.64627,121.26051)"><flowRegion
-           id="flowRegion4728"><rect
-             id="rect4726"
-             width="766.70581"
-             height="188.89853"
-             x="81.822357"
-             y="419.06598" /></flowRegion><flowPara
-           id="flowPara4730"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, Bold';letter-spacing:1.52569342px">Ananth Pattabiraman</flowPara></flowRoot>    </g>
+         style="font-style:normal;font-weight:normal;font-size:43.61066055px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.09026647"
+         x="19.590427"
+         y="149.13762"
+         id="text4714"><tspan
+           sodipodi:role="line"
+           id="tspan4712"
+           x="19.590427"
+           y="149.13762"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';stroke-width:1.09026647">Carnatic</tspan></text>
+      <text
+         id="text4718"
+         y="189.89622"
+         x="20.070145"
+         style="font-style:normal;font-weight:normal;font-size:43.61066055px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.09026647"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';stroke-width:1.09026647"
+           y="189.89622"
+           x="20.070145"
+           id="tspan4716"
+           sodipodi:role="line">Music</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:43.61066055px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.09026647"
+         x="20.637083"
+         y="230.65483"
+         id="text4722"><tspan
+           sodipodi:role="line"
+           id="tspan4720"
+           x="20.637083"
+           y="230.65483"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';stroke-width:1.09026647">Theory</tspan></text>
+    </g>
     <flowRoot
+       transform="matrix(0.3324995,0,0,0.33296336,-175.63391,148.91898)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4732"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4728"><rect
+           y="419.06598"
+           x="81.822357"
+           height="188.89853"
+           width="766.70581"
+           id="rect4726" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, Bold';letter-spacing:1.52569342px"
+         id="flowPara4730">Ananth Pattabiraman</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4831"
        style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -324,7 +320,7 @@
            height="132.60695"
            x="114.14727"
            y="607.96448" /></flowRegion><flowPara
-         id="flowPara4837"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4837" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4839"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
