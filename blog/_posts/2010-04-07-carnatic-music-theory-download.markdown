@@ -4,7 +4,7 @@ title: "Download: Carnatic Music Theory Books"
 description: "Carnatic Music Theory Books. Free PDF downloads."
 image: "/images/carnatic-music-theory-poster.png"
 author: Ananth Pattabiraman
-updated: Nov 2018
+updated: Oct 2019
 
 redirect_from: "/blog/2010/04/carnatic-music-theory-download/"
 redirect_from: "/theory"
@@ -27,7 +27,7 @@ I've written these books on carnatic music theory, based on the syllabus framed 
 <div class='row'>
   <div class="col-xs-12 col-md-6 text-center theory_text_filename">
   Carnatic music theory - Year 1<br />
-  <small>Edition 2.5 (Nov 2018)</small>
+  <small>Edition 2.6 (Oct 2019)</small>
   </div>
 
   <div class="col-xs-12 col-md-6 text-center">
@@ -40,7 +40,7 @@ I've written these books on carnatic music theory, based on the syllabus framed 
 <div class='row'>
   <div class="col-md-6 text-center theory_text_filename">
   Carnatic music theory - Year 2<br />
-  <small>Edition 2.0 (Nov 2018)</small>
+  <small>Edition 2.1 (Oct 2019)</small>
   </div>
 
   <div class="col-md-6 text-center">
