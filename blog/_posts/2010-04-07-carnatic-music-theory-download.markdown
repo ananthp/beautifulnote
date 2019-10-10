@@ -2,7 +2,7 @@
 layout: post
 title: "Download: Carnatic Music Theory Books"
 description: "Carnatic Music Theory Books. Free PDF downloads."
-image: "{{ '/images/sample-music-theory1.png' | absolute_url }}"
+image: "/images/carnatic-music-theory-poster.png"
 author: Ananth Pattabiraman
 updated: Nov 2018
 

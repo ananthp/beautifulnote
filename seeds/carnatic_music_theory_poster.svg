@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="carnatic_music_theory_poster.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.59984461"
+     inkscape:cx="553.47355"
+     inkscape:cy="268.69211"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     showborder="false">
+    <sodipodi:guide
+       position="402.13004,134.79571"
+       orientation="0,1"
+       id="guide4897"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="402.13004,-23.95431"
+       orientation="0,1"
+       id="guide4899"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background" />
+  <g
+     inkscape:label="text"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-161.53331)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion12"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display'"><rect
+           id="rect14"
+           width="1045.7142"
+           height="525.71429"
+           x="128.57143"
+           y="168.23398"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display'" /></flowRegion><flowPara
+         id="flowPara16" /></flowRoot>    <rect
+       style="fill:#ffebee;stroke-width:0.60908347"
+       id="rect31"
+       width="317.5"
+       height="166.15833"
+       x="30.201466"
+       y="158.50011"
+       inkscape:export-filename="/home/ragu/code/beautifulnote/images/carnatic-music-theory-poster.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g4646"
+       transform="matrix(2.3437501,0,0,1.2265625,29.758514,165.11458)">
+      <rect
+         inkscape:tile-y0="5.088866"
+         inkscape:tile-x0="5.4541013e-06"
+         inkscape:tile-h="1.0583332"
+         inkscape:tile-w="135.46665"
+         inkscape:tile-cy="5.6180327"
+         inkscape:tile-cx="67.733333"
+         y="5.2916651"
+         x="0.18899354"
+         height="1.0583333"
+         width="135.46666"
+         id="rect4546"
+         style="fill:#00b8d4;fill-opacity:1;stroke:none;stroke-width:0.06804509" />
+      <use
+         id="use4614"
+         transform="translate(0,2.1166664)"
+         xlink:href="#rect4546"
+         inkscape:tiled-clone-of="#rect4546"
+         y="0"
+         x="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use4616"
+         transform="translate(0,4.2333328)"
+         xlink:href="#rect4546"
+         inkscape:tiled-clone-of="#rect4546"
+         y="0"
+         x="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="g4637"
+       transform="matrix(2.3437501,0,0,1.2265625,30.201454,154.73056)">
+      <use
+         height="100%"
+         width="100%"
+         id="use4618"
+         transform="translate(-0.18898809,117.27221)"
+         xlink:href="#rect4546"
+         inkscape:tiled-clone-of="#rect4546"
+         y="0"
+         x="0" />
+      <use
+         height="100%"
+         width="100%"
+         id="use4620"
+         transform="translate(-0.18898809,119.38888)"
+         xlink:href="#rect4546"
+         inkscape:tiled-clone-of="#rect4546"
+         y="0"
+         x="0" />
+      <use
+         height="100%"
+         width="100%"
+         id="use4622"
+         transform="translate(-0.18898809,121.50555)"
+         xlink:href="#rect4546"
+         inkscape:tiled-clone-of="#rect4546"
+         y="0"
+         x="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.30403709px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.60760093"
+       x="64.415497"
+       y="239.17998"
+       id="text28"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         x="64.415497"
+         y="239.17998"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';stroke-width:0.60760093">Carnatic Music Theory</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot46"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.42917924,0,0,0.42917924,155.33612,67.786573)"><flowRegion
+         id="flowRegion48"><rect
+           id="rect50"
+           width="766.70581"
+           height="188.89853"
+           x="81.822357"
+           y="419.06598" /></flowRegion><flowPara
+         id="flowPara52"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, Bold';letter-spacing:1.52569342px">Ananth Pattabiraman</flowPara></flowRoot>    <g
+       id="g4778"
+       transform="translate(0,27.658466)">
+      <g
+         transform="translate(-166.77618,161.53331)"
+         id="g4710">
+        <rect
+           y="2.7270507e-06"
+           x="2.7270507e-06"
+           height="135.46666"
+           width="135.46666"
+           id="rect4692"
+           style="fill:#ffebee;stroke-width:0.35923311" />
+        <g
+           id="g4700">
+          <rect
+             style="fill:#00b8d4;fill-opacity:1;stroke:none;stroke-width:0.06804509"
+             id="rect4694"
+             width="135.46666"
+             height="1.0583333"
+             x="0.18899354"
+             y="5.2916651"
+             inkscape:tile-cx="67.733333"
+             inkscape:tile-cy="5.6180327"
+             inkscape:tile-w="135.46665"
+             inkscape:tile-h="1.0583332"
+             inkscape:tile-x0="5.4541013e-06"
+             inkscape:tile-y0="5.088866" />
+          <use
+             height="100%"
+             width="100%"
+             x="0"
+             y="0"
+             inkscape:tiled-clone-of="#rect4546"
+             xlink:href="#rect4546"
+             transform="translate(0,2.1166664)"
+             id="use4696" />
+          <use
+             height="100%"
+             width="100%"
+             x="0"
+             y="0"
+             inkscape:tiled-clone-of="#rect4546"
+             xlink:href="#rect4546"
+             transform="translate(0,4.2333328)"
+             id="use4698" />
+        </g>
+        <g
+           transform="translate(0,2.3194488)"
+           id="g4708">
+          <use
+             x="0"
+             y="0"
+             inkscape:tiled-clone-of="#rect4546"
+             xlink:href="#rect4546"
+             transform="translate(-0.18898809,117.27221)"
+             id="use4702"
+             width="100%"
+             height="100%" />
+          <use
+             x="0"
+             y="0"
+             inkscape:tiled-clone-of="#rect4546"
+             xlink:href="#rect4546"
+             transform="translate(-0.18898809,119.38888)"
+             id="use4704"
+             width="100%"
+             height="100%" />
+          <use
+             x="0"
+             y="0"
+             inkscape:tiled-clone-of="#rect4546"
+             xlink:href="#rect4546"
+             transform="translate(-0.18898809,121.50555)"
+             id="use4706"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="g4724"
+         transform="matrix(0.55700526,0,0,0.55700526,-163.10059,121.32917)">
+        <text
+           id="text4714"
+           y="149.13762"
+           x="19.590427"
+           style="font-style:normal;font-weight:normal;font-size:43.61066055px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.09026647"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';stroke-width:1.09026647"
+             y="149.13762"
+             x="19.590427"
+             id="tspan4712"
+             sodipodi:role="line">Carnatic</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:43.61066055px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.09026647"
+           x="20.070145"
+           y="189.89622"
+           id="text4718"><tspan
+             sodipodi:role="line"
+             id="tspan4716"
+             x="20.070145"
+             y="189.89622"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';stroke-width:1.09026647">Music</tspan></text>
+        <text
+           id="text4722"
+           y="230.65483"
+           x="20.637083"
+           style="font-style:normal;font-weight:normal;font-size:43.61066055px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.09026647"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';stroke-width:1.09026647"
+             y="230.65483"
+             x="20.637083"
+             id="tspan4720"
+             sodipodi:role="line">Theory</tspan></text>
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4732"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.33296336,0,0,0.33296336,-175.64627,121.26051)"><flowRegion
+           id="flowRegion4728"><rect
+             id="rect4726"
+             width="766.70581"
+             height="188.89853"
+             x="81.822357"
+             y="419.06598" /></flowRegion><flowPara
+           id="flowPara4730"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, Bold';letter-spacing:1.52569342px">Ananth Pattabiraman</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4831"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4833"><rect
+           id="rect4835"
+           width="565.85272"
+           height="132.60695"
+           x="114.14727"
+           y="607.96448" /></flowRegion><flowPara
+         id="flowPara4837"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4839"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,124.49162)"><flowRegion
+         id="flowRegion4841"><rect
+           id="rect4843"
+           width="722.85718"
+           height="102.85712"
+           x="122.85714"
+           y="792" /></flowRegion><flowPara
+         id="flowPara4845">facebook 1200x628px (1.91:1)</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-195.79173,124.49162)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4853"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4849"><rect
+           y="792"
+           x="122.85714"
+           height="102.85712"
+           width="722.85718"
+           id="rect4847" /></flowRegion><flowPara
+         id="flowPara4851">square (512x512px)</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-0.04134115,143.60182)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4893"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4889"><rect
+           y="792"
+           x="122.85714"
+           height="102.85712"
+           width="722.85718"
+           id="rect4887" /></flowRegion><flowPara
+         id="flowPara4891">twitter 1200x600px (2:1)</flowPara></flowRoot>    <rect
+       y="158.50011"
+       x="417.02209"
+       height="166.15833"
+       width="317.05768"
+       id="rect4993"
+       style="fill:#ffc400;stroke-width:0.60865909" />
+    <rect
+       inkscape:tile-y0="5.088866"
+       inkscape:tile-x0="5.4541013e-06"
+       inkscape:tile-h="1.0583332"
+       inkscape:tile-w="135.46665"
+       inkscape:tile-cy="5.6180327"
+       inkscape:tile-cx="67.733333"
+       y="171.60513"
+       x="417.46484"
+       height="1.2981119"
+       width="317.05768"
+       id="rect4995"
+       style="fill:#01579b;fill-opacity:1;stroke:none;stroke-width:0.11529077" />
+    <rect
+       style="fill:#00b8d4;fill-opacity:1;stroke:none;stroke-width:0.11529077"
+       id="use4997"
+       width="317.05768"
+       height="1.2981119"
+       x="417.46484"
+       y="174.20135"
+       inkscape:tile-x0="5.4541013e-06"
+       inkscape:tile-y0="5.088866" />
+    <rect
+       style="fill:#dd2c00;fill-opacity:1;stroke:none;stroke-width:0.11529077"
+       id="use4999"
+       width="317.05768"
+       height="1.2981119"
+       x="417.46484"
+       y="176.79759"
+       inkscape:tile-x0="5.4541013e-06"
+       inkscape:tile-y0="5.088866" />
+    <rect
+       style="fill:#607d8b;fill-opacity:1;stroke:none;stroke-width:0.11529077"
+       id="use5003"
+       width="317.05768"
+       height="1.2981119"
+       x="417.02252"
+       y="305.06281"
+       inkscape:tile-x0="5.4541013e-06"
+       inkscape:tile-y0="5.088866" />
+    <rect
+       style="fill:#afb42b;fill-opacity:1;stroke:none;stroke-width:0.11529077"
+       id="use5005"
+       width="317.05768"
+       height="1.2981119"
+       x="417.02252"
+       y="307.65903"
+       inkscape:tile-x0="5.4541013e-06"
+       inkscape:tile-y0="5.088866" />
+    <rect
+       style="fill:#3e2723;fill-opacity:1;stroke:none;stroke-width:0.11529077"
+       id="use5007"
+       width="317.05768"
+       height="1.2981119"
+       x="417.02252"
+       y="310.25528"
+       inkscape:tile-x0="5.4541013e-06"
+       inkscape:tile-y0="5.088866" />
+    <text
+       id="text5013"
+       y="239.17998"
+       x="451.23608"
+       style="font-style:normal;font-weight:normal;font-size:24.30403709px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.60760093;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';stroke-width:0.60760093;fill:#000000;"
+         y="239.17998"
+         x="451.23608"
+         id="tspan5011"
+         sodipodi:role="line">Carnatic Music Theory</tspan></text>
+    <flowRoot
+       transform="matrix(0.42917924,0,0,0.42917924,541.27502,68.007116)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#455a64;fill-opacity:1;stroke:none;"
+       id="flowRoot5021"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5017"
+         style="fill:#455a64;"><rect
+           y="419.06598"
+           x="81.822357"
+           height="188.89853"
+           width="766.70581"
+           id="rect5015"
+           style="fill:#455a64;" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, Bold';letter-spacing:1.52569342px;fill:#455a64;"
+         id="flowPara5019">Ananth Pattabiraman</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5049"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,161.53331)"><flowRegion
+         id="flowRegion5051"><rect
+           id="rect5053"
+           width="538.47278"
+           height="80.020721"
+           x="1572.0739"
+           y="675.37567" /></flowRegion><flowPara
+         id="flowPara5055">colouring by kannan</flowPara></flowRoot>  </g>
+</svg>
