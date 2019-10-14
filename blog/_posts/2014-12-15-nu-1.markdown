@@ -3,6 +3,7 @@ layout: post
 title: "#1"
 description: Music composition
 author: Ananth Pattabiraman
+tags: my-music
 redirect_from: "/blog/2014/12/nu-1/"
 ---
 

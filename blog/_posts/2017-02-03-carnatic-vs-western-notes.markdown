@@ -1,9 +1,10 @@
 ---
 layout: post
-author: Ananth Pattabiraman
 title: Carnatic Swarasthanas vs Western Notes
+author: Ananth Pattabiraman
 description: Deviation of Carnatic Swarasthanams from nearest Western Equal Tempered notes
 image: "/images/carnatic_vs_et.png"
+tags: swarasthanas music-theory carnatic kuyil-apps
 excerpt_separator: <!--more-->
 ---
 In an <a {{ site.new_tab }} href='{{ site.baseurl}}{% post_url blog/2016-11-02-ga3 %}'>earlier post</a>, we had demonstrated the difference between Carnatic Ga3 and its closest matching note on keyboards, the Major 3rd. It sparkled some discussion on <a {{ site.new_tab }} href='http://www.rasikas.org/forums/viewtopic.php?f=9&t=28292'>forums</a> and <a {{ site.new_tab }} href='https://www.facebook.com/kuyilorg/posts/343819562676883'>social media</a>, and some of the readers began to think that only Ga3 is different from what is on keyboards while other swarasthanas are ok.

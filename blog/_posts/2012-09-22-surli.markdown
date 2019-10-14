@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Su(r)li
-description: Su(r)li is my composition based on the etudes of carnatic music. It's an attempt to capture the mystical experience one gets when beginning to dwell deeper into music.
 author: Ananth Pattabiraman
+description: Su(r)li is my composition based on the etudes of carnatic music. It's an attempt to capture the mystical experience one gets when beginning to dwell deeper into music.
+tags: my-music
 redirect_from: "/blog/2012/09/347/"
 ---
 <div class="embed-responsive embed-responsive-16by9">

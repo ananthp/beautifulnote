@@ -1,7 +1,7 @@
 ---
 layout: post
-author: Ananth Pattabiraman
 title: Building up Swara Gnanam
+author: Ananth Pattabiraman
 description: Sadhakam Carnatic Swara Gnanam Practice has exercises to improve one's swara gnanam. This post describes various stages of aquiring swara gnanam using the app.
 excerpt_separator: <!--more-->
 image: "/images/sadhakam-answer-correct.png"
@@ -10,6 +10,7 @@ sadhakam_screenshots: [
              '/images/sadhakam-challenge.png',
              '/images/sadhakam-answer-correct.png',
              '/images/sadhakam-answer-wrong.png' ]
+tags: swara-gnanam swarasthanas music-practice carnatic kuyil-apps
 redirect_from: /blog/2017/07/13/sadhakam-building-up-swara-gyanam
 ---
 

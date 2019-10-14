@@ -1,9 +1,10 @@
 ---
 layout: post
-title: For the love of South Indian Music
+title: "Prof. Sambamurthy: For the love of South Indian Music"
 author: Ananth Pattabirman
 description: Write up on Professor P Sambamurthy's contributions to Carnatic music, and my very personal opinion about his writing style.
 image: "/images/prof-sambamurthy-books.jpg"
+tags: personalities resources music-theory carnatic
 excerpt_separator: <!--more-->
 ---
 

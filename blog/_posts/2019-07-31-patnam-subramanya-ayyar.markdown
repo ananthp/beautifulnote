@@ -2,6 +2,7 @@
 title: Patnam Subramanya Ayyar
 layout: post
 image: "/images/patnam_subramanya_ayyar.jpg"
+tags: personalities carnatic
 excerpt_separator: <!--more-->
 ---
 

@@ -2,6 +2,7 @@
 title: Carnatic Swarasthana Challenge No. 1
 layout: post
 image: "/images/swarasthana-challenge-001.png"
+tags: swarasthana-challenges swara-gnanam swarasthanas music-practice carnatic kuyil-apps
 excerpt_separator: <!--more-->
 ---
 

@@ -3,9 +3,9 @@ layout: post
 author: Ananth Pattabiraman
 title: Carnatic Notations Library
 image: "/images/kalaharana-snippet.png"
+tags: carnatic-notations resources carnatic
 redirect_from: "/blog/2010/11/carnatic_score_repository/"
 redirect_from: "/blog/2010/11/26/carnatic_score_repository/"
-
 excerpt_separator: <!--more-->
 --- 
 

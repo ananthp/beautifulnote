@@ -4,8 +4,9 @@ title: An Avant-Garde Tuesday
 description: Series of improvisations on guitar over a syncopated, chromatic bass-line. Jazzy. Atonal. Experimental.
 author: Ananth Pattabiraman
 image: "/images/ananth-avantgarde_tuesday-bass_preview.png"
-excerpt_seperator: <!--more-->
+tags: my-music
 redirect_from: "/blog/2010/09/avant-garde/"
+excerpt_seperator: <!--more-->
 --- 
 
 **An Avant-Garde Tuesday**, Composed and Performed by Ananth.
