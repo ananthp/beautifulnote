@@ -1,9 +1,10 @@
 ---
 layout: post
-author: Ananth Pattabiraman
 title: "Anthara Gandharam / Ga3"
+author: Ananth Pattabiraman
 description: "Peculiar characteristic of swaram Ga3"
 image: "/images/ga3.png"
+tags: swarasthanas music-theory carnatic kuyil-apps
 excerpt_separator: <!--more-->
 ---
 In carnatic music, Anthara Gandharam (Ga<sub>3</sub>) has a peculiar characteristic. It can be heard clearly even when we play just Sa on tambura. It is a *Swayambu Swaram*, comes alive automatically due to the wonderful acoustics of tambura. This phenomenon is fundamentally important for carnatic music.

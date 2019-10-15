@@ -2,6 +2,7 @@
 title: Prince Rama Varma on Swara Gnanam
 layout: post
 image: "/images/prince-rama-varma-on-swara-gnanam.png"
+tags: swara-gnanam swarasthanas music-practice personalities carnatic kuyil-apps
 
 class_col_app_logo: "col-xs-offset-4 col-xs-4 col-md-offset-0 col-md-1"
 class_col_app_text: "appinfo col-xs-12 col-md-6"

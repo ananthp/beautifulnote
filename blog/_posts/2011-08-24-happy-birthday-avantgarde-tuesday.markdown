@@ -3,6 +3,7 @@ layout: post
 title: Happy Birthday Avantgarde Tuesday!
 author: Ananth Pattabiraman
 image: /images/avantgardetuesday.png
+tags: my-music
 redirect_from: "/blog/2011/08/happy-birthday-avantgarde-tuesday/"
 ---
 

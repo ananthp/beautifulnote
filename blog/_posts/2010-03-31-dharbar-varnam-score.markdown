@@ -4,6 +4,7 @@ title: Staff Notation/Score for Dharbar Varnam
 author: Ananth Pattabiraman
 updated: 2018-12-05
 image: "/images/ananth-dharbar_varnam_page1.png" 
+tags: carnatic-western-notations carnatic
 excerpt_separator: <!--more-->
 redirect_from: "/blog/2010/03/dharbar-varnam-score/"
 ---

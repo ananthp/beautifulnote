@@ -3,6 +3,7 @@ title: "Notation: Paridhanamicchithe - Bilahari"
 layout: post
 image: "/images/sample-paridhanamicchithe.png"
 pdf: "/download/scores/paridhanamicchithe-bilahari.pdf"
+tags: carnatic-notations carnatic
 excerpt_separator: <!--more-->
 ---
 

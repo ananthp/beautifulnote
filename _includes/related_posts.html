@@ -1,0 +1,52 @@
+<div id="related-posts">
+    <div class='related-posts-heading' id='related-posts-heading'></div>
+    <ul class='related-posts'></ul>
+</div>
+
+<script>
+    const MAX_RELATED_POSTS = 3;
+
+    var related_posts = calculateRelatedPosts(MAX_RELATED_POSTS);
+    if (related_posts.length != 0) {
+        document.getElementById('related-posts').innerHTML = buildInnerHtml(related_posts);
+    }
+
+    function calculateRelatedPosts(maxRelatedPosts) {
+        var posts = [];
+        {% for post in site.posts %}
+            {% if post.url != page.url  %}
+                posts.push( {
+                    'title': "{{ post.title }}",
+                    'url' : "{{ post.url | absolute_url }}",
+                    'weight': calculate_weight({{ post.tags | jsonify }}, {{ page.tags | jsonify }}),
+                });
+            {% endif %}
+        {% endfor %}
+
+        return posts.sort(function(p1, p2) { return p2.weight - p1.weight; })
+                    .slice(0, maxRelatedPosts);
+    }
+
+    function calculate_weight(tags_to_weigh, reference_tags) {
+        return reference_tags.filter(t => tags_to_weigh.indexOf(t) != -1).length;
+    }
+
+    function buildInnerHtml(related_posts) {
+        var innerHtml = `
+            <hr />
+            <div class='related-posts-heading' id='related-posts-heading'>Related</div>
+            <ul class='related-posts'>
+        `;
+
+        for (related_post of related_posts) {
+            innerHtml += `
+                <li class='related-post'>
+                    <a href='${related_post.url}'>${related_post.title}</a>
+                </li>
+            `;
+        } 
+
+        innerHtml += '</ul>';
+        return innerHtml;
+    }
+</script>

@@ -5,9 +5,7 @@ description: "Carnatic Music Theory Books. Free PDF downloads."
 image: "/images/carnatic-music-theory-poster.png"
 author: Ananth Pattabiraman
 updated: Oct 2019
-
-redirect_from: "/blog/2010/04/carnatic-music-theory-download/"
-redirect_from: "/theory"
+tags: resources music-theory carnatic
 
 theory-year1: /download/carnatic_music_theory1.pdf
 theory-year2: /download/carnatic_music_theory2.pdf  
@@ -16,6 +14,8 @@ class_col_app_logo: "col-xs-offset-4 col-xs-4 col-md-offset-0 col-md-1"
 class_col_app_text: "appinfo col-xs-12 col-md-6"
 class_col_play_badge: "col-xs-offset-3 col-xs-6 col-md-offset-1 col-md-3"
 
+redirect_from: "/blog/2010/04/carnatic-music-theory-download/"
+redirect_from: "/theory"
 excerpt_separator: <!--more-->
 ---
 

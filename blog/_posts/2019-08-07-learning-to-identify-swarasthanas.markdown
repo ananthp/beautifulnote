@@ -2,6 +2,7 @@
 title: Learning to Identify Swarasthanas
 layout: post
 image: "/images/swara_gnanam.jpg"
+tags: swara-gnanam swarasthanas music-practice carnatic kuyil-apps
 excerpt_separator: <!--more-->
 ---
 

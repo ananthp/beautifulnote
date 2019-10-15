@@ -3,6 +3,7 @@ layout: post
 author: Ananth Pattabiraman
 description: Music composition
 title: Guitar Improvisation in Scale Sa-ra-gu-ma-pa-dhi-ni
+tags: my-music
 redirect_from: "/blog/2014/08/guitar-improvisation-in-scale-sa-ra-gu-ma-pa-dhi-ni/"
 ---
 

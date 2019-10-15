@@ -5,6 +5,7 @@ description: "Maha Ganapathim. Carnatic score in staff notation"
 author: Ananth Pattabiraman
 image: "/images/mahaganapathim-snippet.png"
 pdf: "/download/scores/mahaganapathim-naattai-eka-dikshitar.pdf" 
+tags: carnatic-western-notations carnatic
 redirect_from: "/blog/2010/07/score-mahaganapatim-kriti-naattai-eka-dikshitar/"
 ---
 
