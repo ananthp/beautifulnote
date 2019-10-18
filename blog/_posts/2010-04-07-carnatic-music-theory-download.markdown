@@ -19,7 +19,9 @@ redirect_from: "/theory"
 excerpt_separator: <!--more-->
 ---
 
-I've written these books on carnatic music theory, based on the syllabus framed by *Potti Sriramulu Telugu University*. Government music colleges in Telangana and Andhra Pradesh also follow the same syllabus. So, if you are a music student from one of the above mentioned colleges, or a private candiate preparing to appear for *Certificate in Music (Karnataka Sangeetham)* examinations, you'll find these books useful. These texts also serve as an easy-to-follow introduction to carnatic music theory for those who are generally interested in the system.
+Here are introductory books on carnatic music theory. I wrote these books as an easy-to-follow introduction, for people who are interested in this system of music.
+
+Written in English, this material is prepared for the syllabus framed by *Potti Sriramulu Telugu University*. Government music colleges in Telangana and Andhra Pradesh follow this syllabus. If you're a music student from these colleges or a private candidate, preparing for *Certificate in Music (Karnataka Sangeetham)* examinations, these books will be of great help.
 <!--more-->
 
 <em>These texts are updated and improved from time to time. You are encouraged to share the link to this page, or simply <a href="{{ site.url }}/theory">beautifulnote.com/theory</a> instead of sharing, hosting, or linking these pdf files directly.</em>
