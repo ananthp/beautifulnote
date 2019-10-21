@@ -1,8 +1,8 @@
 ---
-title: "Notation: Paridhanamicchithe - Bilahari"
+title: "Notation: Paridhanamicchithe - Bilahari - Patnam Subramanya Ayyar"
 layout: post
 image: "/images/sample-paridhanamicchithe.png"
-pdf: "/download/scores/paridhanamicchithe-bilahari.pdf"
+pdf: "/download/notations/paridhanamicchithe-bilahari.pdf"
 tags: carnatic-notations carnatic
 excerpt_separator: <!--more-->
 ---
@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 * **Kriti**: *Paridhanamicchithe Palimthuvemo*
 * **Ragam**: Bilahari
 * **Thalam**: Kanda Chapu
-* **Composer**: Patnam Subramaya Ayyar
+* **Composer**: Patnam Subramanya Ayyar
 
 <script type="application/ld+json">
 {
@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
   "author": "Ananth Pattabiraman",
   "ContentUrl": "{{ page.image | absolute_url }}",
   "InLanguage": "English",
-  "name": "Preview of music score Paridhanamicchithe",
+  "name": "Preview of Carnatic music score Paridhanamicchithe",
   "isFamilyFriendly": true,
   "keywords": [ "Carnatic Music", "Music Score", "Notation", "Composition" ]
 }
@@ -45,4 +45,6 @@ excerpt_separator: <!--more-->
   "keywords": [ "Carnatic Music", "Music Score", "Notation", "Composition", "Bilahari", "Patnam Subramanya Ayyar" ]
 }
 </script>
-<a {{ site.new_tab }} href='{{ page.pdf }}'>Download Notation (PDF)</a>
+
+{% include note-sharing-notations.html %}
+<a {{ site.new_tab }} href='{{ page.pdf }}'><button type="button" class="btn btn-primary">Download</button></a>
