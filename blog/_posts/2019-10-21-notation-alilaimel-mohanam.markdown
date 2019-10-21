@@ -40,7 +40,7 @@ excerpt_separator: <!--more-->
   "@type": "DigitalDocument",
   "name": "Notation of Alilaimel in Mohanam ragam",
   "author": "Ananth Pattabiraman",
-  "ContentUrl": "{{ page.pdf | absolute_url }}",
+  "url": "{{ page.pdf | absolute_url }}",
   "InLanguage": "English",
   "isFamilyFriendly": true,
   "keywords": [ "Carnatic Music", "Music Score", "Notation", "Composition", "Mohanam", "Tiger K Varadhachari"]

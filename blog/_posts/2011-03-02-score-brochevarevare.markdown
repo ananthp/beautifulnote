@@ -38,7 +38,7 @@ redirect_from: "/blog/2011/03/score-brochevarevare-kriti-sriranjani-adi-tyagaraj
   "@type": "DigitalDocument",
   "name": "Notation of Paridhanamicchithe in Bilahari ragam",
   "author": "Ananth Pattabiraman",
-  "ContentUrl": "{{ page.pdf | absolute_url }}",
+  "url": "{{ page.pdf | absolute_url }}",
   "InLanguage": "English",
   "isFamilyFriendly": true,
   "keywords": [ "Carnatic Music", "Music Score", "Notation", "Composition", "Bilahari", "Patnam Subramanya Ayyar" ]

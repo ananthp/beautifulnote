@@ -17,7 +17,7 @@ redirect_from: "/blog/2010/07/score-mahaganapatim-kriti-naattai-eka-dikshitar/"
   "@type": "DigitalDocument",
   "name": "Music score of Mahaganapathim, Nata ragam",
   "author": "Ananth Pattabiraman",
-  "ContentUrl": "{{ page.pdf | absolute_url }}",
+  "url": "{{ page.pdf | absolute_url }}",
   "InLanguage": "English",
   "isFamilyFriendly": true,
   "keywords": [ "Carnatic Music", "Music Score", "Notation", "Composition", "Maha Ganapathim", "Dikshitar" ]
