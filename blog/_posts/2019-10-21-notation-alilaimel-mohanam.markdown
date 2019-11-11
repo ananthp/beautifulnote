@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 * **Varnam**: *Alilaimel Kan Valarndha*
 * **Ragam**: Mohanam
 * **Thalam**: Adi
-* **Composer**: Tiger K Varadhachari
+* **Composer**: "Tiger" K Varadhachari
 * **Sahityam**: M Arunachalam Pillai
 
 <script type="application/ld+json">
