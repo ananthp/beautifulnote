@@ -1,19 +1,17 @@
 ---
+title: "Notation: Alilaimel - Mohanam - Tiger Varadhachari"
 layout: post
-title: "Notation: Brochevarevare - Sriranjani - Tyagaraja"
-description: "Music score for the Telugu kriti in Sriranjani Ragam. Traditional carnatic notation, written in English"
-author: Ananth Pattabiraman
-image: "/images/sample-brochevarevare.png"
-pdf: "/download/notations/brochevarevare-sriranjani-adi-tyagaraja.pdf"
+image: "/images/sample-notation-alilaimel.png"
+pdf: "/download/notations/alilaimel_varnam-mohanam-adi-tiger_varadhachari.pdf"
 tags: carnatic-notations carnatic
 excerpt_separator: <!--more-->
-redirect_from: "/blog/2011/03/score-brochevarevare-kriti-sriranjani-adi-tyagaraja/"
 ---
 
-* **Kriti**: *Brochevarevare*
-* **Ragam**: Sriranjani
+* **Varnam**: *Alilaimel Kan Valarndha*
+* **Ragam**: Mohanam
 * **Thalam**: Adi
-* **Composer**: Saint Tyagaraja 
+* **Composer**: "Tiger" K Varadhachari
+* **Sahityam**: M Arunachalam Pillai
 
 <script type="application/ld+json">
 {
@@ -22,28 +20,34 @@ redirect_from: "/blog/2011/03/score-brochevarevare-kriti-sriranjani-adi-tyagaraj
   "author": "Ananth Pattabiraman",
   "ContentUrl": "{{ page.image | absolute_url }}",
   "InLanguage": "English",
-  "name": "Preview of music score Brochevarevare in Sriranjani",
+  "name": "Preview of Carnatic music score Alilaimel",
   "isFamilyFriendly": true,
   "keywords": [ "Carnatic Music", "Music Score", "Notation", "Composition" ]
 }
 </script>
-
-<img class="img-fluid" src="{{ page.image | absolute_url }}" alt="Music score sample: Brochevarevare" />
+<div class="embed-responsive-16by9 pb-3">
+    <img 
+        class="img-fluid"
+        src="{{ page.image }}"
+        alt="Alilaimel (music notation sample)"
+    />
+</div>
 
 <!--more-->
-
 <script type="application/ld+json">
 {
   "@context": "http://schema.org/",
   "@type": "DigitalDocument",
-  "name": "Notation of Paridhanamicchithe in Bilahari ragam",
+  "name": "Notation of Alilaimel in Mohanam ragam",
   "author": "Ananth Pattabiraman",
   "url": "{{ page.pdf | absolute_url }}",
   "InLanguage": "English",
   "isFamilyFriendly": true,
-  "keywords": [ "Carnatic Music", "Music Score", "Notation", "Composition", "Bilahari", "Patnam Subramanya Ayyar" ]
+  "keywords": [ "Carnatic Music", "Music Score", "Notation", "Composition", "Mohanam", "Tiger K Varadhachari"]
 }
 </script>
 
 {% include note-sharing-notations.html %}
 <a {{ site.new_tab }} href='{{ page.pdf }}'><button type="button" class="btn btn-primary">Download</button></a>
+
+This notation is based on the book *Tamizh Geetha Varnangal* published by Annamalai University in 1953.
