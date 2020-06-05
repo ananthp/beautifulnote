@@ -54,7 +54,7 @@ You may have noticed that it's difficult to switch between swarasthanams. Also, 
 </script>
 
 <div class="row justify-content-center pb-3">
-  <div class="col-sm col-md-4">
+  <div class="col-sm col-md-6">
     <img 
         class="img-fluid"
         src="{{ page.image }}"
