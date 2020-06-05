@@ -1,0 +1,64 @@
+---
+title: "Carnatic Swaram: Ri"
+layout: post
+image: "/images/screenshot-sadhakam-sr-exercise-marked.png"
+tags: carnatic carnatic-swarams
+excerpt_separator: <!--more-->
+---
+
+In Carnatic music there are seven musical notes, the *Sapta Swaras*, namely *Sa, Ri, Ga, Ma, Pa, Dha and Ni*. In this series we'll take a look at each of these swarams, the pitch positions they take (*swara sthanam*s), and the relationships between them.
+
+The first swaram, *Sa*, is of great importance. It will be dealt in detail in another post. This post is about *Ri*, and for now it's suffice to know that all swarams fall in place based on the position of *Sa*. 
+
+*Rishabam* is the second swaram in our sequence, which we abbreviate to *Ri* or simply *r* in music notations. Note that *Ri* is right next to <!--more--> *Sa* in the sapta swaras sequence, so it has a pitch higher than *Sa* but pretty close to it. But what is the exact pitch of Ri? For that we have to understand *swara sthanams*
+
+## Swara Sthanams
+
+Each swaram in the sapta swarams list can be placed a certain number of *pitch position*s. That is, when you say *Ri*, it can be one of the pitch positions that *Ri* can be in. These pitch positions are called *swara sthana*s. Some swarams have only one swara sthanam, others may have more than one.
+
+*Ri* happens to have three swarasthanams. These are three consecutive pitches.
+
+The first pitch positon or *swara sthanam* that Ri can be placed is just a little higher in pitch than *Sa*. When you sing *Ri* at this pitch, it is called *Suddha* Rishabam, or shortly, *Ri1*. You sing Suddha Rishabam in ragas like *Mayamalava gowla* and *Saveri*.
+
+The second swarasthanam of Ri is one step higher than *Suddha Rishabam*, it's called *Chatushruti Rishabam* (*Ri2*). It occurs in ragas like *Mohanam*, *Sankarabaranam*, and *Kalyani*.
+
+*Shatshruti Rishabam* (*Ri3*) is one more step higher. *Nata* is a popular ragam which has this swarasthanam.
+
+It will help to visualize that *Ri1* is on top of *Sa*, and *Ri2* is on top of *Ri1*, and finally *Ri3* is on top of *Ri3*.
+
+## Learning Activities:
+
+Understanding the theoretical aspects is one thing, mastering the practical aspects is another. If you are a music student, you should learn to sing or play these swarasthanams accurately. You also need to learn to identify the swarams you hear.
+
+Checkout <a {{ site.new_tab }} href="{{ site.shruti_app_link }}">Shruti Carnatic Tuner</a> (Android app). It detects the swarams you sing or play on instrument, and shows the accuracy. It also plays reference sounds of swarasthanams to help you to align yourself to the swarasthanams better. Activities with Shruti Carnatic Tuner:
+
+* Listen to Ri1, Ri2, and Ri3 swarasthanams. Sing along. Are you able to hear the difference?
+* Stop the reference sound and sing Ri1, Ri2 and Ri3 swarasthanams. Are you able to sing them perfectly?
+* If you play an instrument, play the three swarasthanms of Rishabam. Are you able to play them accurately?
+
+You may have noticed that it's difficult to switch between swarasthanams. Also, to beginners, all swarams sound the same; it requires some practice to know the difference between them.
+
+<a {{ site.new_tab }} href="{{ site.sadhakam_app_link }}">Sadhakam</a> (Android app) helps you to improve your *swara gnanam*, so you just know the swaram and swarasthanam when you hear a sound. To master this swaram Ri, do the first activity in Level 1 on Sadhakam, which works out the three swarasthanams of Ri.
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "ImageObject",
+  "author": "Ananth Pattabiraman",
+  "ContentUrl": "{{ page.image | absolute_url }}",
+  "InLanguage": "English",
+  "name": "Screenshot of Sadhakam app showing exercise Sa-Ri",
+  "isFamilyFriendly": true,
+  "keywords": [ "Carnatic Music", "Ear Training", "Sadhakam", "Music Practice" ]
+}
+</script>
+
+<div class="row justify-content-center pb-3">
+  <div class="col-sm col-md-4">
+    <img 
+        class="img-fluid"
+        src="{{ page.image }}"
+        alt="Alilaimel (music notation sample)"
+    />
+  </div>
+</div>
