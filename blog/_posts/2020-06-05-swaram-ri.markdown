@@ -1,7 +1,8 @@
 ---
 title: "Carnatic Swaram: Ri"
 layout: post
-image: "/images/screenshot-sadhakam-sr-exercise-marked.png"
+image: "/images/swarasthanas-ri.png"
+screenshot_sadhakam_exercise: "/images/screenshot-sadhakam-sr-exercise-marked.png"
 tags: carnatic carnatic-swarams
 excerpt_separator: <!--more-->
 ---
@@ -25,6 +26,28 @@ The second swarasthanam of *Ri* is one step higher than *Suddha Rishabam*. It's 
 *Shatshruti Rishabam* (*Ri3*) is one more step higher. *Nata* is a popular ragam which has this swarasthanam.
 
 It will help if you visualize *Ri1* on top of *Sa*, then *Ri2* on top of *Ri1*, and finally *Ri3* on top of *Ri2*.
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "ImageObject",
+  "author": "Ananth Pattabiraman",
+  "ContentUrl": "{{ page.image | absolute_url }}",
+  "InLanguage": "English",
+  "name": "Pitch positions of Rishabam swarasthanams with respect to Shadjam",
+  "isFamilyFriendly": true,
+  "keywords": [ "Carnatic Music", "music theory", "swarams", "swarasthanams" ]
+}
+</script>
+<div class="row justify-content-center pb-3">
+  <div class="col">
+    <img
+        class="img-fluid"
+        src="{{ page.image }}"
+        alt="Rishabam swarasthanams with respect to Shadjam"
+    />
+  </div>
+</div>
 
 ## Mastering
 
@@ -55,20 +78,19 @@ You may have noticed that it's difficult to switch between swarasthanams. Also, 
   "@context": "http://schema.org/",
   "@type": "ImageObject",
   "author": "Ananth Pattabiraman",
-  "ContentUrl": "{{ page.image | absolute_url }}",
+  "ContentUrl": "{{ page.screenshot_sadhakam_exercise | absolute_url }}",
   "InLanguage": "English",
   "name": "Screenshot of Sadhakam app showing exercise Sa-Ri",
   "isFamilyFriendly": true,
   "keywords": [ "Carnatic Music", "Ear Training", "Sadhakam", "Music Practice" ]
 }
 </script>
-
 <div class="row justify-content-center pb-3">
   <div class="col-sm col-md-6">
     <img 
         class="img-fluid"
-        src="{{ page.image }}"
-        alt="Alilaimel (music notation sample)"
+        src="{{ page.screenshot_sadhakam_exercise }}"
+        alt="Sa-Ri exercise in Sadhakam"
     />
   </div>
 </div>
