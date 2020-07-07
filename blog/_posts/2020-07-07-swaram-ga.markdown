@@ -1,0 +1,98 @@
+---
+title: "Carnatic Swaram: Ga"
+layout: post
+image: "/images/swarasthanas-ga.png"
+screenshot_sadhakam_exercise: "/images/screenshot-sadhakam-sg-exercise-marked.png"
+tags: carnatic carnatic-swarams
+excerpt_separator: <!--more-->
+---
+
+This is a series on *Sapta Swaras*, the seven musical notes of Carnatic music. We discussed about <a {{ site.new_tab }} href="{% post_url blog/2020-06-05-swaram-ri %}">swaram <em>Ri</em></a> in the previous post. Now let's explore the next swaram *Ga*.
+
+*Gandharam* is the third swaram of *Sapta Swaras*. It's shortened as *Ga* while uttering the note in a *Swara Kalpana*, or while talking about the swaram informally. It can also be shortened further as simply *g* in music notations.
+
+## Swara Sthanams
+
+In the last post we learned about the three swarasthanams of *Ri*.  Similarly, *Ga* also has three distinct swarasthanams. They are:
+
+<!--more-->
+
+* *Suddha* Gandharam (Ga1)
+* *Sadharana* Gandharam (Ga2)
+* *Anthara* Gandharam (Ga3)
+
+These are three consecutive pitches. The first, *Suddha Gandharam*, or *Ga1* for short, is the lowest pitch among the three. You won't hear *Suddha Gandharam* very often in concerts. The reason for this will be clear once we learn about the concept of *Vivadi* swarams. That said, *Ganamurthy* is a popular ragam which has *Ga1*.
+
+One step higher, there is *Sadharana Gandharam* or *Ga2*. This appears in so many well known ragams such as *Thodi*, *Kharaharapriya*, and *Hindolam*. So, next time you enjoy a rendition of *Samaja vara gamana*, remember that it has *Sadharana Gandharam*.
+
+A special aspect of *Sadharana* Gandharam is, it is seldom played or sung as a plain, steady pitch. It's almost always rendered with *Gamakams*. Gamakams are various glides, oscillations and other ornamental techniques used to beautify music. *Sadharana Gandharam* yields itself to be beautified in so many ways.
+
+*Anthara* Gandharam lays one step above *Sadharana* Gandharam. *Sankarabaranam*, *Mohanam* and *Kalyani* are some of the very popular ragams that have *Anthara Gandharam*. It sounds majestic when rendered plain and steady; it can also be decorated with some gamakams.
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "ImageObject",
+  "author": "Ananth Pattabiraman",
+  "ContentUrl": "{{ page.image | absolute_url }}",
+  "InLanguage": "English",
+  "name": "Pitch positions of Gandharam swarasthanams with respect to Shadjam",
+  "isFamilyFriendly": true,
+  "keywords": [ "Carnatic Music", "music theory", "swarams", "swarasthanams" ]
+}
+</script>
+<div class="row justify-content-center pb-3">
+  <div class="col">
+    <img
+        class="img-fluid"
+        src="{{ page.image }}"
+        alt="Gandharam swarasthanams with respect to Shadjam"
+    />
+  </div>
+</div>
+
+## Mastering
+
+Now that we know about the three swarastahanms of Gandharam, we can do some practice to master these swarasthanams. First, we should remember that the swarastahanams are based on *Sa*. If we take *Ga1*, it is at a certain *distance* from *Sa*. *Ga2* is at a distance slighly longer than *Ga1*'s distance from Sa. Among the *Ga*s, *Anthara Gandharam* is the farthest away from Sa. We should practice these swarasthanams with the help of Sa.
+
+Alighing ourselves to Sa, (I promise I'll go into detail about *Sa* in a later post), we should learn to sing *Ga1*, *Ga2*, and *Ga3*. We should be able to sing these swarasthanams at will, in any order.
+
+Similarly, we should also be able to listen to a sound and tell whether it is *Ga1* or *Ga2* or *Ga3* for not a *Ga* at all.
+
+*Sadharana Gandharam* is so often bent, oscillated, twisted and decorated that, most students don't know how to sing (or play it accurately) without any *Gamakam*. This should be considered as a defect. Plain pitch positions of swarasthanams are foundational. They are the basis upon which gamakams are formed. So, every student should master these pitch positions.
+
+## Learning Activities
+
+<a {{ site.new_tab }} href="{{ site.shruti_app_link }}">Shruti Carnatic Tuner</a> (Android app) detects the swarams you sing or play on instrument. It even shows your accuracy. It can also play reference sounds of swarasthanams to help you to align yourself to the swarasthanams better.
+
+The following are the activities you can do with Shruti Carnatic Tuner to master *Ga*:
+
+* Listen to *Ga1*, *Ga2*, and *Ga3* swarasthanams. Sing along. Are you able to hear the difference?
+* Stop the reference sound and sing *Ga1*, *Ga2* and *Ga3* swarasthanams. Are you able to sing them perfectly?
+* If you play an instrument, play the three swarasthanams of Gandharam. Are you able to play them accurately?
+
+You may have noticed that it's difficult to switch between swarasthanams. Also, to beginners, all swarams sound the same; it requires some practice to know the difference between them.
+
+<a {{ site.new_tab }} href="{{ site.sadhakam_app_link }}">Sadhakam</a> (Android app) helps you to improve your *swara gnanam*, so you just know the swaram and swarasthanam when you hear a sound. Do the second activity on Level 1 on Sadhakam, which works out the three swarasthanams of *Ga*.
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "ImageObject",
+  "author": "Ananth Pattabiraman",
+  "ContentUrl": "{{ page.screenshot_sadhakam_exercise | absolute_url }}",
+  "InLanguage": "English",
+  "name": "Screenshot of Sadhakam app showing exercise Sa-Ga",
+  "isFamilyFriendly": true,
+  "keywords": [ "Carnatic Music", "Ear Training", "Sadhakam", "Music Practice" ]
+}
+</script>
+<div class="row justify-content-center pb-3">
+  <div class="col-sm col-md-6">
+    <img 
+        class="img-fluid"
+        src="{{ page.screenshot_sadhakam_exercise }}"
+        alt="Sa-Ga exercise in Sadhakam"
+    />
+  </div>
+</div>

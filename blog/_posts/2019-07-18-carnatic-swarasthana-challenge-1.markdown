@@ -27,7 +27,7 @@ If you are fuzzy about Carnatic swarasthana numbering, read <a {{ site.new_tab }
 
 <div class='collapse' id='answer-div'>
   <div class='card card-body'>
-    <p>The sequence you heard is <i>Sa <i>Ri</i><sub>3</sub> <i>Ga</i><sub>3</sub></i>. That is, <i>Shadjam</i> - <i>Shatshruti <i>Ri</i>shabam</i> - <i>Anthara Ghandharam</i>.</p>
+    <p>The sequence you heard is <i>Sa <i>Ri</i><sub>3</sub> <i>Ga</i><sub>3</sub></i>. That is, <i>Shadjam</i> - <i>Shatshruti <i>Ri</i>shabam</i> - <i>Anthara Gandharam</i>.</p>
     <p class='no-trailing-space'>This combination popularly occurs in <i>Nata Ragam</i>.</p>
   </div>
 </div>
